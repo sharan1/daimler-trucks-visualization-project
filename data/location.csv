@@ -1,0 +1,3371 @@
+TS_LOAD,SYS_DESC,VEH_SER_NO,OPR_NAME
+6-Mar-17,Paint Inspection,TPD286,PAINT
+6-Mar-17,STVMS Tracking Top Station,SLP187,Top Station
+6-Mar-17,STVMS Tracking Top Station,SGN329,Top Station
+6-Mar-17,Assembly Line Tracker,SGN329,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,SLP187,Pool 60 Start
+6-Mar-17,Cab call scan,TGJ401,A Line
+6-Mar-17,Cab Conveyer,TFU306,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,TFU306,Cab Upload
+6-Mar-17,OMT Offline Tracking,EMV512,Enter Offline
+6-Mar-17,OMT Offline Tracking,EMV512,Sold
+6-Mar-17,Paint Inspection,KQN543,PAINT
+6-Mar-17,Cab Conveyer,LNY482,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,LNY482,Cab Upload
+6-Mar-17,U-BOLT,QVS392,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,SLP187,Enter Offline
+6-Mar-17,Hood Conveyor,QFW209,Hood Upload
+6-Mar-17,U-BOLT,EJO928,Front U-Bolt
+6-Mar-17,Cab Conveyer,CNZ205,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,CNZ205,Cab Upload
+6-Mar-17,Assembly Line Tracker,QFW209,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,PRA475,Pool 13 Start
+6-Mar-17,STVMS Tracking Chassis Start,PRA475,Chassis Start
+6-Mar-17,Hood Conveyor,SZP362,Hood Upload
+6-Mar-17,Cab in white conveyer,NUX358,CIW upload
+6-Mar-17,U-BOLT,HMJ710,Front U-Bolt
+6-Mar-17,Paint Inspection,OWH831,PAINT
+6-Mar-17,Paint Inspection,SVP127,PAINT
+6-Mar-17,Cab Conveyer,MQH836,Cab Upload 2
+6-Mar-17,STVMS Tracking Chassis Start,ZDI213,Chassis Start
+6-Mar-17,Assembly Line Tracker,ALE837,Pool 13 Start
+6-Mar-17,Hood Conveyor,CJQ075,Hood Upload
+6-Mar-17,U-BOLT,MHU637,Rear U-Bolt
+6-Mar-17,Cab Conveyer,XWK825,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,XWK825,Cab Upload
+6-Mar-17,U-BOLT,MHU637,Front U-Bolt
+6-Mar-17,Cab call scan,JBQ468,A Line
+6-Mar-17,Paint Inspection,KMA503,PAINT
+6-Mar-17,STVMS Tracking Chassis Start,ALE837,Chassis Start
+6-Mar-17,Assembly Line Tracker,KMA503,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,WQB451,Pool 13 Start
+6-Mar-17,6-Mar-17,EQD264,CIW upload
+6-Mar-17,Hood Conveyor,RQJ940,Hood Upload
+6-Mar-17,Cab Conveyor / Monorail,RAI572,Cab Upload
+6-Mar-17,Paint Inspection,CSV482,PAINT
+6-Mar-17,STVMS Tracking Top Station,VCM016,Top Station
+6-Mar-17,STVMS Tracking Chassis Start,IOU412,Chassis Start
+6-Mar-17,OMT Offline Tracking,WQB451,Enter Offline
+6-Mar-17,Cab call scan,EZQ530,A Line
+6-Mar-17,Assembly Line Tracker,VCM016,Pool 60 Start
+6-Mar-17,U-BOLT,PVZ436,Rear U-Bolt
+6-Mar-17,Cab in white conveyer,IVC016,CIW upload
+6-Mar-17,Paint Inspection,YZU059,PAINT
+6-Mar-17,STVMS Tracking Chassis Start,FHU982,Chassis Start
+6-Mar-17,OMT Offline Tracking,ZDI213,Enter Offline
+6-Mar-17,U-BOLT,JKZ317,Rear U-Bolt
+6-Mar-17,OMT Offline Tracking,KSX968,Enter Offline
+6-Mar-17,Cab Call Scan,EQD264,B Line
+6-Mar-17,Cab call scan,ADQ781,A Line
+6-Mar-17,Assembly Line Tracker,JIN079,Pool 13 Start
+6-Mar-17,U-BOLT,ILA012,Rear U-Bolt
+6-Mar-17,Cab in white conveyer,YIZ291,CIW upload
+6-Mar-17,Cab Conveyer,QRM025,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,QRM025,Cab Upload
+6-Mar-17,Paint Inspection,GTO457,PAINT
+6-Mar-17,OMT Offline Tracking,ALE837,Enter Offline
+6-Mar-17,Hood Conveyor,GTO457,Hood Upload
+6-Mar-17,OMT Offline Tracking,YCR723,Sold
+6-Mar-17,OMT Offline Tracking,YCR723,Enter Offline
+6-Mar-17,U-BOLT,FQP941,Front U-Bolt
+6-Mar-17,Cab Conveyer,EVB234,Cab Upload 2
+6-Mar-17,Cab Call Scan,EZV240,B Line
+6-Mar-17,Paint Inspection,JZP143,PAINT
+6-Mar-17,Cab Conveyer,IMS267,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,IMS267,Cab Upload
+6-Mar-17,U-BOLT,LES327,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,JIN079,Sold
+6-Mar-17,U-BOLT,RUK258,Front U-Bolt
+6-Mar-17,Paint Inspection,TJG894,PAINT
+6-Mar-17,Cab call scan,HTV792,A Line
+6-Mar-17,STVMS Tracking Chassis Start,GIL947,Chassis Start
+6-Mar-17,Cab Conveyer,KIA624,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,KIA624,Cab Upload
+6-Mar-17,Paint Inspection,FHL296,PAINT
+6-Mar-17,Paint Inspection,GWE561,PAINT
+6-Mar-17,Hood Conveyor,PJL425,Hood Upload
+6-Mar-17,Assembly Line Tracker,ZKY831,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,VFR160,Pool 13 Start
+6-Mar-17,Hood Conveyor,CMI143,Hood Upload
+6-Mar-17,U-BOLT,UWT728,Front U-Bolt
+6-Mar-17,Paint Inspection,DPH631,PAINT
+6-Mar-17,U-BOLT,UWT728,Rear U-Bolt
+6-Mar-17,Cab Conveyer,YGL283,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,YGL283,Cab Upload
+6-Mar-17,OMT Offline Tracking,YDL247,Enter Offline
+6-Mar-17,OMT Offline Tracking,RQJ940,Enter Offline
+6-Mar-17,Cab in white conveyer,CNE620,CIW upload
+6-Mar-17,Cab in white conveyer,CRN086,CIW upload
+6-Mar-17,Assembly Line Tracker,AYO527,Pool 13 Start
+6-Mar-17,Cab Conveyer,RHX208,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,RHX208,Cab Upload
+6-Mar-17,Hood Conveyor,IOU412,Hood Upload
+6-Mar-17,STVMS Tracking Chassis Start,VFR160,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,ZKY831,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,AYO527,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,KNR831,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,SYV137,Chassis Start
+6-Mar-17,Cab Call Scan,GDR742,B Line
+6-Mar-17,Paint Inspection,SPI314,PAINT
+6-Mar-17,Cab in white conveyer,CNE620,CIW upload
+6-Mar-17,STVMS Tracking Top Station,ZKY831,Top Station
+6-Mar-17,STVMS Tracking Top Station,AYO527,Top Station
+6-Mar-17,U-BOLT,ICB356,Rear U-Bolt
+6-Mar-17,Assembly Line Tracker,AYO527,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,ZKY831,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,SYV137,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,KNR831,Pool 13 Start
+6-Mar-17,STVMS Tracking Top Station,KNR831,Top Station
+6-Mar-17,Assembly Line Tracker,KNR831,Pool 60 Start
+6-Mar-17,Hood Conveyor,FHU982,Hood Upload
+6-Mar-17,STVMS Tracking Chassis Start,ZVI392,Chassis Start
+6-Mar-17,Cab Conveyer,WRT608,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,WRT608,Cab Upload
+6-Mar-17,Cab in white conveyer,DAJ581,CIW upload
+6-Mar-17,Cab Call Scan,RAI572,B Line
+6-Mar-17,OMT Offline Tracking,JCM567,Enter Offline
+6-Mar-17,OMT Offline Tracking,JCM567,Sold
+6-Mar-17,Paint Inspection,MPO083,PAINT
+6-Mar-17,Cab call scan,SPA495,A Line
+6-Mar-17,U-BOLT,MPE786,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,GFM783,Enter Offline
+6-Mar-17,Hood Conveyor,YCR723,Hood Upload
+6-Mar-17,Cab in white conveyer,MTV391,CIW upload
+6-Mar-17,STVMS Tracking Top Station,SYV137,Top Station
+6-Mar-17,Cab Conveyer,NUX358,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,NUX358,Cab Upload
+6-Mar-17,Paint Inspection,AGU058,PAINT
+6-Mar-17,U-BOLT,JBC439,Front U-Bolt
+6-Mar-17,Assembly Line Tracker,SYV137,Pool 60 Start
+6-Mar-17,U-BOLT,JBC439,Rear U-Bolt
+6-Mar-17,OMT Offline Tracking,TMZ629,Enter Offline
+6-Mar-17,STVMS Tracking Chassis Start,LGO801,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,FTI824,Chassis Start
+6-Mar-17,Paint Inspection,QZH295,PAINT
+6-Mar-17,Hood Conveyor,EBL860,Hood Upload
+6-Mar-17,OMT Offline Tracking,EUZ386,Enter Offline
+6-Mar-17,U-BOLT,GSF615,Rear U-Bolt
+6-Mar-17,Cab Call Scan,YAP829,B Line
+6-Mar-17,Cab in white conveyer,PVO367,CIW upload
+6-Mar-17,Hood Conveyor,AHN391,Hood Upload
+6-Mar-17,Cab call scan,LTV094,A Line
+6-Mar-17,STVMS Tracking Chassis Start,VCM016,Chassis Start
+6-Mar-17,Hood Conveyor,KFN372,Hood Upload
+6-Mar-17,STVMS Tracking Top Station,LGO801,Top Station
+6-Mar-17,U-BOLT,OWH831,Front U-Bolt
+6-Mar-17,Cab Conveyer,BIP389,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,BIP389,Cab Upload
+6-Mar-17,Cab in white conveyer,JCV863,CIW upload
+6-Mar-17,Assembly Line Tracker,LGO801,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,LGO801,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,ZVI392,Pool 13 Start
+6-Mar-17,STVMS Tracking Chassis Start,PJL425,Chassis Start
+6-Mar-17,Hood Conveyor,DPH631,Hood Upload
+6-Mar-17,OMT Offline Tracking,SNI285,Enter Offline
+6-Mar-17,Paint Inspection,SEK173,PAINT
+6-Mar-17,OMT Offline Tracking,PMN417,Enter Offline
+6-Mar-17,Cab in white conveyer,DRY562,CIW upload
+6-Mar-17,Assembly Line Tracker,FTI824,Pool 13 Start
+6-Mar-17,Cab call scan,ZIQ738,A Line
+6-Mar-17,U-BOLT,QPC953,Rear U-Bolt
+6-Mar-17,Hood Conveyor,MPO083,Hood Upload
+6-Mar-17,U-BOLT,QPC953,Front U-Bolt
+6-Mar-17,Cab Conveyer,SPA495,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,SPA495,Cab Upload
+6-Mar-17,Cab Conveyer,GDR742,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,GDR742,Cab Upload
+6-Mar-17,Paint Inspection,TRJ645,PAINT
+6-Mar-17,STVMS Tracking Chassis Start,CMI143,Chassis Start
+6-Mar-17,Assembly Line Tracker,VCM016,Pool 13 Start
+6-Mar-17,Hood Conveyor,LER634,Hood Upload
+6-Mar-17,Cab Call Scan,THO850,B Line
+6-Mar-17,Cab Call Scan,ARS065,B Line
+6-Mar-17,U-BOLT,SYA283,Front U-Bolt
+6-Mar-17,U-BOLT,SYA283,Rear U-Bolt
+6-Mar-17,Assembly Line Tracker,PJL425,Pool 13 Start
+6-Mar-17,Hood Conveyor,SPI314,Hood Upload
+6-Mar-17,Cab Conveyer,RAI572,Cab Upload 2
+6-Mar-17,Assembly Line Tracker,FTI653,Pool 13 Start
+6-Mar-17,U-BOLT,GJK683,Rear U-Bolt
+6-Mar-17,U-BOLT,HMS840,Front U-Bolt
+6-Mar-17,Cab Conveyer,DPH631,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,DPH631,Cab Upload
+6-Mar-17,Hood Conveyor,XSZ543,Hood Upload
+6-Mar-17,Cab Conveyer,KFN372,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,KFN372,Cab Upload
+6-Mar-17,Cab call scan,SEK173,A Line
+6-Mar-17,Cab Conveyer,MPO083,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,MPO083,Cab Upload
+6-Mar-17,Paint Inspection,PWR481,PAINT
+6-Mar-17,Hood Conveyor,PWR481,Hood Upload
+6-Mar-17,Paint Inspection,JIN079,PAINT
+6-Mar-17,Cab in white conveyer,VQP946,CIW upload
+6-Mar-17,U-BOLT,RBT219,Front U-Bolt
+6-Mar-17,Cab Conveyer,LER634,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,LER634,Cab Upload
+6-Mar-17,Paint Inspection,XGC043,PAINT
+6-Mar-17,Cab Call Scan,CSV482,B Line
+6-Mar-17,OMT Offline Tracking,PVZ436,Enter Offline
+6-Mar-17,Cab in white conveyer,LFW513,CIW upload
+6-Mar-17,Cab call scan,TRJ645,A Line
+6-Mar-17,OMT Offline Tracking,SYA283,Enter Offline
+6-Mar-17,U-BOLT,YXF326,Front U-Bolt
+6-Mar-17,Hood Conveyor,XGC043,Hood Upload
+6-Mar-17,Paint Inspection,TMU402,PAINT
+6-Mar-17,Cab Conveyer,SPI314,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,SPI314,Cab Upload
+6-Mar-17,STVMS Tracking Chassis Start,FTI653,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,KUR214,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,ILA012,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,FQP941,Chassis Start
+6-Mar-17,U-BOLT,YXF326,Rear U-Bolt
+6-Mar-17,U-BOLT,YKN950,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,JKZ317,Enter Offline
+6-Mar-17,Paint Inspection,HCS198,PAINT
+6-Mar-17,Cab in white conveyer,TXC574,CIW upload
+6-Mar-17,OMT Offline Tracking,VFR160,Enter Offline
+6-Mar-17,Assembly Line Tracker,FQP941,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,ILA012,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,KUR214,Pool 13 Start
+6-Mar-17,Hood Conveyor,JIN079,Hood Upload
+6-Mar-17,Cab Call Scan,YZU059,B Line
+6-Mar-17,Cab call scan,NHZ581,A Line
+6-Mar-17,Cab Conveyer,AGU058,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,AGU058,Cab Upload
+6-Mar-17,U-BOLT,IXT460,Front U-Bolt
+6-Mar-17,Hood Conveyor,HCS198,Hood Upload
+6-Mar-17,Cab in white conveyer,THO497,CIW upload
+6-Mar-17,Cab Conveyer,SEK173,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,SEK173,Cab Upload
+6-Mar-17,Hood Conveyor,TMU402,Hood Upload
+6-Mar-17,OMT Offline Tracking,ZKY831,Enter Offline
+6-Mar-17,Cab in white conveyer,VFH294,CIW upload
+6-Mar-17,U-BOLT,IXT460,Rear U-Bolt
+6-Mar-17,Cab Conveyer,QZH295,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,QZH295,Cab Upload
+6-Mar-17,OMT Offline Tracking,AYO527,Enter Offline
+6-Mar-17,U-BOLT,DJZ516,Front U-Bolt
+6-Mar-17,STVMS Tracking Chassis Start,HQI892,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,MAU864,Chassis Start
+6-Mar-17,Cab Call Scan,APZ612,B Line
+6-Mar-17,U-BOLT,SPF970,Front U-Bolt
+6-Mar-17,Cab call scan,FZA809,A Line
+6-Mar-17,Cab Conveyer,TRJ645,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,TRJ645,Cab Upload
+6-Mar-17,U-BOLT,SPF970,Rear U-Bolt
+6-Mar-17,Cab in white conveyer,ZXA107,CIW upload
+6-Mar-17,U-BOLT,JYZ708,Front U-Bolt
+6-Mar-17,Cab Conveyer,CSV482,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,CSV482,Cab Upload
+6-Mar-17,Assembly Line Tracker,HQI892,Pool 13 Start
+6-Mar-17,OMT Offline Tracking,ZVI392,Enter Offline
+6-Mar-17,Paint Inspection,EBM074,PAINT
+6-Mar-17,U-BOLT,JYZ708,Rear U-Bolt
+6-Mar-17,Cab Call Scan,YWI795,B Line
+6-Mar-17,U-BOLT,KLN307,Front U-Bolt
+6-Mar-17,STVMS Tracking Top Station,ZVI392,Top Station
+6-Mar-17,STVMS Tracking Top Station,PJL425,Top Station
+6-Mar-17,STVMS Tracking Top Station,CMI143,Top Station
+6-Mar-17,STVMS Tracking Top Station,VFX591,Top Station
+6-Mar-17,STVMS Tracking Top Station,EPR018,Top Station
+6-Mar-17,STVMS Tracking Top Station,DPA037,Top Station
+6-Mar-17,Paint Inspection,TBP914,PAINT
+6-Mar-17,STVMS Tracking Top Station,OQS570,Top Station
+6-Mar-17,STVMS Tracking Top Station,FTI653,Top Station
+6-Mar-17,STVMS Tracking Top Station,KUR214,Top Station
+6-Mar-17,STVMS Tracking Top Station,ILA012,Top Station
+6-Mar-17,STVMS Tracking Top Station,FQP941,Top Station
+6-Mar-17,STVMS Tracking Top Station,HQI892,Top Station
+6-Mar-17,STVMS Tracking Top Station,MAU864,Top Station
+6-Mar-17,Cab call scan,ZPW452,A Line
+6-Mar-17,U-BOLT,KLN307,Rear U-Bolt
+6-Mar-17,Assembly Line Tracker,MAU864,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,HQI892,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,FQP941,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,ILA012,Pool 60 Start
+6-Mar-17,Cab in white conveyer,EBT912,CIW upload
+6-Mar-17,Assembly Line Tracker,KUR214,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,FTI653,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,OQS570,Pool 60 Start
+6-Mar-17,OMT Offline Tracking,KNR831,Enter Offline
+6-Mar-17,Assembly Line Tracker,DPA037,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,EPR018,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,VFX591,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,CMI143,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,PJL425,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,MAU864,Pool 13 Start
+6-Mar-17,Assembly Line Tracker,ZVI392,Pool 60 Start
+6-Mar-17,STVMS Tracking Chassis Start,WBR310,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,LPU731,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,SFZ186,Chassis Start
+6-Mar-17,Cab Conveyer,NHZ581,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,NHZ581,Cab Upload
+6-Mar-17,OMT Offline Tracking,LGO801,Enter Offline
+6-Mar-17,U-BOLT,VFX591,Front U-Bolt
+6-Mar-17,Assembly Line Tracker,WBR310,Pool 13 Start
+6-Mar-17,Cab Conveyer,YZU059,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,YZU059,Cab Upload
+6-Mar-17,Cab in white conveyer,IFX670,CIW upload
+6-Mar-17,OMT Offline Tracking,SYV137,Enter Offline
+6-Mar-17,OMT Offline Tracking,SYV137,Sold
+6-Mar-17,STVMS Tracking Chassis Start,XSZ543,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,PWR481,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,XGC043,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,JIN079,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,HCS198,Chassis Start
+6-Mar-17,Cab Call Scan,EVB234,B Line
+6-Mar-17,Paint Inspection,XJI184,PAINT
+6-Mar-17,U-BOLT,EPR018,Front U-Bolt
+6-Mar-17,Cab in white conveyer,FWU517,CIW upload
+6-Mar-17,Assembly Line Tracker,LPU731,Pool 13 Start
+6-Mar-17,Paint Inspection,BJM584,PAINT
+6-Mar-17,U-BOLT,EPR018,Rear U-Bolt
+6-Mar-17,Cab Conveyer,FZA809,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,FZA809,Cab Upload
+6-Mar-17,Cab call scan,QRM025,A Line
+6-Mar-17,Cab in white conveyer,KMW285,CIW upload
+6-Mar-17,OMT Offline Tracking,VCM016,Enter Offline
+6-Mar-17,Paint Inspection,YRW680,PAINT
+6-Mar-17,Hood Conveyor,EBM074,Hood Upload
+6-Mar-17,U-BOLT,DPA037,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,FTI824,Enter Offline
+6-Mar-17,Hood Conveyor,TBP914,Hood Upload
+6-Mar-17,Assembly Line Tracker,SFZ186,Pool 13 Start
+6-Mar-17,Cab Conveyer,APZ612,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,APZ612,Cab Upload
+6-Mar-17,U-BOLT,OQS570,Front U-Bolt
+6-Mar-17,Assembly Line Tracker,XSZ543,Pool 13 Start
+6-Mar-17,Hood Conveyor,XJI184,Hood Upload
+6-Mar-17,Cab Conveyer,YWI795,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,YWI795,Cab Upload
+6-Mar-17,Cab call scan,YCU023,A Line
+6-Mar-17,OMT Offline Tracking,PJL425,Enter Offline
+6-Mar-17,Paint Inspection,TEK452,PAINT
+6-Mar-17,Assembly Line Tracker,PWR481,Pool 13 Start
+6-Mar-17,U-BOLT,FTI653,Front U-Bolt
+6-Mar-17,Hood Conveyor,BJM584,Hood Upload
+6-Mar-17,Cab in white conveyer,NSP483,CIW upload
+6-Mar-17,Cab Call Scan,QLV652,B Line
+6-Mar-17,U-BOLT,DPA037,Rear U-Bolt
+6-Mar-17,Assembly Line Tracker,XGC043,Pool 13 Start
+6-Mar-17,Cab Conveyer,ZPW452,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,ZPW452,Cab Upload
+6-Mar-17,OMT Offline Tracking,IOU412,Enter Offline
+6-Mar-17,Hood Conveyor,YRW680,Hood Upload
+6-Mar-17,U-BOLT,KUR214,Front U-Bolt
+6-Mar-17,U-BOLT,KUR214,Rear U-Bolt
+6-Mar-17,Hood Conveyor,TEK452,Hood Upload
+6-Mar-17,OMT Offline Tracking,WBR310,Enter Offline
+6-Mar-17,Cab Conveyer,FWS327,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,FWS327,Cab Upload
+6-Mar-17,U-BOLT,EZV240,Front U-Bolt
+6-Mar-17,Hood Conveyor,RUK258,Hood Upload
+6-Mar-17,Hood Conveyor,UZV267,Hood Upload
+6-Mar-17,Cab Call Scan,DAJ581,B Line
+6-Mar-17,U-BOLT,HTV792,Front U-Bolt
+6-Mar-17,Cab Conveyer,UXJ427,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,UXJ427,Cab Upload
+6-Mar-17,Cab call scan,MTV391,A Line
+6-Mar-17,OMT Offline Tracking,LPU731,Enter Offline
+6-Mar-17,Cab in white conveyer,XUB638,CIW upload
+6-Mar-17,Paint Inspection,DIN812,PAINT
+6-Mar-17,Cab Conveyer,CNE620,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,CNE620,Cab Upload
+6-Mar-17,U-BOLT,HXT823,Front U-Bolt
+6-Mar-17,STVMS Tracking Chassis Start,WQS294,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,MUJ483,Chassis Start
+6-Mar-17,Cab Call Scan,DUT829,B Line
+6-Mar-17,STVMS Tracking Chassis Start,GLW381,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,LES327,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,RUK258,Chassis Start
+6-Mar-17,Cab in white conveyer,XNK048,CIW upload
+6-Mar-17,Paint Inspection,BPM756,PAINT
+6-Mar-17,OMT Offline Tracking,SFZ186,Enter Offline
+6-Mar-17,Cab Call Scan,JCV863,B Line
+6-Mar-17,U-BOLT,SNU912,Front U-Bolt
+6-Mar-17,Paint Inspection,XWS890,PAINT
+6-Mar-17,Cab in white conveyer,WYB426,CIW upload
+6-Mar-17,OMT Offline Tracking,XSZ543,Enter Offline
+6-Mar-17,Cab call scan,PVO367,A Line
+6-Mar-17,Hood Conveyor,BPM756,Hood Upload
+6-Mar-17,Hood Conveyor,DIN812,Hood Upload
+6-Mar-17,OMT Offline Tracking,PWR481,Enter Offline
+6-Mar-17,Cab Conveyer,DAJ581,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,DAJ581,Cab Upload
+6-Mar-17,Cab in white conveyer,UDG579,CIW upload
+6-Mar-17,U-BOLT,CFO213,Front U-Bolt
+6-Mar-17,Hood Conveyor,XWS890,Hood Upload
+6-Mar-17,STVMS Tracking Chassis Start,UZV267,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,BPM756,Chassis Start
+6-Mar-17,Cab in white conveyer,EXO028,CIW upload
+6-Mar-17,Hood Conveyor,LWM061,Hood Upload
+6-Mar-17,STVMS Tracking Chassis Start,DIN812,Chassis Start
+6-Mar-17,Cab call scan,DRY562,A Line
+6-Mar-17,Cab Conveyer,MTV391,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,MTV391,Cab Upload
+6-Mar-17,OMT Offline Tracking,XGC043,Enter Offline
+6-Mar-17,Cab in white conveyer,HSE253,CIW upload
+6-Mar-17,OMT Offline Tracking,HQI892,Sold
+6-Mar-17,Cab Conveyer,PVO367,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,PVO367,Cab Upload
+6-Mar-17,Paint Inspection,ZBT013,PAINT
+6-Mar-17,Paint Inspection,LWM061,PAINT
+6-Mar-17,Cab Call Scan,NTD012,B Line
+6-Mar-17,Cab in white conveyer,MXU287,CIW upload
+6-Mar-17,U-BOLT,TXR569,Front U-Bolt
+6-Mar-17,STVMS Tracking Top Station,XET976,Top Station
+6-Mar-17,STVMS Tracking Top Station,TXR569,Top Station
+6-Mar-17,STVMS Tracking Top Station,BYF840,Top Station
+6-Mar-17,STVMS Tracking Top Station,ZJC386,Top Station
+6-Mar-17,STVMS Tracking Top Station,ZJK473,Top Station
+6-Mar-17,STVMS Tracking Top Station,QTI468,Top Station
+6-Mar-17,STVMS Tracking Top Station,MBG962,Top Station
+6-Mar-17,STVMS Tracking Top Station,DKE275,Top Station
+6-Mar-17,STVMS Tracking Top Station,MUJ483,Top Station
+6-Mar-17,STVMS Tracking Top Station,GLW381,Top Station
+6-Mar-17,STVMS Tracking Top Station,LES327,Top Station
+6-Mar-17,STVMS Tracking Top Station,RUK258,Top Station
+6-Mar-17,STVMS Tracking Top Station,UZV267,Top Station
+6-Mar-17,STVMS Tracking Top Station,BPM756,Top Station
+6-Mar-17,OMT Offline Tracking,HCS198,Enter Offline
+6-Mar-17,Assembly Line Tracker,BPM756,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,UZV267,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,RUK258,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,LES327,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,GLW381,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,MUJ483,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,DKE275,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,MBG962,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,QTI468,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,ZJK473,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,ZJC386,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,BYF840,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,TXR569,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,XET976,Pool 60 Start
+6-Mar-17,Cab call scan,IVC016,A Line
+6-Mar-17,Paint Inspection,ZJU865,PAINT
+6-Mar-17,Hood Conveyor,ZJU865,Hood Upload
+6-Mar-17,Cab Conveyer,DUT829,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,DUT829,Cab Upload
+6-Mar-17,Cab in white conveyer,GJI906,CIW upload
+6-Mar-17,U-BOLT,BYF840,Front U-Bolt
+6-Mar-17,Cab Call Scan,HBM615,B Line
+6-Mar-17,Cab in white conveyer,GWQ581,CIW upload
+6-Mar-17,Paint Inspection,JZP143,PAINT
+6-Mar-17,Cab in white conveyer,IYM374,CIW upload
+6-Mar-17,Cab in white conveyer,PNR981,CIW upload
+6-Mar-17,Hood Conveyor,ZBT013,Hood Upload
+6-Mar-17,OMT Offline Tracking,JIN079,Enter Offline
+6-Mar-17,STVMS Tracking Chassis Start,LWM061,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,XWS890,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,ZJU865,Chassis Start
+6-Mar-17,Cab Conveyer,JCV863,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,JCV863,Cab Upload
+6-Mar-17,Hood Conveyor,JZP143,Hood Upload
+6-Mar-17,Cab Conveyer,DRY562,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,DRY562,Cab Upload
+6-Mar-17,U-BOLT,ZJC386,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,TBP914,Enter Offline
+6-Mar-17,Paint Inspection,TJG894,PAINT
+6-Mar-17,Cab call scan,QTF497,A Line
+6-Mar-17,OMT Offline Tracking,TMU402,Enter Offline
+6-Mar-17,Cab Call Scan,AQG261,B Line
+6-Mar-17,Cab in white conveyer,IYM374,CIW upload
+6-Mar-17,Paint Inspection,FHL296,PAINT
+6-Mar-17,Hood Conveyor,TJG894,Hood Upload
+6-Mar-17,STVMS Tracking Chassis Start,JZP143,Chassis Start
+6-Mar-17,Cab Conveyer,IVC016,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,IVC016,Cab Upload
+6-Mar-17,U-BOLT,ZJK473,Front U-Bolt
+6-Mar-17,Paint Inspection,GWE561,PAINT
+6-Mar-17,Hood Conveyor,FHL296,Hood Upload
+6-Mar-17,OMT Offline Tracking,XJI184,Enter Offline
+6-Mar-17,Cab in white conveyer,VRO359,CIW upload
+6-Mar-17,STVMS Tracking Top Station,DIN812,Top Station
+6-Mar-17,STVMS Tracking Top Station,LWM061,Top Station
+6-Mar-17,STVMS Tracking Top Station,XWS890,Top Station
+6-Mar-17,STVMS Tracking Chassis Start,ZBT013,Chassis Start
+6-Mar-17,Cab Conveyer,NTD012,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,NTD012,Cab Upload
+6-Mar-17,Cab call scan,YKL719,A Line
+6-Mar-17,Assembly Line Tracker,XWS890,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,LWM061,Pool 60 Start
+6-Mar-17,Assembly Line Tracker,DIN812,Pool 60 Start
+6-Mar-17,U-BOLT,QTI468,Front U-Bolt
+6-Mar-17,Cab Conveyer,HBM615,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,HBM615,Cab Upload
+6-Mar-17,Cab in white conveyer,KQO271,CIW upload
+6-Mar-17,Hood Conveyor,GWE561,Hood Upload
+6-Mar-17,Paint Inspection,FCR320,PAINT
+6-Mar-17,OMT Offline Tracking,PWR481,Sold
+6-Mar-17,Cab in white conveyer,ULF935,CIW upload
+6-Mar-17,OMT Offline Tracking,YRW680,Enter Offline
+6-Mar-17,Cab Call Scan,IMS267,B Line
+6-Mar-17,Paint Inspection,TEN567,PAINT
+6-Mar-17,Cab Conveyer,QTF497,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,QTF497,Cab Upload
+6-Mar-17,U-BOLT,DKE275,Front U-Bolt
+6-Mar-17,Cab in white conveyer,NOL934,CIW upload
+6-Mar-17,Paint Inspection,WBS653,PAINT
+6-Mar-17,OMT Offline Tracking,BJM584,Enter Offline
+6-Mar-17,Cab Conveyer,AQG261,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,AQG261,Cab Upload
+6-Mar-17,Cab call scan,KIA624,A Line
+6-Mar-17,STVMS Tracking Chassis Start,FHL296,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,TJG894,Chassis Start
+6-Mar-17,STVMS Tracking Chassis Start,GWE561,Chassis Start
+6-Mar-17,U-BOLT,MUJ483,Front U-Bolt
+6-Mar-17,OMT Offline Tracking,LOF143,Enter Offline
+6-Mar-17,Cab in white conveyer,IXJ859,CIW upload
+6-Mar-17,OMT Offline Tracking,TEK452,Enter Offline
+6-Mar-17,STVMS Tracking Chassis Start,TEN567,Chassis Start
+6-Mar-17,Paint Inspection,JNM860,PAINT
+6-Mar-17,Cab Conveyer,YKL719,Cab Upload 2
+6-Mar-17,Cab Conveyor / Monorail,YKL719,Cab Upload
+6-Mar-17,Paint Inspection,ZJU865,PAINT
+6-Mar-17,Cab Call Scan,YHP863,B Line
+6-Mar-17,Cab call scan,SEU602,A Line
+7-Mar-17,Cab Call Scan,ULN810,B Line
+7-Mar-17,OMT Offline Tracking,SVK948,Enter Offline
+7-Mar-17,U-BOLT,HMX073,Front U-Bolt
+7-Mar-17,Hood Conveyor,CXD285,Hood Upload
+7-Mar-17,Cab Conveyer,KWT597,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,KWT597,Cab Upload
+7-Mar-17,Paint Inspection,XGW598,PAINT
+7-Mar-17,Paint Inspection,YDL247,PAINT
+7-Mar-17,Assembly Line Tracker,EQK798,Pool 13 Start
+7-Mar-17,Cab call scan,OIF375,A Line
+7-Mar-17,Cab Conveyor / Monorail,MQH836,Cab Upload
+7-Mar-17,STVMS Tracking Chassis Start,QFW209,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,SZP362,Chassis Start
+7-Mar-17,Assembly Line Tracker,BIP389,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,SZP362,Pool 13 Start
+7-Mar-17,U-BOLT,MVW427,Front U-Bolt
+7-Mar-17,Hood Conveyor,BIP389,Hood Upload
+7-Mar-17,Cab in white conveyer,GDR742,CIW upload
+7-Mar-17,OMT Offline Tracking,EQK798,Enter Offline
+7-Mar-17,Cab Conveyer,HRY673,Cab Upload 2
+7-Mar-17,U-BOLT,USH564,Front U-Bolt
+7-Mar-17,OMT Offline Tracking,SZP362,Enter Offline
+7-Mar-17,U-BOLT,USH564,Rear U-Bolt
+7-Mar-17,OMT Offline Tracking,TUQ327,Enter Offline
+7-Mar-17,Cab Conveyer,KSP816,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,KSP816,Cab Upload
+7-Mar-17,Hood Conveyor,JCM567,Hood Upload
+7-Mar-17,STVMS Tracking Chassis Start,WQB451,Chassis Start
+7-Mar-17,Assembly Line Tracker,TFX540,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,KSX968,Pool 13 Start
+7-Mar-17,U-BOLT,JKZ317,Front U-Bolt
+7-Mar-17,Cab in white conveyer,QTF497,CIW upload
+7-Mar-17,Cab Conveyer,LTV094,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,LTV094,Cab Upload
+7-Mar-17,Paint Inspection,FZA809,PAINT
+7-Mar-17,STVMS Tracking Chassis Start,YCR723,Chassis Start
+7-Mar-17,Cab Call Scan,QBR938,B Line
+7-Mar-17,Cab Conveyer,ZIQ738,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,ZIQ738,Cab Upload
+7-Mar-17,Cab call scan,TZO690,A Line
+7-Mar-17,Cab Conveyor / Monorail,EVB234,Cab Upload
+7-Mar-17,Cab in white conveyer,UNM285,CIW upload
+7-Mar-17,U-BOLT,FQP941,Rear U-Bolt
+7-Mar-17,Cab call scan,GJK683,A Line
+7-Mar-17,Paint Inspection,YBP783,PAINT
+7-Mar-17,OMT Offline Tracking,EBL860,Enter Offline
+7-Mar-17,OMT Offline Tracking,FHU982,Enter Offline
+7-Mar-17,Cab in white conveyer,HOA438,CIW upload
+7-Mar-17,Hood Conveyor,YBP783,Hood Upload
+7-Mar-17,Cab Conveyer,YCU023,Cab Upload 2
+7-Mar-17,OMT Offline Tracking,EBM074,Enter Offline
+7-Mar-17,Paint Inspection,FCR320,PAINT
+7-Mar-17,OMT Offline Tracking,YRW680,Enter Offline
+7-Mar-17,Paint Inspection,TEN567,PAINT
+7-Mar-17,Paint Inspection,WBS653,PAINT
+7-Mar-17,OMT Offline Tracking,BJM584,Enter Offline
+7-Mar-17,OMT Offline Tracking,BJM584,Sold
+7-Mar-17,OMT Offline Tracking,LOF143,Enter Offline
+7-Mar-17,OMT Offline Tracking,TEK452,Enter Offline
+7-Mar-17,Paint Inspection,JNM860,PAINT
+7-Mar-17,Hood Conveyor,EJO928,Hood Upload
+7-Mar-17,Paint Inspection,HQD748,PAINT
+7-Mar-17,Cab Conveyer,TGS974,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,TGS974,Cab Upload
+7-Mar-17,Cab in white conveyer,EUZ386,CIW upload
+7-Mar-17,OMT Offline Tracking,JDY852,Enter Offline
+7-Mar-17,Hood Conveyor,HMJ710,Hood Upload
+7-Mar-17,Cab call scan,CXD285,A Line
+7-Mar-17,Paint Inspection,VQD376,PAINT
+7-Mar-17,Cab in white conveyer,TMZ629,CIW upload
+7-Mar-17,U-BOLT,HRY673,Front U-Bolt
+7-Mar-17,OMT Offline Tracking,UYZ958,Enter Offline
+7-Mar-17,Paint Inspection,ZHB578,PAINT
+7-Mar-17,STVMS Tracking Chassis Start,EUL768,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,GYI954,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,YTP390,Chassis Start
+7-Mar-17,U-BOLT,AKC912,Front U-Bolt
+7-Mar-17,Cab Call Scan,SYB619,B Line
+7-Mar-17,Hood Conveyor,MVW427,Hood Upload
+7-Mar-17,OMT Offline Tracking,BHK490,Enter Offline
+7-Mar-17,STVMS Tracking Chassis Start,WXK853,Chassis Start
+7-Mar-17,Cab call scan,CVE258,A Line
+7-Mar-17,Paint Inspection,QJP284,PAINT
+7-Mar-17,U-BOLT,DTP539,Front U-Bolt
+7-Mar-17,Cab in white conveyer,SNI285,CIW upload
+7-Mar-17,Cab Conveyer,PEK163,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,PEK163,Cab Upload
+7-Mar-17,OMT Offline Tracking,PYH561,Enter Offline
+7-Mar-17,Hood Conveyor,AMZ845,Hood Upload
+7-Mar-17,Cab Conveyer,ELI075,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,ELI075,Cab Upload
+7-Mar-17,Cab in white conveyer,PMN417,CIW upload
+7-Mar-17,U-BOLT,IQS845,Front U-Bolt
+7-Mar-17,OMT Offline Tracking,TNY179,Enter Offline
+7-Mar-17,Cab Call Scan,BEM390,B Line
+7-Mar-17,Cab in white conveyer,ZDI213,CIW upload
+7-Mar-17,Hood Conveyor,HQD748,Hood Upload
+7-Mar-17,Cab call scan,ETO603,A Line
+7-Mar-17,U-BOLT,ZYA587,Front U-Bolt
+7-Mar-17,Cab Conveyer,CXD285,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,CXD285,Cab Upload
+7-Mar-17,Hood Conveyor,QJP284,Hood Upload
+7-Mar-17,STVMS Tracking Chassis Start,SOU593,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,IXM739,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,EJO928,Chassis Start
+7-Mar-17,Cab in white conveyer,ALE837,CIW upload
+7-Mar-17,Cab Call Scan,RCF947,B Line
+7-Mar-17,OMT Offline Tracking,LWK693,Enter Offline
+7-Mar-17,Paint Inspection,PGY640,PAINT
+7-Mar-17,U-BOLT,IBA235,Front U-Bolt
+7-Mar-17,Hood Conveyor,ZHB578,Hood Upload
+7-Mar-17,Assembly Line Tracker,SOU593,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,WXK853,Pool 13 Start
+7-Mar-17,Cab Conveyer,CVE258,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,CVE258,Cab Upload
+7-Mar-17,Cab in white conveyer,WQB451,CIW upload
+7-Mar-17,Cab call scan,ALP937,A Line
+7-Mar-17,Cab Conveyer,SYB619,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,SYB619,Cab Upload
+7-Mar-17,U-BOLT,MBP046,Front U-Bolt
+7-Mar-17,STVMS Tracking Chassis Start,HMJ710,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,MVW427,Chassis Start
+7-Mar-17,Hood Conveyor,VQD376,Hood Upload
+7-Mar-17,Cab Conveyer,BEM390,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,BEM390,Cab Upload
+7-Mar-17,OMT Offline Tracking,QVS392,Enter Offline
+7-Mar-17,OMT Offline Tracking,QVS392,Sold
+7-Mar-17,Cab in white conveyer,KMA503,CIW upload
+7-Mar-17,Assembly Line Tracker,HMJ710,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,EJO928,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,IXM739,Pool 13 Start
+7-Mar-17,Paint Inspection,FIX581,PAINT
+7-Mar-17,U-BOLT,FHL057,Front U-Bolt
+7-Mar-17,Cab Call Scan,CSD174,B Line
+7-Mar-17,Cab Conveyer,ETO603,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,ETO603,Cab Upload
+7-Mar-17,Cab in white conveyer,KSX968,CIW upload
+7-Mar-17,STVMS Tracking Chassis Start,AMZ845,Chassis Start
+7-Mar-17,Cab call scan,TPD286,A Line
+7-Mar-17,Cab Conveyer,RCF947,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,RCF947,Cab Upload
+7-Mar-17,U-BOLT,BRL042,Front U-Bolt
+7-Mar-17,OMT Offline Tracking,HZD382,Enter Offline
+7-Mar-17,Assembly Line Tracker,MVW427,Pool 13 Start
+7-Mar-17,STVMS Tracking Chassis Start,HQD748,Chassis Start
+7-Mar-17,Cab in white conveyer,TFX540,CIW upload
+7-Mar-17,OMT Offline Tracking,WDM529,Enter Offline
+7-Mar-17,Cab Call Scan,JYI091,B Line
+7-Mar-17,Assembly Line Tracker,AMZ845,Pool 13 Start
+7-Mar-17,Paint Inspection,CSM507,PAINT
+7-Mar-17,U-BOLT,LMN504,Front U-Bolt
+7-Mar-17,STVMS Tracking Top Station,TCS146,Top Station
+7-Mar-17,STVMS Tracking Top Station,OQA530,Top Station
+7-Mar-17,STVMS Tracking Top Station,DFZ024,Top Station
+7-Mar-17,STVMS Tracking Top Station,EQK798,Top Station
+7-Mar-17,STVMS Tracking Top Station,TGS974,Top Station
+7-Mar-17,STVMS Tracking Top Station,GDU671,Top Station
+7-Mar-17,STVMS Tracking Top Station,ELI075,Top Station
+7-Mar-17,STVMS Tracking Top Station,PEK163,Top Station
+7-Mar-17,STVMS Tracking Top Station,SYB619,Top Station
+7-Mar-17,STVMS Tracking Top Station,CXD285,Top Station
+7-Mar-17,OMT Offline Tracking,EPB160,Enter Offline
+7-Mar-17,OMT Offline Tracking,XSF309,Enter Offline
+7-Mar-17,STVMS Tracking Top Station,BEM390,Top Station
+7-Mar-17,STVMS Tracking Top Station,CVE258,Top Station
+7-Mar-17,STVMS Tracking Top Station,ETO603,Top Station
+7-Mar-17,STVMS Tracking Top Station,RCF947,Top Station
+7-Mar-17,STVMS Tracking Top Station,ALP937,Top Station
+7-Mar-17,Cab Conveyer,ALP937,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,ALP937,Cab Upload
+7-Mar-17,Assembly Line Tracker,ALP937,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,RCF947,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,ETO603,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,CVE258,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,BEM390,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,CXD285,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,SYB619,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,PEK163,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,ELI075,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,GDU671,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,TGS974,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,EQK798,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,DFZ024,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,OQA530,Pool 60 Start
+7-Mar-17,Assembly Line Tracker,TCS146,Pool 60 Start
+7-Mar-17,Cab call scan,TQL981,A Line
+7-Mar-17,Cab in white conveyer,XFN395,CIW upload
+7-Mar-17,U-BOLT,TPG078,Front U-Bolt
+7-Mar-17,Paint Inspection,UHP854,PAINT
+7-Mar-17,Cab Call Scan,KQN543,B Line
+7-Mar-17,OMT Offline Tracking,ITO673,Enter Offline
+7-Mar-17,OMT Offline Tracking,ITO673,Sold
+7-Mar-17,STVMS Tracking Chassis Start,VQD376,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,QJP284,Chassis Start
+7-Mar-17,Paint Inspection,PRA475,PAINT
+7-Mar-17,Cab Conveyer,CSD174,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,CSD174,Cab Upload
+7-Mar-17,Hood Conveyor,PGY640,Hood Upload
+7-Mar-17,Cab in white conveyer,TRL028,CIW upload
+7-Mar-17,Assembly Line Tracker,VQD376,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,HQD748,Pool 13 Start
+7-Mar-17,U-BOLT,XPR275,Front U-Bolt
+7-Mar-17,STVMS Tracking Top Station,CSD174,Top Station
+7-Mar-17,STVMS Tracking Top Station,TPD286,Top Station
+7-Mar-17,STVMS Tracking Top Station,JYI091,Top Station
+7-Mar-17,STVMS Tracking Top Station,TQL981,Top Station
+7-Mar-17,STVMS Tracking Top Station,KQN543,Top Station
+7-Mar-17,STVMS Tracking Top Station,XGW598,Top Station
+7-Mar-17,STVMS Tracking Top Station,YDL247,Top Station
+7-Mar-17,Paint Inspection,MGF879,PAINT
+7-Mar-17,STVMS Tracking Top Station,CNZ205,Top Station
+7-Mar-17,STVMS Tracking Top Station,MQH836,Top Station
+7-Mar-17,STVMS Tracking Top Station,MRI015,Top Station
+7-Mar-17,STVMS Tracking Top Station,HRY673,Top Station
+7-Mar-17,STVMS Tracking Top Station,AKC912,Top Station
+7-Mar-17,STVMS Tracking Top Station,DTP539,Top Station
+7-Mar-17,STVMS Tracking Top Station,IQS845,Top Station
+7-Mar-17,STVMS Tracking Top Station,ZYA587,Top Station
+7-Mar-17,STVMS Tracking Top Station,IBA235,Top Station
+7-Mar-17,STVMS Tracking Top Station,MBP046,Top Station
+7-Mar-17,STVMS Tracking Top Station,FHL057,Top Station
+7-Mar-17,STVMS Tracking Top Station,BRL042,Top Station
+7-Mar-17,STVMS Tracking Top Station,LMN504,Top Station
+7-Mar-17,STVMS Tracking Top Station,TPG078,Top Station
+7-Mar-17,STVMS Tracking Top Station,XPR275,Top Station
+7-Mar-17,STVMS Tracking Chassis Start,OTX594,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,LVP764,Chassis Start
+7-Mar-17,STVMS Tracking Chassis Start,JBQ468,Chassis Start
+7-Mar-17,Assembly Line Tracker,QVP853,Pool 13 Start
+7-Mar-17,Paint Inspection,INW067,PAINT
+7-Mar-17,Hood Conveyor,XLW275,Hood Upload
+7-Mar-17,Cab Conveyer,PGY640,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,PGY640,Cab Upload
+7-Mar-17,OMT Offline Tracking,IBA235,Enter Offline
+7-Mar-17,OMT Offline Tracking,IBA235,Sold
+7-Mar-17,OMT Offline Tracking,ZYA587,Enter Offline
+7-Mar-17,Assembly Line Tracker,YHB831,Pool 13 Start
+7-Mar-17,Cab call scan,CSM507,A Line
+7-Mar-17,Cab in white conveyer,SYV137,CIW upload
+7-Mar-17,Hood Conveyor,WTB963,Hood Upload
+7-Mar-17,Paint Inspection,NKM173,PAINT
+7-Mar-17,STVMS Tracking Chassis Start,TPJ583,Chassis Start
+7-Mar-17,Cab in white conveyer,ZVI392,CIW upload
+7-Mar-17,Hood Conveyor,INW067,Hood Upload
+7-Mar-17,Paint Inspection,AJF195,PAINT
+7-Mar-17,U-BOLT,TYA561,Front U-Bolt
+7-Mar-17,Cab Call Scan,PRA475,B Line
+7-Mar-17,Cab Conveyer,UHP854,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,UHP854,Cab Upload
+7-Mar-17,OMT Offline Tracking,FHL057,Enter Offline
+7-Mar-17,STVMS Tracking Chassis Start,QVP853,Chassis Start
+7-Mar-17,Hood Conveyor,NKM173,Hood Upload
+7-Mar-17,U-BOLT,DVM139,Front U-Bolt
+7-Mar-17,Cab in white conveyer,LGO801,CIW upload
+7-Mar-17,Cab Conveyer,FIX581,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,FIX581,Cab Upload
+7-Mar-17,Assembly Line Tracker,WTB963,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,XLW275,Pool 13 Start
+7-Mar-17,U-BOLT,DVM139,Rear U-Bolt
+7-Mar-17,Cab call scan,QFW209,A Line
+7-Mar-17,Cab in white conveyer,FTI824,CIW upload
+7-Mar-17,Paint Inspection,JOM027,PAINT
+7-Mar-17,OMT Offline Tracking,MBP046,Enter Offline
+7-Mar-17,Assembly Line Tracker,INW067,Pool 13 Start
+7-Mar-17,STVMS Tracking Chassis Start,YHB831,Chassis Start
+7-Mar-17,Cab Conveyer,MGF879,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,MGF879,Cab Upload
+7-Mar-17,Paint Inspection,DZV145,PAINT
+7-Mar-17,Hood Conveyor,JOM027,Hood Upload
+7-Mar-17,U-BOLT,GPJ498,Front U-Bolt
+7-Mar-17,Cab in white conveyer,VCM016,CIW upload
+7-Mar-17,STVMS Tracking Chassis Start,XLW275,Chassis Start
+7-Mar-17,Hood Conveyor,AJF195,Hood Upload
+7-Mar-17,Cab Conveyer,CSM507,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,CSM507,Cab Upload
+7-Mar-17,Assembly Line Tracker,NKM173,Pool 13 Start
+7-Mar-17,STVMS Tracking Top Station,CSW718,Top Station
+7-Mar-17,U-BOLT,UBJ603,Rear U-Bolt
+7-Mar-17,U-BOLT,UBJ603,Front U-Bolt
+7-Mar-17,Cab in white conveyer,PJL425,CIW upload
+7-Mar-17,Cab Call Scan,TUQ327,B Line
+7-Mar-17,Hood Conveyor,DZV145,Hood Upload
+7-Mar-17,Paint Inspection,OLI345,PAINT
+7-Mar-17,Assembly Line Tracker,CSW718,Pool 60 Start
+7-Mar-17,Cab Conveyer,PRA475,Cab Upload 2
+7-Mar-17,Cab Conveyor / Monorail,PRA475,Cab Upload
+7-Mar-17,STVMS Tracking Chassis Start,WTB963,Chassis Start
+7-Mar-17,OMT Offline Tracking,ACM236,Enter Offline
+7-Mar-17,Cab call scan,SZP362,A Line
+7-Mar-17,OMT Offline Tracking,BRL042,Enter Offline
+7-Mar-17,U-BOLT,JYL728,Rear U-Bolt
+7-Mar-17,Paint Inspection,PMG926,PAINT
+7-Mar-17,Cab in white conveyer,CMI143,CIW upload
+7-Mar-17,OMT Offline Tracking,TPG078,Enter Offline
+7-Mar-17,Assembly Line Tracker,AJF195,Pool 13 Start
+7-Mar-17,Assembly Line Tracker,JOM027,Pool 13 Start
+7-Mar-17,Paint Inspection,UBZ174,PAINT
+7-Mar-17,U-BOLT,OTS758,Front U-Bolt
+7-Mar-17,Cab Call Scan,ELJ539,B Line
+7-Mar-17,U-BOLT,OTS758,Rear U-Bolt
+7-Mar-17,Cab in white conveyer,CFG764,CIW upload
+8-Mar-17,Hood Conveyor,BEM390,Hood Upload
+8-Mar-17,U-BOLT,WDM529,Front U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,DFZ024,Chassis Start
+8-Mar-17,OMT Offline Tracking,XKG621,Enter Offline
+8-Mar-17,Cab Conveyer,UJB305,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,UJB305,Cab Upload
+8-Mar-17,Assembly Line Tracker,GDU671,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,TGS974,Pool 13 Start
+8-Mar-17,OMT Offline Tracking,RTW145,Enter Offline
+8-Mar-17,OMT Offline Tracking,RTW145,Sold
+8-Mar-17,Cab Call Scan,FNG604,B Line
+8-Mar-17,U-BOLT,XSF309,Front U-Bolt
+8-Mar-17,Assembly Line Tracker,ELI075,Pool 13 Start
+8-Mar-17,Hood Conveyor,CVE258,Hood Upload
+8-Mar-17,Cab call scan,NVM832,A Line
+8-Mar-17,STVMS Tracking Chassis Start,EQK798,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,TGS974,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,GDU671,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,ELI075,Chassis Start
+8-Mar-17,Cab Conveyer,TGJ401,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TGJ401,Cab Upload
+8-Mar-17,U-BOLT,GMS924,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,KIM819,Enter Offline
+8-Mar-17,Cab Conveyor / Monorail,HRY673,Cab Upload
+8-Mar-17,Cab call scan,IQS845,A Line
+8-Mar-17,STVMS Tracking Chassis Start,BIP389,Chassis Start
+8-Mar-17,U-BOLT,AMZ845,Front U-Bolt
+8-Mar-17,Cab Call Scan,DTP539,B Line
+8-Mar-17,Cab in white conveyer,SPA495,CIW upload
+8-Mar-17,OMT Offline Tracking,TCS146,Enter Offline
+8-Mar-17,Cab Conveyer,MRI015,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,MRI015,Cab Upload
+8-Mar-17,Assembly Line Tracker,TUQ327,Pool 13 Start
+8-Mar-17,Cab in white conveyer,RAI572,CIW upload
+8-Mar-17,Cab Call Scan,ZYA587,B Line
+8-Mar-17,Cab Conveyer,AKC912,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,AKC912,Cab Upload
+8-Mar-17,U-BOLT,HQD748,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,DFZ024,Enter Offline
+8-Mar-17,OMT Offline Tracking,DFZ024,Sold
+8-Mar-17,STVMS Tracking Chassis Start,TUQ327,Chassis Start
+8-Mar-17,Cab call scan,IBA235,A Line
+8-Mar-17,U-BOLT,VQD376,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,JLD084,Enter Offline
+8-Mar-17,Hood Conveyor,TUQ327,Hood Upload
+8-Mar-17,Hood Conveyor,SVP127,Hood Upload
+8-Mar-17,Cab Conveyer,OTX594,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,OTX594,Cab Upload
+8-Mar-17,Cab call scan,QVP853,A Line
+8-Mar-17,U-BOLT,DZO637,Front U-Bolt
+8-Mar-17,Hood Conveyor,GFM783,Hood Upload
+8-Mar-17,STVMS Tracking Chassis Start,KMA503,Chassis Start
+8-Mar-17,Hood Conveyor,EUZ386,Hood Upload
+8-Mar-17,U-BOLT,CJQ075,Front U-Bolt
+8-Mar-17,Cab Call Scan,TPJ583,B Line
+8-Mar-17,U-BOLT,CJQ075,Rear U-Bolt
+8-Mar-17,U-BOLT,LOF143,Front U-Bolt
+8-Mar-17,U-BOLT,LOF143,Rear U-Bolt
+8-Mar-17,Hood Conveyor,TMZ629,Hood Upload
+8-Mar-17,Hood Conveyor,SNI285,Hood Upload
+8-Mar-17,Hood Conveyor,PMN417,Hood Upload
+8-Mar-17,Cab in white conveyer,GJK683,CIW upload
+8-Mar-17,Cab in white conveyer,HMS840,CIW upload
+8-Mar-17,Cab in white conveyer,RBT219,CIW upload
+8-Mar-17,Cab in white conveyer,YKN950,CIW upload
+8-Mar-17,Paint Inspection,GQV369,PAINT
+8-Mar-17,Cab in white conveyer,IXT460,CIW upload
+8-Mar-17,Paint Inspection,QZB271,PAINT
+8-Mar-17,Cab in white conveyer,DJZ516,CIW upload
+8-Mar-17,Cab in white conveyer,AQG261,CIW upload
+8-Mar-17,U-BOLT,VFR160,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,KMA503,Enter Offline
+8-Mar-17,Cab Conveyer,YAP829,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,YAP829,Cab Upload
+8-Mar-17,Assembly Line Tracker,YCR723,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,FHU982,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,IOU412,Pool 13 Start
+8-Mar-17,Paint Inspection,NHZ581,PAINT
+8-Mar-17,Cab in white conveyer,YKL719,CIW upload
+8-Mar-17,Cab Conveyer,THO850,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,THO850,Cab Upload
+8-Mar-17,U-BOLT,ZKY831,Rear U-Bolt
+8-Mar-17,U-BOLT,ZKY831,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,XFN395,Enter Offline
+8-Mar-17,OMT Offline Tracking,TFX540,Enter Offline
+8-Mar-17,OMT Offline Tracking,TFX540,Sold
+8-Mar-17,STVMS Tracking Chassis Start,EBL860,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,AHN391,Chassis Start
+8-Mar-17,Cab call scan,LED479,A Line
+8-Mar-17,U-BOLT,AYO527,Rear U-Bolt
+8-Mar-17,Cab Call Scan,YBJ023,B Line
+8-Mar-17,STVMS Tracking Top Station,FHU982,Top Station
+8-Mar-17,Cab Conveyor / Monorail,YCU023,Cab Upload
+8-Mar-17,STVMS Tracking Chassis Start,TMU402,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,EBM074,Chassis Start
+8-Mar-17,Cab Call Scan,HMS840,B Line
+8-Mar-17,STVMS Tracking Chassis Start,TBP914,Chassis Start
+8-Mar-17,Cab in white conveyer,EUK098,CIW upload
+8-Mar-17,Cab Call Scan,RBT219,B Line
+8-Mar-17,Paint Inspection,ATG468,PAINT
+8-Mar-17,U-BOLT,HQI892,Front U-Bolt
+8-Mar-17,Cab Conveyer,QLV652,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,QLV652,Cab Upload
+8-Mar-17,Cab call scan,YXF326,A Line
+8-Mar-17,Paint Inspection,GZC132,PAINT
+8-Mar-17,U-BOLT,HQI892,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,HCS198,Pool 13 Start
+8-Mar-17,Hood Conveyor,ATG468,Hood Upload
+8-Mar-17,Cab in white conveyer,ZXC042,CIW upload
+8-Mar-17,Cab Conveyer,EQD264,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,EQD264,Cab Upload
+8-Mar-17,U-BOLT,MAU864,Front U-Bolt
+8-Mar-17,Hood Conveyor,GZC132,Hood Upload
+8-Mar-17,Assembly Line Tracker,TMU402,Pool 13 Start
+8-Mar-17,Cab Call Scan,YKN950,B Line
+8-Mar-17,OMT Offline Tracking,EBM074,Enter Offline
+8-Mar-17,Cab in white conveyer,IOU412,CIW upload
+8-Mar-17,Cab Conveyer,QFW209,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,QFW209,Cab Upload
+8-Mar-17,STVMS Tracking Chassis Start,INW067,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,NKM173,Chassis Start
+8-Mar-17,Cab in white conveyer,FHU982,CIW upload
+8-Mar-17,U-BOLT,NUR218,Front U-Bolt
+8-Mar-17,Paint Inspection,GOB710,PAINT
+8-Mar-17,Cab call scan,SVP127,A Line
+8-Mar-17,Cab Conveyer,SZP362,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,SZP362,Cab Upload
+8-Mar-17,OMT Offline Tracking,XPR275,Enter Offline
+8-Mar-17,OMT Offline Tracking,EUL768,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,JOM027,Chassis Start
+8-Mar-17,Cab Conveyer,TUQ327,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TUQ327,Cab Upload
+8-Mar-17,U-BOLT,XWK825,Front U-Bolt
+8-Mar-17,U-BOLT,XWK825,Rear U-Bolt
+8-Mar-17,Cab Call Scan,IFP328,B Line
+8-Mar-17,U-BOLT,XWK825,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,AJF195,Chassis Start
+8-Mar-17,OMT Offline Tracking,GYI954,Enter Offline
+8-Mar-17,Cab call scan,DKW659,A Line
+8-Mar-17,U-BOLT,KSP816,Front U-Bolt
+8-Mar-17,U-BOLT,KSP816,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,DZV145,Pool 13 Start
+8-Mar-17,OMT Offline Tracking,YTP390,Enter Offline
+8-Mar-17,OMT Offline Tracking,YTP390,Sold
+8-Mar-17,U-BOLT,OTX594,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,PMG926,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,UBZ174,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,GOB710,Pool 13 Start
+8-Mar-17,Cab in white conveyer,YCR723,CIW upload
+8-Mar-17,Hood Conveyor,PMG926,Hood Upload
+8-Mar-17,Hood Conveyor,UBZ174,Hood Upload
+8-Mar-17,Cab Conveyer,SVP127,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,SVP127,Cab Upload
+8-Mar-17,Cab in white conveyer,EBL860,CIW upload
+8-Mar-17,Cab Conveyer,ELJ539,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,ELJ539,Cab Upload
+8-Mar-17,Cab in white conveyer,AHN391,CIW upload
+8-Mar-17,Paint Inspection,QDR380,PAINT
+8-Mar-17,U-BOLT,OTX594,Front U-Bolt
+8-Mar-17,Cab in white conveyer,KFN372,CIW upload
+8-Mar-17,STVMS Tracking Chassis Start,DZV145,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,UBZ174,Chassis Start
+8-Mar-17,Cab call scan,LEA891,A Line
+8-Mar-17,Cab Conveyer,DKW659,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,DKW659,Cab Upload
+8-Mar-17,Paint Inspection,ZPW452,PAINT
+8-Mar-17,OMT Offline Tracking,WXK853,Enter Offline
+8-Mar-17,U-BOLT,LVP764,Front U-Bolt
+8-Mar-17,Cab Call Scan,JPU485,B Line
+8-Mar-17,Cab in white conveyer,DPH631,CIW upload
+8-Mar-17,Paint Inspection,CSW718,PAINT
+8-Mar-17,Paint Inspection,USH564,PAINT
+8-Mar-17,STVMS Tracking Chassis Start,PMG926,Chassis Start
+8-Mar-17,U-BOLT,JBQ468,Front U-Bolt
+8-Mar-17,U-BOLT,JBQ468,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,GOB710,Chassis Start
+8-Mar-17,OMT Offline Tracking,IXM739,Enter Offline
+8-Mar-17,Hood Conveyor,QDR380,Hood Upload
+8-Mar-17,Paint Inspection,MHU637,PAINT
+8-Mar-17,U-BOLT,TPJ583,Front U-Bolt
+8-Mar-17,Cab call scan,OSR174,A Line
+8-Mar-17,Cab in white conveyer,MPO083,CIW upload
+8-Mar-17,U-BOLT,TPJ583,Rear U-Bolt
+8-Mar-17,Hood Conveyor,GOB710,Hood Upload
+8-Mar-17,STVMS Tracking Chassis Start,QDR380,Chassis Start
+8-Mar-17,Cab Conveyer,IFP328,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,IFP328,Cab Upload
+8-Mar-17,OMT Offline Tracking,SOU593,Enter Offline
+8-Mar-17,Assembly Line Tracker,QDR380,Pool 13 Start
+8-Mar-17,OMT Offline Tracking,HMJ710,Enter Offline
+8-Mar-17,OMT Offline Tracking,HMJ710,Sold
+8-Mar-17,Cab Call Scan,SIW958,B Line
+8-Mar-17,STVMS Tracking Top Station,ZPW452,Top Station
+8-Mar-17,STVMS Tracking Top Station,MHU637,Top Station
+8-Mar-17,STVMS Tracking Top Station,USH564,Top Station
+8-Mar-17,STVMS Tracking Top Station,DZO637,Top Station
+8-Mar-17,STVMS Tracking Top Station,CJQ075,Top Station
+8-Mar-17,STVMS Tracking Top Station,LOF143,Top Station
+8-Mar-17,STVMS Tracking Top Station,RQJ940,Top Station
+8-Mar-17,STVMS Tracking Top Station,JCM567,Top Station
+8-Mar-17,STVMS Tracking Top Station,GFM783,Top Station
+8-Mar-17,U-BOLT,QVP853,Rear U-Bolt
+8-Mar-17,Cab Call Scan,USD901,B Line
+8-Mar-17,U-BOLT,QVP853,Front U-Bolt
+8-Mar-17,Assembly Line Tracker,GFM783,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,JCM567,Pool 60 Start
+8-Mar-17,STVMS Tracking Top Station,ZIQ738,Top Station
+8-Mar-17,OMT Offline Tracking,LVP764,Enter Offline
+8-Mar-17,U-BOLT,YGL283,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,ZIQ738,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,EZQ530,Pool 13 Start
+8-Mar-17,Cab Conveyer,JCM567,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,JCM567,Cab Upload
+8-Mar-17,Cab call scan,SNI285,A Line
+8-Mar-17,Hood Conveyor,ARS065,Hood Upload
+8-Mar-17,STVMS Tracking Top Station,THO850,Top Station
+8-Mar-17,OMT Offline Tracking,QVP853,Enter Offline
+8-Mar-17,Paint Inspection,SYA283,PAINT
+8-Mar-17,Hood Conveyor,TZO690,Hood Upload
+8-Mar-17,Cab Conveyor / Monorail,GFM783,Cab Upload
+8-Mar-17,Cab Conveyer,GFM783,Cab Upload 2
+8-Mar-17,Assembly Line Tracker,THO850,Pool 60 Start
+8-Mar-17,Cab in white conveyer,TBP914,CIW upload
+8-Mar-17,Cab Call Scan,ZDI213,B Line
+8-Mar-17,U-BOLT,RHX208,Rear U-Bolt
+8-Mar-17,Paint Inspection,VFR160,PAINT
+8-Mar-17,STVMS Tracking Chassis Start,TZO690,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,QBR938,Chassis Start
+8-Mar-17,Hood Conveyor,LED479,Hood Upload
+8-Mar-17,Assembly Line Tracker,TZO690,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,ARS065,Pool 13 Start
+8-Mar-17,Cab in white conveyer,XJI184,CIW upload
+8-Mar-17,U-BOLT,WRT608,Front U-Bolt
+8-Mar-17,Paint Inspection,PVZ436,PAINT
+8-Mar-17,Hood Conveyor,YBJ023,Hood Upload
+8-Mar-17,STVMS Tracking Top Station,EZQ530,Top Station
+8-Mar-17,Cab Conveyer,EUZ386,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,EUZ386,Cab Upload
+8-Mar-17,Assembly Line Tracker,EZQ530,Pool 60 Start
+8-Mar-17,Cab call scan,WQB451,A Line
+8-Mar-17,Paint Inspection,ZKY831,PAINT
+8-Mar-17,Hood Conveyor,DPL397,Hood Upload
+8-Mar-17,Cab in white conveyer,BJM584,CIW upload
+8-Mar-17,Cab Conveyer,TMZ629,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TMZ629,Cab Upload
+8-Mar-17,U-BOLT,NUX358,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,XLW275,Enter Offline
+8-Mar-17,STVMS Tracking Top Station,ARS065,Top Station
+8-Mar-17,OMT Offline Tracking,TPJ583,Enter Offline
+8-Mar-17,OMT Offline Tracking,TPJ583,Sold
+8-Mar-17,Assembly Line Tracker,ARS065,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,LED479,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,QBR938,Pool 13 Start
+8-Mar-17,Cab Call Scan,KMA503,B Line
+8-Mar-17,Paint Inspection,JKZ317,PAINT
+8-Mar-17,STVMS Tracking Top Station,TZO690,Top Station
+8-Mar-17,Cab in white conveyer,JIM476,CIW upload
+8-Mar-17,Assembly Line Tracker,TZO690,Pool 60 Start
+8-Mar-17,Hood Conveyor,UWT728,Hood Upload
+8-Mar-17,Paint Inspection,KNR831,PAINT
+8-Mar-17,Cab Conveyer,PMN417,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,PMN417,Cab Upload
+8-Mar-17,STVMS Tracking Top Station,QBR938,Top Station
+8-Mar-17,Assembly Line Tracker,QBR938,Pool 60 Start
+8-Mar-17,Paint Inspection,AYO527,PAINT
+8-Mar-17,OMT Offline Tracking,YHB831,Enter Offline
+8-Mar-17,Cab call scan,KSX968,A Line
+8-Mar-17,Cab in white conveyer,AIW532,CIW upload
+8-Mar-17,Cab Conveyer,SNI285,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,SNI285,Cab Upload
+8-Mar-17,OMT Offline Tracking,INW067,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,LED479,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,YBJ023,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,DPL397,Chassis Start
+8-Mar-17,Cab Call Scan,TFX540,B Line
+8-Mar-17,Hood Conveyor,ICB356,Hood Upload
+8-Mar-17,Cab in white conveyer,YRW680,CIW upload
+8-Mar-17,U-BOLT,GDR742,Front U-Bolt
+8-Mar-17,Cab Conveyer,ZDI213,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,ZDI213,Cab Upload
+8-Mar-17,STVMS Tracking Top Station,LED479,Top Station
+8-Mar-17,U-BOLT,GDR742,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,LED479,Pool 60 Start
+8-Mar-17,Paint Inspection,SYV137,PAINT
+8-Mar-17,Hood Conveyor,MPE786,Hood Upload
+8-Mar-17,OMT Offline Tracking,WTB963,Enter Offline
+8-Mar-17,Cab in white conveyer,TEK452,CIW upload
+8-Mar-17,U-BOLT,SPA495,Front U-Bolt
+8-Mar-17,Hood Conveyor,JBC439,Hood Upload
+8-Mar-17,Cab call scan,XFN395,A Line
+8-Mar-17,STVMS Tracking Top Station,YBJ023,Top Station
+8-Mar-17,Paint Inspection,LGO801,PAINT
+8-Mar-17,Cab Conveyer,WQB451,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,WQB451,Cab Upload
+8-Mar-17,U-BOLT,SPA495,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,UWT728,Chassis Start
+8-Mar-17,Assembly Line Tracker,YBJ023,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,UWT728,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,DPL397,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,YBJ023,Pool 13 Start
+8-Mar-17,OMT Offline Tracking,JOM027,Enter Offline
+8-Mar-17,U-BOLT,RAI572,Front U-Bolt
+8-Mar-17,Paint Inspection,ZVI392,PAINT
+8-Mar-17,STVMS Tracking Top Station,DPL397,Top Station
+8-Mar-17,Assembly Line Tracker,DPL397,Pool 60 Start
+8-Mar-17,OMT Offline Tracking,NKM173,Enter Offline
+8-Mar-17,Cab Conveyer,KMA503,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,KMA503,Cab Upload
+8-Mar-17,Paint Inspection,FTI824,PAINT
+8-Mar-17,Cab call scan,TEP325,A Line
+8-Mar-17,U-BOLT,LTV094,Front U-Bolt
+8-Mar-17,Cab Call Scan,TRL028,B Line
+8-Mar-17,U-BOLT,LTV094,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,ICB356,Chassis Start
+8-Mar-17,Cab Conveyer,KSX968,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,KSX968,Cab Upload
+8-Mar-17,STVMS Tracking Chassis Start,MPE786,Chassis Start
+8-Mar-17,OMT Offline Tracking,AJF195,Enter Offline
+8-Mar-17,Assembly Line Tracker,ICB356,Pool 13 Start
+8-Mar-17,U-BOLT,YAP829,Rear U-Bolt
+8-Mar-17,U-BOLT,YAP829,Front U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,JBC439,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,GSF615,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,OWH831,Chassis Start
+8-Mar-17,Cab Call Scan,NKE126,B Line
+8-Mar-17,OMT Offline Tracking,DZV145,Enter Offline
+8-Mar-17,OMT Offline Tracking,UBZ174,Enter Offline
+8-Mar-17,Assembly Line Tracker,MPE786,Pool 13 Start
+8-Mar-17,U-BOLT,ZIQ738,Front U-Bolt
+8-Mar-17,U-BOLT,ZIQ738,Rear U-Bolt
+8-Mar-17,Assembly Line Tracker,JBC439,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,GSF615,Pool 13 Start
+8-Mar-17,Hood Conveyor,GSF615,Hood Upload
+8-Mar-17,STVMS Tracking Top Station,UWT728,Top Station
+8-Mar-17,Hood Conveyor,OWH831,Hood Upload
+8-Mar-17,Cab call scan,FMU279,A Line
+8-Mar-17,Assembly Line Tracker,UWT728,Pool 60 Start
+8-Mar-17,Cab Conveyer,TFX540,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TFX540,Cab Upload
+8-Mar-17,Hood Conveyor,QPC953,Hood Upload
+8-Mar-17,Paint Inspection,VCM016,PAINT
+8-Mar-17,STVMS Tracking Top Station,ICB356,Top Station
+8-Mar-17,STVMS Tracking Top Station,MPE786,Top Station
+8-Mar-17,Cab in white conveyer,YBP783,CIW upload
+8-Mar-17,Assembly Line Tracker,MPE786,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,ICB356,Pool 60 Start
+8-Mar-17,Hood Conveyor,SYA283,Hood Upload
+8-Mar-17,Cab Conveyer,XFN395,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,XFN395,Cab Upload
+8-Mar-17,Paint Inspection,PJL425,PAINT
+8-Mar-17,Cab Conveyer,TRL028,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TRL028,Cab Upload
+8-Mar-17,Cab Call Scan,QMA357,B Line
+8-Mar-17,U-BOLT,THO850,Rear U-Bolt
+8-Mar-17,OMT Offline Tracking,GOB710,Enter Offline
+8-Mar-17,STVMS Tracking Top Station,JBC439,Top Station
+8-Mar-17,Cab call scan,ERC382,A Line
+8-Mar-17,Hood Conveyor,PVZ436,Hood Upload
+8-Mar-17,U-BOLT,EZQ530,Front U-Bolt
+8-Mar-17,Paint Inspection,CMI143,PAINT
+8-Mar-17,OMT Offline Tracking,PMG926,Enter Offline
+8-Mar-17,Assembly Line Tracker,JBC439,Pool 60 Start
+8-Mar-17,STVMS Tracking Chassis Start,QPC953,Chassis Start
+8-Mar-17,Cab in white conveyer,ATG468,CIW upload
+8-Mar-17,Cab Conveyer,TEP325,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TEP325,Cab Upload
+8-Mar-17,Hood Conveyor,JKZ317,Hood Upload
+8-Mar-17,Paint Inspection,IOU412,PAINT
+8-Mar-17,STVMS Tracking Top Station,GSF615,Top Station
+8-Mar-17,U-BOLT,ARS065,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,CSW718,Enter Offline
+8-Mar-17,OMT Offline Tracking,EZQ530,Enter Offline
+8-Mar-17,Paint Inspection,FTI653,PAINT
+8-Mar-17,Cab Conveyer,SYV137,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,SYV137,Cab Upload
+8-Mar-17,Hood Conveyor,EPR018,Hood Upload
+8-Mar-17,Paint Inspection,ILA012,PAINT
+8-Mar-17,Cab call scan,VCM016,A Line
+8-Mar-17,Cab in white conveyer,JZP143,CIW upload
+8-Mar-17,U-BOLT,TRJ645,Rear U-Bolt
+8-Mar-17,OMT Offline Tracking,ARS065,Enter Offline
+8-Mar-17,U-BOLT,CSV482,Front U-Bolt
+8-Mar-17,Hood Conveyor,DPA037,Hood Upload
+8-Mar-17,Cab Conveyer,ZVI392,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,ZVI392,Cab Upload
+8-Mar-17,STVMS Tracking Chassis Start,HMS840,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,RBT219,Chassis Start
+8-Mar-17,Cab in white conveyer,ZBT013,CIW upload
+8-Mar-17,Paint Inspection,WVB317,PAINT
+8-Mar-17,Cab Conveyer,LGO801,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,LGO801,Cab Upload
+8-Mar-17,U-BOLT,CSV482,Rear U-Bolt
+8-Mar-17,OMT Offline Tracking,TZO690,Enter Offline
+8-Mar-17,Hood Conveyor,OQS570,Hood Upload
+8-Mar-17,U-BOLT,NHZ581,Front U-Bolt
+8-Mar-17,Cab in white conveyer,FHL296,CIW upload
+8-Mar-17,Cab Call Scan,FHU982,B Line
+8-Mar-17,Assembly Line Tracker,ADQ781,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,QLV652,Pool 13 Start
+8-Mar-17,Cab call scan,IOU412,A Line
+8-Mar-17,U-BOLT,YZU059,Front U-Bolt
+8-Mar-17,Assembly Line Tracker,GJK683,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,EQD264,Pool 13 Start
+8-Mar-17,Cab Conveyer,FTI824,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,FTI824,Cab Upload
+8-Mar-17,Cab in white conveyer,FCR320,CIW upload
+8-Mar-17,Hood Conveyor,FTI653,Hood Upload
+8-Mar-17,U-BOLT,YZU059,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,YXF326,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,YKN950,Chassis Start
+8-Mar-17,Hood Conveyor,KUR214,Hood Upload
+8-Mar-17,U-BOLT,FZA809,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,LED479,Enter Offline
+8-Mar-17,OMT Offline Tracking,LED479,Sold
+8-Mar-17,Cab call scan,YCR723,A Line
+8-Mar-17,OMT Offline Tracking,QBR938,Enter Offline
+8-Mar-17,Cab in white conveyer,TJG894,CIW upload
+8-Mar-17,Paint Inspection,FQP941,PAINT
+8-Mar-17,Hood Conveyor,ILA012,Hood Upload
+8-Mar-17,Cab Conveyer,PJL425,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,PJL425,Cab Upload
+8-Mar-17,STVMS Tracking Chassis Start,IXT460,Chassis Start
+8-Mar-17,Cab Call Scan,AHN391,B Line
+8-Mar-17,Hood Conveyor,FQP941,Hood Upload
+8-Mar-17,U-BOLT,APZ612,Front U-Bolt
+8-Mar-17,Cab Conveyer,VCM016,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,VCM016,Cab Upload
+8-Mar-17,U-BOLT,APZ612,Rear U-Bolt
+8-Mar-17,OMT Offline Tracking,YBJ023,Enter Offline
+8-Mar-17,Paint Inspection,HQI892,PAINT
+8-Mar-17,Cab call scan,EBL860,A Line
+8-Mar-17,Assembly Line Tracker,IXT460,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,YKN950,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,YXF326,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,RBT219,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,HMS840,Pool 13 Start
+8-Mar-17,U-BOLT,YWI795,Front U-Bolt
+8-Mar-17,Cab Conveyer,IOU412,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,IOU412,Cab Upload
+8-Mar-17,Assembly Line Tracker,DJZ516,Pool 13 Start
+8-Mar-17,Paint Inspection,MAU864,PAINT
+8-Mar-17,U-BOLT,YWI795,Rear U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,DJZ516,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,SPF970,Chassis Start
+8-Mar-17,Cab Conveyer,ALE837,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,ALE837,Cab Upload
+8-Mar-17,OMT Offline Tracking,DPL397,Enter Offline
+8-Mar-17,Hood Conveyor,HQI892,Hood Upload
+8-Mar-17,Cab Call Scan,DPH631,B Line
+8-Mar-17,STVMS Tracking Chassis Start,JYZ708,Chassis Start
+8-Mar-17,Paint Inspection,WBR310,PAINT
+8-Mar-17,OMT Offline Tracking,UWT728,Enter Offline
+8-Mar-17,Cab call scan,KFN372,A Line
+8-Mar-17,Hood Conveyor,MAU864,Hood Upload
+8-Mar-17,Cab in white conveyer,TEN567,CIW upload
+8-Mar-17,U-BOLT,QRM025,Front U-Bolt
+8-Mar-17,Assembly Line Tracker,KLN307,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,JYZ708,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,SPF970,Pool 13 Start
+8-Mar-17,U-BOLT,QRM025,Rear U-Bolt
+8-Mar-17,Hood Conveyor,WBR310,Hood Upload
+8-Mar-17,Cab in white conveyer,WBS653,CIW upload
+8-Mar-17,Cab Conveyer,FHU982,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,FHU982,Cab Upload
+8-Mar-17,U-BOLT,YCU023,Front U-Bolt
+8-Mar-17,Cab Call Scan,LER634,B Line
+8-Mar-17,OMT Offline Tracking,ICB356,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,KLN307,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,VFX591,Chassis Start
+8-Mar-17,U-BOLT,YCU023,Rear U-Bolt
+8-Mar-17,Cab in white conveyer,GIL947,CIW upload
+8-Mar-17,Cab Conveyer,YCR723,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,YCR723,Cab Upload
+8-Mar-17,Cab call scan,MPO083,A Line
+8-Mar-17,U-BOLT,QLV652,Front U-Bolt
+8-Mar-17,Paint Inspection,LPU731,PAINT
+8-Mar-17,Hood Conveyor,LPU731,Hood Upload
+8-Mar-17,Cab in white conveyer,JNM860,CIW upload
+8-Mar-17,Cab Conveyer,AHN391,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,AHN391,Cab Upload
+8-Mar-17,Assembly Line Tracker,VFX591,Pool 13 Start
+8-Mar-17,U-BOLT,QLV652,Rear U-Bolt
+8-Mar-17,OMT Offline Tracking,MPE786,Enter Offline
+8-Mar-17,Paint Inspection,SFZ186,PAINT
+8-Mar-17,STVMS Tracking Chassis Start,EPR018,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,DPA037,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,OQS570,Chassis Start
+8-Mar-17,U-BOLT,ADQ781,Front U-Bolt
+8-Mar-17,Cab Conveyer,EBL860,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,EBL860,Cab Upload
+8-Mar-17,Hood Conveyor,SFZ186,Hood Upload
+8-Mar-17,OMT Offline Tracking,OWH831,Enter Offline
+8-Mar-17,Cab Call Scan,AGU058,B Line
+8-Mar-17,Cab call scan,SPI314,A Line
+8-Mar-17,OMT Offline Tracking,JBC439,Enter Offline
+8-Mar-17,Paint Inspection,XSZ543,PAINT
+8-Mar-17,U-BOLT,EQD264,Front U-Bolt
+8-Mar-17,STVMS Tracking Top Station,YCU023,Top Station
+8-Mar-17,STVMS Tracking Top Station,FTI824,Top Station
+8-Mar-17,STVMS Tracking Top Station,QLV652,Top Station
+8-Mar-17,STVMS Tracking Top Station,ADQ781,Top Station
+8-Mar-17,STVMS Tracking Top Station,EQD264,Top Station
+8-Mar-17,STVMS Tracking Top Station,GJK683,Top Station
+8-Mar-17,Assembly Line Tracker,GJK683,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,EQD264,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,ADQ781,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,QLV652,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,FTI824,Pool 60 Start
+8-Mar-17,STVMS Tracking Top Station,HMS840,Top Station
+8-Mar-17,Assembly Line Tracker,YCU023,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HMS840,Pool 60 Start
+8-Mar-17,STVMS Tracking Top Station,RBT219,Top Station
+8-Mar-17,STVMS Tracking Top Station,YXF326,Top Station
+8-Mar-17,STVMS Tracking Top Station,YKN950,Top Station
+8-Mar-17,STVMS Tracking Top Station,IXT460,Top Station
+8-Mar-17,STVMS Tracking Top Station,DJZ516,Top Station
+8-Mar-17,STVMS Tracking Top Station,SPF970,Top Station
+8-Mar-17,STVMS Tracking Top Station,JYZ708,Top Station
+8-Mar-17,STVMS Tracking Top Station,KLN307,Top Station
+8-Mar-17,Assembly Line Tracker,OQS570,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,KLN307,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,DPA037,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,EPR018,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,JYZ708,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,SPF970,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,DJZ516,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IXT460,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YKN950,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YXF326,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,RBT219,Pool 60 Start
+8-Mar-17,OMT Offline Tracking,QPC953,Enter Offline
+8-Mar-17,OMT Offline Tracking,QPC953,Sold
+8-Mar-17,U-BOLT,GJK683,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,GSF615,Enter Offline
+8-Mar-17,U-BOLT,EQD264,Rear U-Bolt
+8-Mar-17,Cab Call Scan,QZH295,B Line
+8-Mar-17,STVMS Tracking Top Station,GZC132,Top Station
+8-Mar-17,STVMS Tracking Top Station,XPQ906,Top Station
+8-Mar-17,STVMS Tracking Top Station,FWS327,Top Station
+8-Mar-17,STVMS Tracking Top Station,UXJ427,Top Station
+8-Mar-17,STVMS Tracking Top Station,CNE620,Top Station
+8-Mar-17,STVMS Tracking Top Station,DAJ581,Top Station
+8-Mar-17,STVMS Tracking Top Station,MTV391,Top Station
+8-Mar-17,STVMS Tracking Top Station,DUT829,Top Station
+8-Mar-17,Assembly Line Tracker,DUT829,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MTV391,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,DAJ581,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,CNE620,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,UXJ427,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,FWS327,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,XPQ906,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,GZC132,Pool 60 Start
+8-Mar-17,STVMS Tracking Top Station,PVO367,Top Station
+8-Mar-17,STVMS Tracking Top Station,JCV863,Top Station
+8-Mar-17,STVMS Tracking Top Station,DRY562,Top Station
+8-Mar-17,STVMS Tracking Top Station,NTD012,Top Station
+8-Mar-17,STVMS Tracking Top Station,IVC016,Top Station
+8-Mar-17,STVMS Tracking Top Station,HBM615,Top Station
+8-Mar-17,STVMS Tracking Top Station,QTF497,Top Station
+8-Mar-17,STVMS Tracking Top Station,AQG261,Top Station
+8-Mar-17,STVMS Tracking Top Station,YKL719,Top Station
+8-Mar-17,STVMS Tracking Top Station,IMS267,Top Station
+8-Mar-17,STVMS Tracking Top Station,KIA624,Top Station
+8-Mar-17,STVMS Tracking Top Station,YHP863,Top Station
+8-Mar-17,STVMS Tracking Top Station,SEU602,Top Station
+8-Mar-17,STVMS Tracking Chassis Start,HTV792,Chassis Start
+8-Mar-17,Cab call scan,BJM584,A Line
+8-Mar-17,Cab Call Scan,XJI184,B Line
+8-Mar-17,U-BOLT,PVO367,Front U-Bolt
+8-Mar-17,Cab Conveyer,EBM074,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,EBM074,Cab Upload
+8-Mar-17,Cab in white conveyer,ECW317,CIW upload
+8-Mar-17,Paint Inspection,SNU912,PAINT
+8-Mar-17,Assembly Line Tracker,SEU602,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YHP863,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,KIA624,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IMS267,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YKL719,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,AQG261,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,QTF497,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HBM615,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IVC016,Pool 60 Start
+8-Mar-17,Hood Conveyor,CFO213,Hood Upload
+8-Mar-17,Assembly Line Tracker,NTD012,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,DRY562,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,JCV863,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,PVO367,Pool 60 Start
+8-Mar-17,OMT Offline Tracking,JYZ708,Enter Offline
+8-Mar-17,Cab Conveyer,TBP914,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TBP914,Cab Upload
+8-Mar-17,OMT Offline Tracking,SPF970,Enter Offline
+8-Mar-17,Hood Conveyor,XET976,Hood Upload
+8-Mar-17,Paint Inspection,ZJC386,PAINT
+8-Mar-17,OMT Offline Tracking,YXF326,Sold
+8-Mar-17,Cab Call Scan,YRW680,B Line
+8-Mar-17,STVMS Tracking Top Station,EZV240,Top Station
+8-Mar-17,Cab in white conveyer,UZA509,CIW upload
+8-Mar-17,Assembly Line Tracker,EZV240,Pool 60 Start
+8-Mar-17,Hood Conveyor,TXR569,Hood Upload
+8-Mar-17,Paint Inspection,QTI468,PAINT
+8-Mar-17,Cab call scan,TEK452,A Line
+8-Mar-17,Hood Conveyor,BYF840,Hood Upload
+8-Mar-17,Cab Conveyer,LOF143,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,LOF143,Cab Upload
+8-Mar-17,Cab Call Scan,GTO457,B Line
+8-Mar-17,U-BOLT,DRY562,Front U-Bolt
+8-Mar-17,Cab in white conveyer,NWY194,CIW upload
+8-Mar-17,Hood Conveyor,SNU912,Hood Upload
+8-Mar-17,OMT Offline Tracking,KLN307,Enter Offline
+8-Mar-17,Paint Inspection,ZJK473,PAINT
+8-Mar-17,U-BOLT,NTD012,Front U-Bolt
+8-Mar-17,Cab Conveyer,XJI184,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,XJI184,Cab Upload
+8-Mar-17,OMT Offline Tracking,VFX591,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,MGR987,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,HXT823,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,SNU912,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,CFO213,Chassis Start
+8-Mar-17,Cab call scan,CMI143,A Line
+8-Mar-17,U-BOLT,IVC016,Front U-Bolt
+8-Mar-17,STVMS Tracking Top Station,HTV792,Top Station
+8-Mar-17,STVMS Tracking Top Station,MGR987,Top Station
+8-Mar-17,STVMS Tracking Top Station,HXT823,Top Station
+8-Mar-17,Cab Conveyer,BJM584,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,BJM584,Cab Upload
+8-Mar-17,OMT Offline Tracking,EPR018,Enter Offline
+8-Mar-17,Hood Conveyor,ZJC386,Hood Upload
+8-Mar-17,Assembly Line Tracker,HXT823,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MGR987,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HTV792,Pool 60 Start
+8-Mar-17,Paint Inspection,DKE275,PAINT
+8-Mar-17,Cab in white conveyer,DMS436,CIW upload
+8-Mar-17,Hood Conveyor,QTI468,Hood Upload
+8-Mar-17,Cab Call Scan,YBP783,B Line
+8-Mar-17,Cab Conveyer,YRW680,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,YRW680,Cab Upload
+8-Mar-17,Paint Inspection,MBG962,PAINT
+8-Mar-17,OMT Offline Tracking,DPA037,Enter Offline
+8-Mar-17,STVMS Tracking Top Station,SNU912,Top Station
+8-Mar-17,STVMS Tracking Top Station,CFO213,Top Station
+8-Mar-17,U-BOLT,QTF497,Front U-Bolt
+8-Mar-17,Cab in white conveyer,XIO539,CIW upload
+8-Mar-17,Paint Inspection,WQS294,PAINT
+8-Mar-17,Assembly Line Tracker,CFO213,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,SNU912,Pool 60 Start
+8-Mar-17,Cab Conveyer,TEK452,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TEK452,Cab Upload
+8-Mar-17,Cab call scan,ATG468,A Line
+8-Mar-17,OMT Offline Tracking,OQS570,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,XET976,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,TXR569,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,BYF840,Chassis Start
+8-Mar-17,U-BOLT,AQG261,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,FTI653,Enter Offline
+8-Mar-17,OMT Offline Tracking,KUR214,Enter Offline
+8-Mar-17,Cab Call Scan,XPQ906,B Line
+8-Mar-17,U-BOLT,IMS267,Front U-Bolt
+8-Mar-17,OMT Offline Tracking,ILA012,Enter Offline
+8-Mar-17,STVMS Tracking Chassis Start,ZJC386,Chassis Start
+8-Mar-17,OMT Offline Tracking,SPF970,Sold
+8-Mar-17,Cab Conveyer,GTO457,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,GTO457,Cab Upload
+8-Mar-17,Cab Conveyer,YBP783,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,YBP783,Cab Upload
+8-Mar-17,Cab call scan,GZC132,A Line
+8-Mar-17,Hood Conveyor,ZJK473,Hood Upload
+8-Mar-17,Cab Conveyer,CMI143,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,CMI143,Cab Upload
+8-Mar-17,Paint Inspection,LES327,PAINT
+8-Mar-17,Hood Conveyor,GLW381,Hood Upload
+8-Mar-17,Cab Conveyer,ATG468,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,ATG468,Cab Upload
+8-Mar-17,Hood Conveyor,DKE275,Hood Upload
+8-Mar-17,Cab in white conveyer,FSB584,CIW upload
+8-Mar-17,Paint Inspection,KTN409,PAINT
+8-Mar-17,OMT Offline Tracking,OQS570,Sold
+8-Mar-17,Paint Inspection,MUJ483,PAINT
+8-Mar-17,Cab call scan,FWS327,A Line
+8-Mar-17,Cab in white conveyer,AUG052,CIW upload
+8-Mar-17,Hood Conveyor,MUJ483,Hood Upload
+8-Mar-17,Cab Call Scan,UXJ427,B Line
+8-Mar-17,OMT Offline Tracking,FQP941,Enter Offline
+8-Mar-17,Cab in white conveyer,WDO021,CIW upload
+8-Mar-17,Cab Conveyer,GZC132,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,GZC132,Cab Upload
+8-Mar-17,U-BOLT,YHP863,Front U-Bolt
+8-Mar-17,Cab in white conveyer,WGT289,CIW upload
+8-Mar-17,Paint Inspection,RUK258,PAINT
+8-Mar-17,Cab Call Scan,CNE620,B Line
+8-Mar-17,OMT Offline Tracking,MAU864,Enter Offline
+8-Mar-17,OMT Offline Tracking,HQI892,Enter Offline
+8-Mar-17,Hood Conveyor,LES327,Hood Upload
+8-Mar-17,U-BOLT,SEU602,Front U-Bolt
+8-Mar-17,STVMS Tracking Chassis Start,ZJK473,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,QTI468,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,MBG962,Chassis Start
+8-Mar-17,Paint Inspection,UZV267,PAINT
+8-Mar-17,STVMS Tracking Chassis Start,DKE275,Chassis Start
+8-Mar-17,Cab Conveyer,XPQ906,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,XPQ906,Cab Upload
+8-Mar-17,Cab in white conveyer,NHX895,CIW upload
+8-Mar-17,STVMS Tracking Top Station,EUL768,Top Station
+8-Mar-17,STVMS Tracking Top Station,GYI954,Top Station
+8-Mar-17,STVMS Tracking Top Station,YTP390,Top Station
+8-Mar-17,STVMS Tracking Top Station,WXK853,Top Station
+8-Mar-17,STVMS Tracking Top Station,SOU593,Top Station
+8-Mar-17,STVMS Tracking Top Station,IXM739,Top Station
+8-Mar-17,Cab Conveyer,TPD286,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,TPD286,Cab Upload
+8-Mar-17,STVMS Tracking Top Station,EJO928,Top Station
+8-Mar-17,STVMS Tracking Top Station,HMJ710,Top Station
+8-Mar-17,STVMS Tracking Top Station,MVW427,Top Station
+8-Mar-17,STVMS Tracking Top Station,AMZ845,Top Station
+8-Mar-17,STVMS Tracking Top Station,HQD748,Top Station
+8-Mar-17,STVMS Tracking Top Station,VQD376,Top Station
+8-Mar-17,STVMS Tracking Top Station,QJP284,Top Station
+8-Mar-17,STVMS Tracking Top Station,ZHB578,Top Station
+8-Mar-17,STVMS Tracking Top Station,PGY640,Top Station
+8-Mar-17,STVMS Tracking Top Station,FIX581,Top Station
+8-Mar-17,STVMS Tracking Top Station,UHP854,Top Station
+8-Mar-17,STVMS Tracking Top Station,CSM507,Top Station
+8-Mar-17,STVMS Tracking Top Station,MGF879,Top Station
+8-Mar-17,STVMS Tracking Top Station,PRA475,Top Station
+8-Mar-17,STVMS Tracking Top Station,QFW209,Top Station
+8-Mar-17,STVMS Tracking Top Station,SZP362,Top Station
+8-Mar-17,STVMS Tracking Top Station,BIP389,Top Station
+8-Mar-17,STVMS Tracking Top Station,TUQ327,Top Station
+8-Mar-17,Cab in white conveyer,TEP325,CIW upload
+8-Mar-17,STVMS Tracking Top Station,SVP127,Top Station
+8-Mar-17,STVMS Tracking Top Station,ELJ539,Top Station
+8-Mar-17,STVMS Tracking Top Station,IFP328,Top Station
+8-Mar-17,STVMS Tracking Top Station,DKW659,Top Station
+8-Mar-17,STVMS Tracking Top Station,JPU485,Top Station
+8-Mar-17,Assembly Line Tracker,JPU485,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,DKW659,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IFP328,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,ELJ539,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,SVP127,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,TUQ327,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,BIP389,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,SZP362,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,QFW209,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,PRA475,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MGF879,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,CSM507,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,UHP854,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,FIX581,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,PGY640,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,ZHB578,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,QJP284,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,VQD376,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HQD748,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,AMZ845,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MVW427,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HMJ710,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,EJO928,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IXM739,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,SOU593,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,WXK853,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YTP390,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,GYI954,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,EUL768,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,XPR275,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,TPG078,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,LMN504,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,BRL042,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,FHL057,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MBP046,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,QJP284,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,IBA235,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,ZYA587,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,IQS845,Pool 60 Start
+8-Mar-17,Hood Conveyor,FIX581,Hood Upload
+8-Mar-17,U-BOLT,EUL768,Front U-Bolt
+8-Mar-17,Cab call scan,HMX073,A Line
+8-Mar-17,OMT Offline Tracking,GMS924,Enter Offline
+8-Mar-17,Cab Conveyer,JYI091,Cab Upload 2
+8-Mar-17,Cab Conveyor / Monorail,JYI091,Cab Upload
+8-Mar-17,Paint Inspection,SZP362,PAINT
+8-Mar-17,Assembly Line Tracker,ZHB578,Pool 13 Start
+8-Mar-17,Assembly Line Tracker,DTP539,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,AKC912,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,HRY673,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MRI015,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,MQH836,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,CNZ205,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,YDL247,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,XGW598,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,KQN543,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,TQL981,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,JYI091,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,TPD286,Pool 60 Start
+8-Mar-17,Assembly Line Tracker,CSD174,Pool 60 Start
+8-Mar-17,STVMS Tracking Chassis Start,ZHB578,Chassis Start
+8-Mar-17,STVMS Tracking Chassis Start,PGY640,Chassis Start
+8-Mar-17,Cab in white conveyer,NKE126,CIW upload
+8-Mar-17,Cab in white conveyer,FMU279,CIW upload
+8-Mar-17,STVMS Tracking Top Station,LEA891,Top Station
+8-Mar-17,Paint Inspection,QFW209,PAINT
+8-Mar-17,STVMS Tracking Top Station,SIW958,Top Station
+8-Mar-17,STVMS Tracking Top Station,OSR174,Top Station
+8-Mar-17,STVMS Tracking Top Station,USD901,Top Station
+8-Mar-17,STVMS Tracking Top Station,CQU695,Top Station
+8-Mar-17,STVMS Tracking Top Station,WBH162,Top Station
+8-Mar-17,STVMS Tracking Top Station,TYA561,Top Station
+8-Mar-17,STVMS Tracking Top Station,DVM139,Top Station
+8-Mar-17,STVMS Tracking Top Station,GPJ498,Top Station
+8-Mar-17,STVMS Tracking Top Station,UBJ603,Top Station
+8-Mar-17,STVMS Tracking Top Station,JYL728,Top Station
+8-Mar-17,STVMS Tracking Top Station,OTS758,Top Station
+8-Mar-17,STVMS Tracking Top Station,NUR218,Top Station
+8-Mar-17,Assembly Line Tracker,NUR218,Pool 60 Start
+9-Mar-17,OMT Offline Tracking,UFV140,Enter Offline
+9-Mar-17,Cab Conveyer,ULN810,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,ULN810,Cab Upload
+9-Mar-17,Assembly Line Tracker,PEK163,Pool 13 Start
+9-Mar-17,Hood Conveyor,RCF947,Hood Upload
+9-Mar-17,Cab Call Scan,YKZ247,B Line
+9-Mar-17,U-BOLT,ITO673,Front U-Bolt
+9-Mar-17,Cab Conveyer,OIF375,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,OIF375,Cab Upload
+9-Mar-17,OMT Offline Tracking,YTG326,Enter Offline
+9-Mar-17,U-BOLT,QME682,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,RZW691,Enter Offline
+9-Mar-17,Cab Call Scan,JLD084,B Line
+9-Mar-17,Cab call scan,MBF976,A Line
+9-Mar-17,Cab Conveyer,FNG604,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,FNG604,Cab Upload
+9-Mar-17,Assembly Line Tracker,BEM390,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,CXD285,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,SYB619,Pool 13 Start
+9-Mar-17,Cab Call Scan,JDY852,B Line
+9-Mar-17,OMT Offline Tracking,FUR610,Enter Offline
+9-Mar-17,OMT Offline Tracking,GYV645,Enter Offline
+9-Mar-17,Cab Conveyer,YKZ247,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,YKZ247,Cab Upload
+9-Mar-17,Cab call scan,EGK921,A Line
+9-Mar-17,STVMS Tracking Chassis Start,PEK163,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,SYB619,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,CXD285,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,BEM390,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,CVE258,Chassis Start
+9-Mar-17,Hood Conveyor,ALP937,Hood Upload
+9-Mar-17,Cab Conveyer,NVM832,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,NVM832,Cab Upload
+9-Mar-17,U-BOLT,SLP187,Front U-Bolt
+9-Mar-17,Hood Conveyor,CSD174,Hood Upload
+9-Mar-17,Assembly Line Tracker,ETO603,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,CVE258,Pool 13 Start
+9-Mar-17,STVMS Tracking Chassis Start,ETO603,Chassis Start
+9-Mar-17,Cab Conveyer,MBF976,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,MBF976,Cab Upload
+9-Mar-17,Cab call scan,XYI250,A Line
+9-Mar-17,Paint Inspection,CNZ205,PAINT
+9-Mar-17,U-BOLT,SGN329,Front U-Bolt
+9-Mar-17,Paint Inspection,MQH836,PAINT
+9-Mar-17,Hood Conveyor,TPD286,Hood Upload
+9-Mar-17,Cab Conveyer,JLD084,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,JLD084,Cab Upload
+9-Mar-17,OMT Offline Tracking,WMR075,Enter Offline
+9-Mar-17,Assembly Line Tracker,ALP937,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,RCF947,Pool 13 Start
+9-Mar-17,OMT Offline Tracking,YKL520,Enter Offline
+9-Mar-17,Cab Call Scan,BHK490,B Line
+9-Mar-17,Hood Conveyor,JYI091,Hood Upload
+9-Mar-17,U-BOLT,TCS146,Front U-Bolt
+9-Mar-17,Cab Conveyer,EGK921,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,EGK921,Cab Upload
+9-Mar-17,Paint Inspection,HRY673,PAINT
+9-Mar-17,U-BOLT,OQA530,Front U-Bolt
+9-Mar-17,Cab call scan,UYZ958,A Line
+9-Mar-17,Hood Conveyor,TQL981,Hood Upload
+9-Mar-17,OMT Offline Tracking,OQA530,Enter Offline
+9-Mar-17,Paint Inspection,IFP328,PAINT
+9-Mar-17,Paint Inspection,LEA891,PAINT
+9-Mar-17,Paint Inspection,SIW958,PAINT
+9-Mar-17,Paint Inspection,OSR174,PAINT
+9-Mar-17,Paint Inspection,LER634,PAINT
+9-Mar-17,STVMS Tracking Top Station,OTX594,Top Station
+9-Mar-17,STVMS Tracking Top Station,LVP764,Top Station
+9-Mar-17,STVMS Tracking Top Station,JBQ468,Top Station
+9-Mar-17,STVMS Tracking Top Station,TPJ583,Top Station
+9-Mar-17,STVMS Tracking Top Station,QVP853,Top Station
+9-Mar-17,STVMS Tracking Top Station,YHB831,Top Station
+9-Mar-17,STVMS Tracking Top Station,XLW275,Top Station
+9-Mar-17,STVMS Tracking Top Station,WTB963,Top Station
+9-Mar-17,STVMS Tracking Top Station,INW067,Top Station
+9-Mar-17,STVMS Tracking Top Station,NKM173,Top Station
+9-Mar-17,Assembly Line Tracker,NKM173,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,INW067,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,WTB963,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,XLW275,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,YHB831,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,QVP853,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,TPJ583,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,JBQ468,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,LVP764,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,OTX594,Pool 60 Start
+9-Mar-17,Paint Inspection,CQU695,PAINT
+9-Mar-17,Paint Inspection,USD901,PAINT
+9-Mar-17,Paint Inspection,WBH162,PAINT
+9-Mar-17,Cab Conveyer,DTP539,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,DTP539,Cab Upload
+9-Mar-17,Cab Call Scan,MBP046,B Line
+9-Mar-17,OMT Offline Tracking,GDU671,Enter Offline
+9-Mar-17,OMT Offline Tracking,GDU671,Sold
+9-Mar-17,OMT Offline Tracking,TGS974,Sold
+9-Mar-17,OMT Offline Tracking,TGS974,Enter Offline
+9-Mar-17,Assembly Line Tracker,SVP127,Pool 13 Start
+9-Mar-17,Cab Conveyer,IQS845,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,IQS845,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,SVP127,Chassis Start
+9-Mar-17,Hood Conveyor,ELJ539,Hood Upload
+9-Mar-17,Paint Inspection,TYA561,PAINT
+9-Mar-17,Cab call scan,FHL057,A Line
+9-Mar-17,OMT Offline Tracking,PEK163,Enter Offline
+9-Mar-17,Assembly Line Tracker,ELJ539,Pool 13 Start
+9-Mar-17,Paint Inspection,DVM139,PAINT
+9-Mar-17,U-BOLT,QJP284,Front U-Bolt
+9-Mar-17,STVMS Tracking Chassis Start,ELJ539,Chassis Start
+9-Mar-17,U-BOLT,QJP284,Rear U-Bolt
+9-Mar-17,Cab Conveyer,ZYA587,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,ZYA587,Cab Upload
+9-Mar-17,Hood Conveyor,IFP328,Hood Upload
+9-Mar-17,Assembly Line Tracker,IFP328,Pool 13 Start
+9-Mar-17,Cab in white conveyer,YAP829,CIW upload
+9-Mar-17,OMT Offline Tracking,CXD285,Enter Offline
+9-Mar-17,Hood Conveyor,DKW659,Hood Upload
+9-Mar-17,Paint Inspection,GPJ498,PAINT
+9-Mar-17,U-BOLT,ZHB578,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,DKW659,Pool 13 Start
+9-Mar-17,OMT Offline Tracking,ELI075,Enter Offline
+9-Mar-17,Cab in white conveyer,YXF326,CIW upload
+9-Mar-17,Cab in white conveyer,SPF970,CIW upload
+9-Mar-17,Paint Inspection,NUX358,PAINT
+9-Mar-17,Cab in white conveyer,JYZ708,CIW upload
+9-Mar-17,Cab in white conveyer,YEK097,CIW upload
+9-Mar-17,Cab Call Scan,YHB831,B Line
+9-Mar-17,Assembly Line Tracker,XFN395,Pool 13 Start
+9-Mar-17,OMT Offline Tracking,SVP127,Enter Offline
+9-Mar-17,OMT Offline Tracking,SVP127,Sold
+9-Mar-17,Cab Conveyer,JBQ468,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,JBQ468,Cab Upload
+9-Mar-17,OMT Offline Tracking,ELJ539,Enter Offline
+9-Mar-17,Cab in white conveyer,RYJ284,CIW upload
+9-Mar-17,Paint Inspection,DPL397,PAINT
+9-Mar-17,Cab call scan,XLW275,A Line
+9-Mar-17,Hood Conveyor,ZDI213,Hood Upload
+9-Mar-17,Paint Inspection,ERC382,PAINT
+9-Mar-17,Cab Conveyer,LVP764,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,LVP764,Cab Upload
+9-Mar-17,Assembly Line Tracker,TRL028,Pool 13 Start
+9-Mar-17,Cab in white conveyer,EPR018,CIW upload
+9-Mar-17,Paint Inspection,GDR742,PAINT
+9-Mar-17,U-BOLT,RQJ940,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,IFP328,Enter Offline
+9-Mar-17,Hood Conveyor,ALE837,Hood Upload
+9-Mar-17,OMT Offline Tracking,DKW659,Enter Offline
+9-Mar-17,Cab Conveyer,TPJ583,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,TPJ583,Cab Upload
+9-Mar-17,Cab in white conveyer,DPA037,CIW upload
+9-Mar-17,Cab Call Scan,WTB963,B Line
+9-Mar-17,Hood Conveyor,WQB451,Hood Upload
+9-Mar-17,U-BOLT,JCM567,Front U-Bolt
+9-Mar-17,Cab call scan,INW067,A Line
+9-Mar-17,Assembly Line Tracker,TEP325,Pool 13 Start
+9-Mar-17,Cab Conveyer,QVP853,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,QVP853,Cab Upload
+9-Mar-17,OMT Offline Tracking,JPU485,Enter Offline
+9-Mar-17,Assembly Line Tracker,NKE126,Pool 13 Start
+9-Mar-17,U-BOLT,GFM783,Front U-Bolt
+9-Mar-17,Paint Inspection,SPA495,PAINT
+9-Mar-17,Cab Conveyer,YHB831,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,YHB831,Cab Upload
+9-Mar-17,Cab in white conveyer,OQS570,CIW upload
+9-Mar-17,OMT Offline Tracking,LEA891,Enter Offline
+9-Mar-17,Cab Call Scan,NKM173,B Line
+9-Mar-17,STVMS Tracking Chassis Start,KSX968,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,TFX540,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,XFN395,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,TRL028,Chassis Start
+9-Mar-17,Paint Inspection,RAI572,PAINT
+9-Mar-17,U-BOLT,EUZ386,Front U-Bolt
+9-Mar-17,Cab call scan,JOM027,A Line
+9-Mar-17,Cab Conveyer,XLW275,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,XLW275,Cab Upload
+9-Mar-17,Paint Inspection,LTV094,PAINT
+9-Mar-17,U-BOLT,EUZ386,Rear U-Bolt
+9-Mar-17,Paint Inspection,WRT608,PAINT
+9-Mar-17,Hood Conveyor,KMA503,Hood Upload
+9-Mar-17,OMT Offline Tracking,SIW958,Enter Offline
+9-Mar-17,OMT Offline Tracking,SIW958,Sold
+9-Mar-17,U-BOLT,AYO527,Front U-Bolt
+9-Mar-17,STVMS Tracking Top Station,IOU412,Top Station
+9-Mar-17,Cab Conveyer,ARS065,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,ARS065,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,KFN372,Chassis Start
+9-Mar-17,Assembly Line Tracker,EBL860,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,IOU412,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,FHU982,Pool 60 Start
+9-Mar-17,U-BOLT,KNR831,Front U-Bolt
+9-Mar-17,Cab Conveyer,EZQ530,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,EZQ530,Cab Upload
+9-Mar-17,STVMS Tracking Top Station,EBL860,Top Station
+9-Mar-17,U-BOLT,KNR831,Rear U-Bolt
+9-Mar-17,Assembly Line Tracker,EBL860,Pool 60 Start
+9-Mar-17,Cab call scan,DPL397,A Line
+9-Mar-17,U-BOLT,SYV137,Front U-Bolt
+9-Mar-17,U-BOLT,SYV137,Rear U-Bolt
+9-Mar-17,STVMS Tracking Chassis Start,DPH631,Chassis Start
+9-Mar-17,Cab Conveyer,TZO690,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,TZO690,Cab Upload
+9-Mar-17,U-BOLT,ZVI392,Front U-Bolt
+9-Mar-17,U-BOLT,ZVI392,Rear U-Bolt
+9-Mar-17,Cab in white conveyer,GWC415,CIW upload
+9-Mar-17,Paint Inspection,YWI795,PAINT
+9-Mar-17,Cab in white conveyer,LCQ598,CIW upload
+9-Mar-17,Cab in white conveyer,HOJ276,CIW upload
+9-Mar-17,Cab in white conveyer,KIA624,CIW upload
+9-Mar-17,Paint Inspection,GJK683,PAINT
+9-Mar-17,Paint Inspection,EVB234,PAINT
+9-Mar-17,Cab in white conveyer,YHP863,CIW upload
+9-Mar-17,Cab in white conveyer,SEU602,CIW upload
+9-Mar-17,Paint Inspection,YCU023,PAINT
+9-Mar-17,Cab in white conveyer,EZV240,CIW upload
+9-Mar-17,Cab in white conveyer,HTV792,CIW upload
+9-Mar-17,Paint Inspection,ADQ781,PAINT
+9-Mar-17,Paint Inspection,QLV652,PAINT
+9-Mar-17,Cab in white conveyer,MGR987,CIW upload
+9-Mar-17,Cab in white conveyer,HXT823,CIW upload
+9-Mar-17,Paint Inspection,RBT219,PAINT
+9-Mar-17,Paint Inspection,EQD264,PAINT
+9-Mar-17,Cab in white conveyer,SNU912,CIW upload
+9-Mar-17,Paint Inspection,YXF326,PAINT
+9-Mar-17,Cab in white conveyer,CFO213,CIW upload
+9-Mar-17,Paint Inspection,HMS840,PAINT
+9-Mar-17,Cab in white conveyer,XET976,CIW upload
+9-Mar-17,Cab Call Scan,UWT728,B Line
+9-Mar-17,OMT Offline Tracking,TEP325,Enter Offline
+9-Mar-17,Cab in white conveyer,TXR569,CIW upload
+9-Mar-17,Paint Inspection,IXT460,PAINT
+9-Mar-17,OMT Offline Tracking,TRL028,Enter Offline
+9-Mar-17,Assembly Line Tracker,KFN372,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,AHN391,Pool 13 Start
+9-Mar-17,Hood Conveyor,AGU058,Hood Upload
+9-Mar-17,Cab call scan,ICB356,A Line
+9-Mar-17,Cab Conveyer,LED479,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,LED479,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,MPO083,Chassis Start
+9-Mar-17,Hood Conveyor,QZH295,Hood Upload
+9-Mar-17,Assembly Line Tracker,DPH631,Pool 13 Start
+9-Mar-17,U-BOLT,LGO801,Front U-Bolt
+9-Mar-17,Cab in white conveyer,IGW482,CIW upload
+9-Mar-17,OMT Offline Tracking,KFN372,Enter Offline
+9-Mar-17,U-BOLT,MAU864,Rear U-Bolt
+9-Mar-17,U-BOLT,WBR310,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,AHN391,Enter Offline
+9-Mar-17,Cab call scan,IXT460,A Line
+9-Mar-17,Cab Conveyer,ADQ781,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,ADQ781,Cab Upload
+9-Mar-17,Assembly Line Tracker,TBP914,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,EBM074,Pool 13 Start
+9-Mar-17,U-BOLT,WBR310,Rear U-Bolt
+9-Mar-17,Cab Conveyer,GJK683,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,GJK683,Cab Upload
+9-Mar-17,OMT Offline Tracking,MPO083,Enter Offline
+9-Mar-17,U-BOLT,LPU731,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,YRW680,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,XJI184,Pool 13 Start
+9-Mar-17,Cab in white conveyer,YAM792,CIW upload
+9-Mar-17,Cab Call Scan,SPF970,B Line
+9-Mar-17,Cab Conveyer,YXF326,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,YXF326,Cab Upload
+9-Mar-17,Paint Inspection,XPQ906,PAINT
+9-Mar-17,OMT Offline Tracking,DPH631,Enter Offline
+9-Mar-17,U-BOLT,SFZ186,Front U-Bolt
+9-Mar-17,Cab call scan,DJZ516,A Line
+9-Mar-17,U-BOLT,SFZ186,Rear U-Bolt
+9-Mar-17,Cab in white conveyer,XQJ175,CIW upload
+9-Mar-17,Cab Conveyer,HMS840,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,HMS840,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,YRW680,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,TEK452,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,GTO457,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,YBP783,Chassis Start
+9-Mar-17,U-BOLT,PWR481,Front U-Bolt
+9-Mar-17,Cab in white conveyer,AXB124,CIW upload
+9-Mar-17,Cab in white conveyer,NEH310,CIW upload
+9-Mar-17,Cab Conveyer,RBT219,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,RBT219,Cab Upload
+9-Mar-17,Cab call scan,JYZ708,A Line
+9-Mar-17,OMT Offline Tracking,SPI314,Enter Offline
+9-Mar-17,Paint Inspection,JCV863,PAINT
+9-Mar-17,Cab Call Scan,KLN307,B Line
+9-Mar-17,Cab Conveyer,IXT460,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,IXT460,Cab Upload
+9-Mar-17,Cab in white conveyer,WTZ176,CIW upload
+9-Mar-17,Hood Conveyor,XPQ906,Hood Upload
+9-Mar-17,Cab Conveyer,YKN950,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,YKN950,Cab Upload
+9-Mar-17,Paint Inspection,CNE620,PAINT
+9-Mar-17,Hood Conveyor,FWS327,Hood Upload
+9-Mar-17,Paint Inspection,DAJ581,PAINT
+9-Mar-17,OMT Offline Tracking,LER634,Enter Offline
+9-Mar-17,Paint Inspection,CRN086,PAINT
+9-Mar-17,OMT Offline Tracking,SEK173,Enter Offline
+9-Mar-17,OMT Offline Tracking,SEK173,Sold
+9-Mar-17,Paint Inspection,PVO367,PAINT
+9-Mar-17,STVMS Tracking Chassis Start,ATG468,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,GZC132,Chassis Start
+9-Mar-17,Cab call scan,VFX591,A Line
+9-Mar-17,Hood Conveyor,UXJ427,Hood Upload
+9-Mar-17,STVMS Tracking Top Station,XWK825,Top Station
+9-Mar-17,Assembly Line Tracker,OTS758,Pool 60 Start
+9-Mar-17,OMT Offline Tracking,YPV702,Enter Offline
+9-Mar-17,Assembly Line Tracker,XWK825,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,JYL728,Pool 60 Start
+9-Mar-17,STVMS Tracking Top Station,KSP816,Top Station
+9-Mar-17,Assembly Line Tracker,UBJ603,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,KSP816,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,GPJ498,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,DVM139,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,TYA561,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,WBH162,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,CQU695,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,USD901,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,OSR174,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,SIW958,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,LEA891,Pool 60 Start
+9-Mar-17,Cab Conveyer,TQL981,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,TQL981,Cab Upload
+9-Mar-17,Cab Call Scan,XGW598,B Line
+9-Mar-17,Hood Conveyor,UHP854,Hood Upload
+9-Mar-17,Assembly Line Tracker,PGY640,Pool 13 Start
+9-Mar-17,Cab in white conveyer,QMA357,CIW upload
+9-Mar-17,Cab call scan,CNZ205,A Line
+9-Mar-17,U-BOLT,YTP390,Front U-Bolt
+9-Mar-17,Cab Conveyer,KQN543,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,KQN543,Cab Upload
+9-Mar-17,OMT Offline Tracking,QME682,Enter Offline
+9-Mar-17,OMT Offline Tracking,QME682,Sold
+9-Mar-17,Paint Inspection,TUQ327,PAINT
+9-Mar-17,Cab in white conveyer,ERC382,CIW upload
+9-Mar-17,OMT Offline Tracking,SGN329,Enter Offline
+9-Mar-17,Cab in white conveyer,GQV369,CIW upload
+9-Mar-17,Assembly Line Tracker,FIX581,Pool 13 Start
+9-Mar-17,Hood Conveyor,CSM507,Hood Upload
+9-Mar-17,STVMS Tracking Chassis Start,FIX581,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,UHP854,Chassis Start
+9-Mar-17,Cab Call Scan,MQH836,B Line
+9-Mar-17,STVMS Tracking Chassis Start,CSM507,Chassis Start
+9-Mar-17,Assembly Line Tracker,UHP854,Pool 13 Start
+9-Mar-17,Hood Conveyor,MGF879,Hood Upload
+9-Mar-17,Cab call scan,HRY673,A Line
+9-Mar-17,Cab in white conveyer,QZB271,CIW upload
+9-Mar-17,Cab Conveyer,HMX073,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,HMX073,Cab Upload
+9-Mar-17,Paint Inspection,BIP389,PAINT
+9-Mar-17,OMT Offline Tracking,FTO836,Enter Offline
+9-Mar-17,U-BOLT,SOU593,Front U-Bolt
+9-Mar-17,Hood Conveyor,PRA475,Hood Upload
+9-Mar-17,STVMS Tracking Chassis Start,MGF879,Chassis Start
+9-Mar-17,Cab in white conveyer,RHX208,CIW upload
+9-Mar-17,OMT Offline Tracking,HMX073,Enter Offline
+9-Mar-17,U-BOLT,IXM739,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,MGF879,Pool 13 Start
+9-Mar-17,Cab Conveyer,XGW598,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,XGW598,Cab Upload
+9-Mar-17,Assembly Line Tracker,CSM507,Pool 13 Start
+9-Mar-17,Cab Call Scan,MRI015,B Line
+9-Mar-17,Cab in white conveyer,WRT608,CIW upload
+9-Mar-17,Cab call scan,AKC912,A Line
+9-Mar-17,Assembly Line Tracker,RQJ940,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,LOF143,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,CJQ075,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,DZO637,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,CSW718,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,USH564,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,MHU637,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,ZPW452,Pool 60 Start
+9-Mar-17,Cab in white conveyer,FPI264,CIW upload
+9-Mar-17,STVMS Tracking Chassis Start,CSW718,Chassis Start
+9-Mar-17,Hood Conveyor,CSW718,Hood Upload
+9-Mar-17,Cab Conveyer,LEA891,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,LEA891,Cab Upload
+9-Mar-17,Cab Conveyer,JPU485,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,JPU485,Cab Upload
+9-Mar-17,OMT Offline Tracking,EJO928,Enter Offline
+9-Mar-17,OMT Offline Tracking,EJO928,Sold
+9-Mar-17,Cab in white conveyer,SPI314,CIW upload
+9-Mar-17,Cab call scan,CQU695,A Line
+9-Mar-17,U-BOLT,YHB831,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,ZPW452,Pool 13 Start
+9-Mar-17,Cab Conveyer,SIW958,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,SIW958,Cab Upload
+9-Mar-17,OMT Offline Tracking,MVW427,Enter Offline
+9-Mar-17,STVMS Tracking Chassis Start,ZPW452,Chassis Start
+9-Mar-17,Cab in white conveyer,AGU058,CIW upload
+9-Mar-17,Assembly Line Tracker,MHU637,Pool 13 Start
+9-Mar-17,U-BOLT,XLW275,Rear U-Bolt
+9-Mar-17,U-BOLT,XLW275,Front U-Bolt
+9-Mar-17,Paint Inspection,DZO637,PAINT
+9-Mar-17,STVMS Tracking Chassis Start,MHU637,Chassis Start
+9-Mar-17,Paint Inspection,CJQ075,PAINT
+9-Mar-17,Cab in white conveyer,QZH295,CIW upload
+9-Mar-17,Cab Call Scan,WBH162,B Line
+9-Mar-17,OMT Offline Tracking,AMZ845,Enter Offline
+9-Mar-17,U-BOLT,WTB963,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,USH564,Pool 13 Start
+9-Mar-17,STVMS Tracking Chassis Start,USH564,Chassis Start
+9-Mar-17,Cab Conveyer,OSR174,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,OSR174,Cab Upload
+9-Mar-17,Paint Inspection,RQJ940,PAINT
+9-Mar-17,Cab in white conveyer,SEK173,CIW upload
+9-Mar-17,Assembly Line Tracker,DZO637,Pool 13 Start
+9-Mar-17,OMT Offline Tracking,HQD748,Enter Offline
+9-Mar-17,STVMS Tracking Top Station,EUZ386,Top Station
+9-Mar-17,STVMS Tracking Top Station,TMZ629,Top Station
+9-Mar-17,STVMS Tracking Top Station,SNI285,Top Station
+9-Mar-17,STVMS Tracking Top Station,PMN417,Top Station
+9-Mar-17,STVMS Tracking Top Station,ZDI213,Top Station
+9-Mar-17,STVMS Tracking Top Station,ALE837,Top Station
+9-Mar-17,STVMS Tracking Top Station,WQB451,Top Station
+9-Mar-17,STVMS Tracking Top Station,KMA503,Top Station
+9-Mar-17,STVMS Tracking Top Station,KSX968,Top Station
+9-Mar-17,Cab Conveyer,USD901,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,USD901,Cab Upload
+9-Mar-17,STVMS Tracking Top Station,TFX540,Top Station
+9-Mar-17,Paint Inspection,LOF143,PAINT
+9-Mar-17,U-BOLT,WTB963,Rear U-Bolt
+9-Mar-17,Assembly Line Tracker,TFX540,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,KSX968,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,KMA503,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,WQB451,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,ALE837,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,ZDI213,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,PMN417,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,SNI285,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,TMZ629,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,EUZ386,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,CJQ075,Pool 13 Start
+9-Mar-17,U-BOLT,INW067,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,VQD376,Enter Offline
+9-Mar-17,Cab Conveyer,CQU695,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,CQU695,Cab Upload
+9-Mar-17,Cab Call Scan,TYA561,B Line
+9-Mar-17,Cab Call Scan,GPJ498,B Line
+9-Mar-17,U-BOLT,INW067,Rear U-Bolt
+9-Mar-17,Cab in white conveyer,TRJ645,CIW upload
+9-Mar-17,STVMS Tracking Chassis Start,DZO637,Chassis Start
+9-Mar-17,Cab call scan,DVM139,A Line
+9-Mar-17,Paint Inspection,JCM567,PAINT
+9-Mar-17,U-BOLT,NKM173,Front U-Bolt
+9-Mar-17,Cab in white conveyer,CSV482,CIW upload
+9-Mar-17,STVMS Tracking Chassis Start,CJQ075,Chassis Start
+9-Mar-17,OMT Offline Tracking,QJP284,Enter Offline
+9-Mar-17,U-BOLT,JOM027,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,ZHB578,Enter Offline
+9-Mar-17,Assembly Line Tracker,LOF143,Pool 13 Start
+9-Mar-17,U-BOLT,JOM027,Rear U-Bolt
+9-Mar-17,Paint Inspection,GFM783,PAINT
+9-Mar-17,Cab in white conveyer,NHZ581,CIW upload
+9-Mar-17,STVMS Tracking Chassis Start,LOF143,Chassis Start
+9-Mar-17,Cab Conveyer,WBH162,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,WBH162,Cab Upload
+9-Mar-17,Cab call scan,UBJ603,A Line
+9-Mar-17,Assembly Line Tracker,RQJ940,Pool 13 Start
+9-Mar-17,U-BOLT,AJF195,Rear U-Bolt
+9-Mar-17,OMT Offline Tracking,PGY640,Enter Offline
+9-Mar-17,Cab in white conveyer,YZU059,CIW upload
+9-Mar-17,STVMS Tracking Chassis Start,RQJ940,Chassis Start
+9-Mar-17,Cab Conveyer,TYA561,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,TYA561,Cab Upload
+9-Mar-17,U-BOLT,DZV145,Front U-Bolt
+9-Mar-17,U-BOLT,DZV145,Rear U-Bolt
+9-Mar-17,Cab in white conveyer,FZA809,CIW upload
+9-Mar-17,Hood Conveyor,ZPW452,Hood Upload
+9-Mar-17,Paint Inspection,EUZ386,PAINT
+9-Mar-17,Cab Conveyer,DVM139,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,DVM139,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,JCM567,Chassis Start
+9-Mar-17,Hood Conveyor,MHU637,Hood Upload
+9-Mar-17,Paint Inspection,TMZ629,PAINT
+9-Mar-17,Cab call scan,OTS758,A Line
+9-Mar-17,Cab Call Scan,JYL728,B Line
+9-Mar-17,Cab in white conveyer,APZ612,CIW upload
+9-Mar-17,U-BOLT,UBZ174,Front U-Bolt
+9-Mar-17,Hood Conveyor,USH564,Hood Upload
+9-Mar-17,STVMS Tracking Chassis Start,GFM783,Chassis Start
+9-Mar-17,Assembly Line Tracker,EUZ386,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,GFM783,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,JCM567,Pool 13 Start
+9-Mar-17,Cab Conveyer,GPJ498,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,GPJ498,Cab Upload
+9-Mar-17,OMT Offline Tracking,UHP854,Enter Offline
+9-Mar-17,Cab in white conveyer,YWI795,CIW upload
+9-Mar-17,OMT Offline Tracking,FIX581,Enter Offline
+9-Mar-17,U-BOLT,PMG926,Front U-Bolt
+9-Mar-17,Hood Conveyor,DZO637,Hood Upload
+9-Mar-17,Cab Conveyer,UBJ603,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,UBJ603,Cab Upload
+9-Mar-17,Paint Inspection,SNI285,PAINT
+9-Mar-17,U-BOLT,PMG926,Rear U-Bolt
+9-Mar-17,Hood Conveyor,LOF143,Hood Upload
+9-Mar-17,STVMS Tracking Chassis Start,EUZ386,Chassis Start
+9-Mar-17,Cab in white conveyer,EVB234,CIW upload
+9-Mar-17,Cab Call Scan,NUR218,B Line
+9-Mar-17,Cab call scan,XWK825,A Line
+9-Mar-17,U-BOLT,GOB710,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,MGF879,Enter Offline
+9-Mar-17,Cab Conveyer,JYL728,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,JYL728,Cab Upload
+9-Mar-17,Assembly Line Tracker,TMZ629,Pool 13 Start
+9-Mar-17,STVMS Tracking Chassis Start,TMZ629,Chassis Start
+9-Mar-17,Cab in white conveyer,QRM025,CIW upload
+9-Mar-17,U-BOLT,QDR380,Front U-Bolt
+9-Mar-17,Cab in white conveyer,DCV243,CIW upload
+9-Mar-17,Assembly Line Tracker,SNI285,Pool 13 Start
+9-Mar-17,Paint Inspection,PMN417,PAINT
+9-Mar-17,STVMS Tracking Chassis Start,SNI285,Chassis Start
+9-Mar-17,OMT Offline Tracking,CSM507,Enter Offline
+9-Mar-17,OMT Offline Tracking,CSM507,Sold
+9-Mar-17,Paint Inspection,ZDI213,PAINT
+9-Mar-17,U-BOLT,CSW718,Front U-Bolt
+9-Mar-17,Cab Call Scan,KSP816,B Line
+9-Mar-17,U-BOLT,CSW718,Rear U-Bolt
+9-Mar-17,Cab Conveyer,OTS758,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,OTS758,Cab Upload
+9-Mar-17,Cab Call Scan,LVP764,B Line
+9-Mar-17,Cab in white conveyer,YCU023,CIW upload
+9-Mar-17,Cab call scan,OTX594,A Line
+9-Mar-17,Paint Inspection,WQB451,PAINT
+9-Mar-17,STVMS Tracking Chassis Start,PMN417,Chassis Start
+9-Mar-17,Paint Inspection,ALE837,PAINT
+9-Mar-17,Cab in white conveyer,QLV652,CIW upload
+9-Mar-17,Cab Conveyer,NUR218,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,NUR218,Cab Upload
+9-Mar-17,U-BOLT,ZPW452,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,PRA475,Enter Offline
+9-Mar-17,OMT Offline Tracking,QFW209,Enter Offline
+9-Mar-17,Assembly Line Tracker,ZDI213,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,PMN417,Pool 13 Start
+9-Mar-17,Cab in white conveyer,ADQ781,CIW upload
+9-Mar-17,Assembly Line Tracker,GSF615,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,QPC953,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,OWH831,Pool 13 Start
+9-Mar-17,Cab in white conveyer,GZC132,CIW upload
+9-Mar-17,Hood Conveyor,VFR160,Hood Upload
+9-Mar-17,Paint Inspection,FHU982,PAINT
+9-Mar-17,Cab Call Scan,GQV369,B Line
+9-Mar-17,U-BOLT,ARS065,Rear U-Bolt
+9-Mar-17,STVMS Tracking Top Station,OWH831,Top Station
+9-Mar-17,Assembly Line Tracker,OWH831,Pool 60 Start
+9-Mar-17,Cab Conveyer,NKE126,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,NKE126,Cab Upload
+9-Mar-17,Cab in white conveyer,ETS067,CIW upload
+9-Mar-17,OMT Offline Tracking,QDR380,Enter Offline
+9-Mar-17,U-BOLT,TZO690,Rear U-Bolt
+9-Mar-17,Hood Conveyor,ZKY831,Hood Upload
+9-Mar-17,Cab Conveyer,FMU279,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,FMU279,Cab Upload
+9-Mar-17,Cab call scan,QZB271,A Line
+9-Mar-17,STVMS Tracking Top Station,QPC953,Top Station
+9-Mar-17,STVMS Tracking Chassis Start,SYA283,Chassis Start
+9-Mar-17,STVMS Tracking Chassis Start,PVZ436,Chassis Start
+9-Mar-17,Cab Conveyer,QMA357,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,QMA357,Cab Upload
+9-Mar-17,Hood Conveyor,AYO527,Hood Upload
+9-Mar-17,U-BOLT,QBR938,Front U-Bolt
+9-Mar-17,Cab Call Scan,YGL283,B Line
+9-Mar-17,Assembly Line Tracker,PVZ436,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,SYA283,Pool 13 Start
+9-Mar-17,Assembly Line Tracker,QPC953,Pool 60 Start
+9-Mar-17,Hood Conveyor,KNR831,Hood Upload
+9-Mar-17,STVMS Tracking Top Station,SYA283,Top Station
+9-Mar-17,Paint Inspection,YCR723,PAINT
+9-Mar-17,Assembly Line Tracker,SYA283,Pool 60 Start
+9-Mar-17,OMT Offline Tracking,MHU637,Enter Offline
+9-Mar-17,OMT Offline Tracking,MHU637,Sold
+9-Mar-17,Cab call scan,RHX208,A Line
+9-Mar-17,Hood Conveyor,SYV137,Hood Upload
+9-Mar-17,Paint Inspection,AHN391,PAINT
+9-Mar-17,Cab Conveyer,ERC382,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,ERC382,Cab Upload
+9-Mar-17,STVMS Tracking Chassis Start,JKZ317,Chassis Start
+9-Mar-17,Cab in white conveyer,FWS327,CIW upload
+9-Mar-17,STVMS Tracking Top Station,PVZ436,Top Station
+9-Mar-17,Hood Conveyor,ZVI392,Hood Upload
+9-Mar-17,Cab Call Scan,WRT608,B Line
+9-Mar-17,U-BOLT,LED479,Front U-Bolt
+9-Mar-17,Assembly Line Tracker,PVZ436,Pool 60 Start
+9-Mar-17,Assembly Line Tracker,JKZ317,Pool 13 Start
+9-Mar-17,Hood Conveyor,LGO801,Hood Upload
+9-Mar-17,OMT Offline Tracking,DZO637,Enter Offline
+9-Mar-17,U-BOLT,YBJ023,Front U-Bolt
+9-Mar-17,OMT Offline Tracking,CJQ075,Enter Offline
+9-Mar-17,STVMS Tracking Top Station,JKZ317,Top Station
+9-Mar-17,OMT Offline Tracking,USH564,Enter Offline
+9-Mar-17,Cab Conveyer,GQV369,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,GQV369,Cab Upload
+9-Mar-17,Assembly Line Tracker,JKZ317,Pool 60 Start
+9-Mar-17,Paint Inspection,KFN372,PAINT
+9-Mar-17,Cab in white conveyer,UXJ427,CIW upload
+9-Mar-17,Cab call scan,NUX358,A Line
+9-Mar-17,Hood Conveyor,FTI824,Hood Upload
+9-Mar-17,STVMS Tracking Top Station,VFR160,Top Station
+9-Mar-17,Assembly Line Tracker,VFR160,Pool 60 Start
+9-Mar-17,Cab Call Scan,BIP389,B Line
+9-Mar-17,Hood Conveyor,VCM016,Hood Upload
+9-Mar-17,Cab Conveyer,QZB271,Cab Upload 2
+9-Mar-17,Cab Conveyor / Monorail,QZB271,Cab Upload
+9-Mar-17,Paint Inspection,EBL860,PAINT
+10-Mar-17,Cab Conveyer,JDY852,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JDY852,Cab Upload
+10-Mar-17,Paint Inspection,MRI015,PAINT
+10-Mar-17,OMT Offline Tracking,KHN863,Enter Offline
+10-Mar-17,OMT Offline Tracking,QFB620,Enter Offline
+10-Mar-17,Assembly Line Tracker,CSD174,Pool 13 Start
+10-Mar-17,U-BOLT,DFZ024,Front U-Bolt
+10-Mar-17,Cab Call Scan,TNY179,B Line
+10-Mar-17,Hood Conveyor,KQN543,Hood Upload
+10-Mar-17,Cab Conveyer,XYI250,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,XYI250,Cab Upload
+10-Mar-17,Hood Conveyor,XGW598,Hood Upload
+10-Mar-17,Cab call scan,PYH561,A Line
+10-Mar-17,Assembly Line Tracker,JYI091,Pool 13 Start
+10-Mar-17,Paint Inspection,YGL283,PAINT
+10-Mar-17,Assembly Line Tracker,TPD286,Pool 13 Start
+10-Mar-17,U-BOLT,EQK798,Front U-Bolt
+10-Mar-17,Cab Call Scan,EPB160,B Line
+10-Mar-17,OMT Offline Tracking,QMF308,Enter Offline
+10-Mar-17,Paint Inspection,AKC912,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,RCF947,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,ALP937,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,CSD174,Chassis Start
+10-Mar-17,Assembly Line Tracker,TQL981,Pool 13 Start
+10-Mar-17,STVMS Tracking Chassis Start,TPD286,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,JYI091,Chassis Start
+10-Mar-17,Hood Conveyor,YDL247,Hood Upload
+10-Mar-17,U-BOLT,TGS974,Front U-Bolt
+10-Mar-17,Hood Conveyor,CNZ205,Hood Upload
+10-Mar-17,Cab Conveyer,BHK490,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,BHK490,Cab Upload
+10-Mar-17,Cab Conveyer,UYZ958,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,UYZ958,Cab Upload
+10-Mar-17,Cab call scan,LWK693,A Line
+10-Mar-17,U-BOLT,GDU671,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,PSZ241,Enter Offline
+10-Mar-17,OMT Offline Tracking,PSZ241,Sold
+10-Mar-17,Hood Conveyor,MQH836,Hood Upload
+10-Mar-17,Cab Conveyer,TNY179,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,TNY179,Cab Upload
+10-Mar-17,Hood Conveyor,MRI015,Hood Upload
+10-Mar-17,OMT Offline Tracking,BEC741,Enter Offline
+10-Mar-17,Cab Call Scan,QVS392,B Line
+10-Mar-17,Assembly Line Tracker,XGW598,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,KQN543,Pool 13 Start
+10-Mar-17,Paint Inspection,IQS845,PAINT
+10-Mar-17,Hood Conveyor,HRY673,Hood Upload
+10-Mar-17,U-BOLT,ELI075,Front U-Bolt
+10-Mar-17,Cab Conveyer,PYH561,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,PYH561,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,TQL981,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,KQN543,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,XGW598,Chassis Start
+10-Mar-17,Hood Conveyor,AKC912,Hood Upload
+10-Mar-17,Cab call scan,HZD382,A Line
+10-Mar-17,U-BOLT,PEK163,Front U-Bolt
+10-Mar-17,Cab Call Scan,WDM529,B Line
+10-Mar-17,OMT Offline Tracking,TJV623,Enter Offline
+10-Mar-17,Cab Conveyer,EPB160,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,EPB160,Cab Upload
+10-Mar-17,Paint Inspection,DTP539,PAINT
+10-Mar-17,U-BOLT,SYB619,Front U-Bolt
+10-Mar-17,Paint Inspection,IBA235,PAINT
+10-Mar-17,Assembly Line Tracker,CNZ205,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,YDL247,Pool 13 Start
+10-Mar-17,Cab call scan,XSF309,A Line
+10-Mar-17,U-BOLT,CXD285,Front U-Bolt
+10-Mar-17,Cab Conveyer,LWK693,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,LWK693,Cab Upload
+10-Mar-17,Paint Inspection,ZYA587,PAINT
+10-Mar-17,Assembly Line Tracker,MQH836,Pool 13 Start
+10-Mar-17,OMT Offline Tracking,DWK315,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,YDL247,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,CNZ205,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,MQH836,Chassis Start
+10-Mar-17,Hood Conveyor,DTP539,Hood Upload
+10-Mar-17,Paint Inspection,MBP046,PAINT
+10-Mar-17,OMT Offline Tracking,NGC871,Enter Offline
+10-Mar-17,Cab Call Scan,GMS924,B Line
+10-Mar-17,U-BOLT,BEM390,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,MRI015,Pool 13 Start
+10-Mar-17,Hood Conveyor,IQS845,Hood Upload
+10-Mar-17,Cab Conveyer,QVS392,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,QVS392,Cab Upload
+10-Mar-17,Hood Conveyor,ZYA587,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,MRI015,Chassis Start
+10-Mar-17,Paint Inspection,BRL042,PAINT
+10-Mar-17,Cab call scan,ITO673,A Line
+10-Mar-17,Hood Conveyor,IBA235,Hood Upload
+10-Mar-17,Cab Conveyer,WDM529,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,WDM529,Cab Upload
+10-Mar-17,Paint Inspection,FHL057,PAINT
+10-Mar-17,OMT Offline Tracking,LNY482,Enter Offline
+10-Mar-17,U-BOLT,ETO603,Front U-Bolt
+10-Mar-17,Cab Call Scan,QME682,B Line
+10-Mar-17,Cab Conveyer,HZD382,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,HZD382,Cab Upload
+10-Mar-17,Hood Conveyor,MBP046,Hood Upload
+10-Mar-17,Assembly Line Tracker,AKC912,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,HRY673,Pool 13 Start
+10-Mar-17,Paint Inspection,LMN504,PAINT
+10-Mar-17,Cab in white conveyer,PMG926,CIW upload
+10-Mar-17,Cab call scan,YPV702,A Line
+10-Mar-17,U-BOLT,RCF947,Front U-Bolt
+10-Mar-17,Cab Conveyer,XSF309,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,XSF309,Cab Upload
+10-Mar-17,Cab in white conveyer,GOB710,CIW upload
+10-Mar-17,Paint Inspection,TPG078,PAINT
+10-Mar-17,Hood Conveyor,FHL057,Hood Upload
+10-Mar-17,OMT Offline Tracking,UJB305,Enter Offline
+10-Mar-17,OMT Offline Tracking,KWT597,Enter Offline
+10-Mar-17,U-BOLT,ALP937,Front U-Bolt
+10-Mar-17,Cab Call Scan,FTO836,B Line
+10-Mar-17,Hood Conveyor,BRL042,Hood Upload
+10-Mar-17,Paint Inspection,XPR275,PAINT
+10-Mar-17,Cab in white conveyer,QDR380,CIW upload
+10-Mar-17,Cab Conveyer,GMS924,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,GMS924,Cab Upload
+10-Mar-17,OMT Offline Tracking,TFU306,Enter Offline
+10-Mar-17,Assembly Line Tracker,DTP539,Pool 13 Start
+10-Mar-17,OMT Offline Tracking,CQO892,Enter Offline
+10-Mar-17,Cab call scan,SGN329,A Line
+10-Mar-17,OMT Offline Tracking,TGJ401,Enter Offline
+10-Mar-17,Cab in white conveyer,CSW718,CIW upload
+10-Mar-17,Paint Inspection,GYI954,PAINT
+10-Mar-17,U-BOLT,CSD174,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,ULN810,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,HRY673,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,AKC912,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,DTP539,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,IQS845,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,ZYA587,Chassis Start
+10-Mar-17,Cab Conveyer,ITO673,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ITO673,Cab Upload
+10-Mar-17,Hood Conveyor,LMN504,Hood Upload
+10-Mar-17,Cab Call Scan,SLP187,B Line
+10-Mar-17,Cab Conveyor / Monorail,QME682,Cab Upload
+10-Mar-17,Cab Conveyer,QME682,Cab Upload 2
+10-Mar-17,U-BOLT,TPD286,Front U-Bolt
+10-Mar-17,Hood Conveyor,TPG078,Hood Upload
+10-Mar-17,Paint Inspection,EUL768,PAINT
+10-Mar-17,Cab in white conveyer,ZPW452,CIW upload
+10-Mar-17,OMT Offline Tracking,OIF375,Enter Offline
+10-Mar-17,OMT Offline Tracking,OIF375,Sold
+10-Mar-17,Cab Conveyer,FTO836,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,FTO836,Cab Upload
+10-Mar-17,Cab call scan,OQA530,A Line
+10-Mar-17,Cab in white conveyer,MHU637,CIW upload
+10-Mar-17,Paint Inspection,YTP390,PAINT
+10-Mar-17,Hood Conveyor,XPR275,Hood Upload
+10-Mar-17,OMT Offline Tracking,FNG604,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,IBA235,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,MBP046,Chassis Start
+10-Mar-17,Hood Conveyor,EUL768,Hood Upload
+10-Mar-17,U-BOLT,JYI091,Front U-Bolt
+10-Mar-17,Cab Conveyer,YPV702,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,YPV702,Cab Upload
+10-Mar-17,Cab in white conveyer,USH564,CIW upload
+10-Mar-17,Paint Inspection,SOU593,PAINT
+10-Mar-17,U-BOLT,TQL981,Front U-Bolt
+10-Mar-17,Hood Conveyor,GYI954,Hood Upload
+10-Mar-17,Cab in white conveyer,LZA034,CIW upload
+10-Mar-17,Paint Inspection,EJO928,PAINT
+10-Mar-17,Cab in white conveyer,OXE951,CIW upload
+10-Mar-17,OMT Offline Tracking,NVM832,Enter Offline
+10-Mar-17,U-BOLT,KQN543,Front U-Bolt
+10-Mar-17,Hood Conveyor,YTP390,Hood Upload
+10-Mar-17,Cab call scan,EQK798,A Line
+10-Mar-17,Cab Conveyer,SLP187,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SLP187,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,FHL057,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,BRL042,Chassis Start
+10-Mar-17,Assembly Line Tracker,BRL042,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,FHL057,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,MBP046,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,IBA235,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,ZYA587,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,IQS845,Pool 13 Start
+10-Mar-17,Cab in white conveyer,DZO637,CIW upload
+10-Mar-17,U-BOLT,XGW598,Front U-Bolt
+10-Mar-17,Paint Inspection,IXM739,PAINT
+10-Mar-17,OMT Offline Tracking,YKZ247,Enter Offline
+10-Mar-17,Assembly Line Tracker,LMN504,Pool 13 Start
+10-Mar-17,Cab Call Scan,DFZ024,B Line
+10-Mar-17,Cab Conveyer,SGN329,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SGN329,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,LMN504,Chassis Start
+10-Mar-17,Cab in white conveyer,CJQ075,CIW upload
+10-Mar-17,Hood Conveyor,WXK853,Hood Upload
+10-Mar-17,Paint Inspection,HMJ710,PAINT
+10-Mar-17,U-BOLT,YDL247,Front U-Bolt
+10-Mar-17,Cab Conveyer,OQA530,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,OQA530,Cab Upload
+10-Mar-17,Cab call scan,GDU671,A Line
+10-Mar-17,OMT Offline Tracking,MBF976,Enter Offline
+10-Mar-17,Cab Call Scan,TGS974,B Line
+10-Mar-17,Cab in white conveyer,LOF143,CIW upload
+10-Mar-17,Paint Inspection,MVW427,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,TPG078,Chassis Start
+10-Mar-17,Hood Conveyor,SOU593,Hood Upload
+10-Mar-17,U-BOLT,CNZ205,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,EUL768,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,XPR275,Pool 13 Start
+10-Mar-17,OMT Offline Tracking,EGK921,Enter Offline
+10-Mar-17,Assembly Line Tracker,TPG078,Pool 13 Start
+10-Mar-17,Cab in white conveyer,CJQ075,CIW upload
+10-Mar-17,Cab in white conveyer,LOF143,CIW upload
+10-Mar-17,Cab call scan,PEK163,A Line
+10-Mar-17,U-BOLT,MQH836,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,XYI250,Enter Offline
+10-Mar-17,Assembly Line Tracker,YTP390,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,GYI954,Pool 13 Start
+10-Mar-17,STVMS Tracking Chassis Start,XPR275,Chassis Start
+10-Mar-17,Cab Call Scan,ELI075,B Line
+10-Mar-17,U-BOLT,MRI015,Front U-Bolt
+10-Mar-17,Cab Conveyer,EQK798,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,EQK798,Cab Upload
+10-Mar-17,Cab in white conveyer,RQJ940,CIW upload
+10-Mar-17,Paint Inspection,AMZ845,PAINT
+10-Mar-17,Hood Conveyor,IXM739,Hood Upload
+10-Mar-17,Cab in white conveyer,JCM567,CIW upload
+10-Mar-17,Cab Conveyer,DFZ024,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DFZ024,Cab Upload
+10-Mar-17,Cab Conveyer,GDU671,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,GDU671,Cab Upload
+10-Mar-17,Cab in white conveyer,GFM783,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,IFP328,Chassis Start
+10-Mar-17,Cab Call Scan,BRL042,B Line
+10-Mar-17,Cab call scan,ACM236,A Line
+10-Mar-17,Hood Conveyor,JPU485,Hood Upload
+10-Mar-17,Cab in white conveyer,ZIQ738,CIW upload
+10-Mar-17,U-BOLT,PGY640,Rear U-Bolt
+10-Mar-17,U-BOLT,PGY640,Front U-Bolt
+10-Mar-17,Paint Inspection,UBJ603,PAINT
+10-Mar-17,Cab Conveyer,IBA235,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,IBA235,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,DKW659,Chassis Start
+10-Mar-17,Cab Call Scan,TPG078,B Line
+10-Mar-17,Assembly Line Tracker,JPU485,Pool 13 Start
+10-Mar-17,Hood Conveyor,LEA891,Hood Upload
+10-Mar-17,Cab in white conveyer,THO850,CIW upload
+10-Mar-17,U-BOLT,FIX581,Front U-Bolt
+10-Mar-17,U-BOLT,FIX581,Rear U-Bolt
+10-Mar-17,Cab Conveyer,FHL057,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,FHL057,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,JPU485,Chassis Start
+10-Mar-17,Assembly Line Tracker,LEA891,Pool 13 Start
+10-Mar-17,Hood Conveyor,SIW958,Hood Upload
+10-Mar-17,OMT Offline Tracking,CVE258,Enter Offline
+10-Mar-17,Cab in white conveyer,EZQ530,CIW upload
+10-Mar-17,U-BOLT,UHP854,Rear U-Bolt
+10-Mar-17,Hood Conveyor,OSR174,Hood Upload
+10-Mar-17,OMT Offline Tracking,BEM390,Enter Offline
+10-Mar-17,OMT Offline Tracking,BEM390,Sold
+10-Mar-17,Assembly Line Tracker,SIW958,Pool 13 Start
+10-Mar-17,Paint Inspection,JYL728,PAINT
+10-Mar-17,Cab Conveyer,MBP046,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,MBP046,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,LEA891,Chassis Start
+10-Mar-17,U-BOLT,UHP854,Front U-Bolt
+10-Mar-17,Cab Call Scan,EUL768,B Line
+10-Mar-17,U-BOLT,UHP854,Rear U-Bolt
+10-Mar-17,Hood Conveyor,USD901,Hood Upload
+10-Mar-17,Cab in white conveyer,ARS065,CIW upload
+10-Mar-17,Cab call scan,XPR275,A Line
+10-Mar-17,Assembly Line Tracker,OSR174,Pool 13 Start
+10-Mar-17,STVMS Tracking Chassis Start,SIW958,Chassis Start
+10-Mar-17,Hood Conveyor,CQU695,Hood Upload
+10-Mar-17,OMT Offline Tracking,SYB619,Enter Offline
+10-Mar-17,OMT Offline Tracking,ETO603,Enter Offline
+10-Mar-17,U-BOLT,CSM507,Front U-Bolt
+10-Mar-17,Cab Conveyer,BRL042,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,BRL042,Cab Upload
+10-Mar-17,U-BOLT,MGF879,Front U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,OSR174,Chassis Start
+10-Mar-17,Cab Call Scan,YTP390,B Line
+10-Mar-17,U-BOLT,MGF879,Rear U-Bolt
+10-Mar-17,Hood Conveyor,WBH162,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,USD901,Chassis Start
+10-Mar-17,Cab call scan,GYI954,A Line
+10-Mar-17,Cab Conveyer,ACM236,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ACM236,Cab Upload
+10-Mar-17,Assembly Line Tracker,USD901,Pool 13 Start
+10-Mar-17,U-BOLT,PRA475,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,ALP937,Enter Offline
+10-Mar-17,Hood Conveyor,TYA561,Hood Upload
+10-Mar-17,Cab Conveyer,TPG078,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,TPG078,Cab Upload
+10-Mar-17,Cab in white conveyer,LED479,CIW upload
+10-Mar-17,OMT Offline Tracking,RCF947,Enter Offline
+10-Mar-17,U-BOLT,QFW209,Front U-Bolt
+10-Mar-17,Cab Conveyer,XPR275,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,XPR275,Cab Upload
+10-Mar-17,Assembly Line Tracker,CQU695,Pool 13 Start
+10-Mar-17,Cab call scan,WXK853,A Line
+10-Mar-17,Hood Conveyor,DVM139,Hood Upload
+10-Mar-17,U-BOLT,QFW209,Rear U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,CQU695,Chassis Start
+10-Mar-17,Cab in white conveyer,YBJ023,CIW upload
+10-Mar-17,Hood Conveyor,GPJ498,Hood Upload
+10-Mar-17,U-BOLT,SZP362,Front U-Bolt
+10-Mar-17,Cab Call Scan,IXM739,B Line
+10-Mar-17,Paint Inspection,DUT829,PAINT
+10-Mar-17,Cab Conveyer,EUL768,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,EUL768,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,WBH162,Chassis Start
+10-Mar-17,OMT Offline Tracking,CSD174,Enter Offline
+10-Mar-17,Hood Conveyor,UBJ603,Hood Upload
+10-Mar-17,Assembly Line Tracker,WBH162,Pool 13 Start
+10-Mar-17,Cab in white conveyer,UWT728,CIW upload
+10-Mar-17,OMT Offline Tracking,TPD286,Enter Offline
+10-Mar-17,Cab call scan,SOU593,A Line
+10-Mar-17,U-BOLT,BIP389,Rear U-Bolt
+10-Mar-17,Hood Conveyor,JYL728,Hood Upload
+10-Mar-17,Cab Conveyer,GYI954,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,GYI954,Cab Upload
+10-Mar-17,U-BOLT,TUQ327,Rear U-Bolt
+10-Mar-17,Assembly Line Tracker,TYA561,Pool 13 Start
+10-Mar-17,U-BOLT,TUQ327,Front U-Bolt
+10-Mar-17,Cab Call Scan,HMJ710,B Line
+10-Mar-17,Paint Inspection,OTS758,PAINT
+10-Mar-17,Cab Conveyer,WXK853,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,WXK853,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,TYA561,Chassis Start
+10-Mar-17,OMT Offline Tracking,TQL981,Enter Offline
+10-Mar-17,Hood Conveyor,OTS758,Hood Upload
+10-Mar-17,OMT Offline Tracking,JYI091,Enter Offline
+10-Mar-17,OMT Offline Tracking,JYI091,Sold
+10-Mar-17,Paint Inspection,NUR218,PAINT
+10-Mar-17,Cab call scan,EJO928,A Line
+10-Mar-17,Cab in white conveyer,ICB356,CIW upload
+10-Mar-17,Assembly Line Tracker,GPJ498,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,DVM139,Pool 13 Start
+10-Mar-17,Cab Conveyer,YTP390,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,YTP390,Cab Upload
+10-Mar-17,U-BOLT,SVP127,Rear U-Bolt
+10-Mar-17,Paint Inspection,XWK825,PAINT
+10-Mar-17,Cab in white conveyer,MPE786,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,DVM139,Chassis Start
+10-Mar-17,Hood Conveyor,NUR218,Hood Upload
+10-Mar-17,Hood Conveyor,XWK825,Hood Upload
+10-Mar-17,Cab Conveyer,SOU593,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SOU593,Cab Upload
+10-Mar-17,Paint Inspection,KSP816,PAINT
+10-Mar-17,U-BOLT,ELJ539,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,KQN543,Enter Offline
+10-Mar-17,Cab call scan,AMZ845,A Line
+10-Mar-17,Hood Conveyor,KSP816,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,GPJ498,Chassis Start
+10-Mar-17,Assembly Line Tracker,UBJ603,Pool 13 Start
+10-Mar-17,Paint Inspection,OTX594,PAINT
+10-Mar-17,Cab Call Scan,MVW427,B Line
+10-Mar-17,Cab Conveyer,IXM739,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,IXM739,Cab Upload
+10-Mar-17,Cab in white conveyer,GSF615,CIW upload
+10-Mar-17,Hood Conveyor,OTX594,Hood Upload
+10-Mar-17,U-BOLT,IFP328,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,OTS758,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,JYL728,Pool 13 Start
+10-Mar-17,Cab Conveyer,EJO928,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,EJO928,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,UBJ603,Chassis Start
+10-Mar-17,OMT Offline Tracking,XGW598,Enter Offline
+10-Mar-17,OMT Offline Tracking,XGW598,Sold
+10-Mar-17,U-BOLT,DKW659,Rear U-Bolt
+10-Mar-17,OMT Offline Tracking,CNZ205,Enter Offline
+10-Mar-17,Cab in white conveyer,QPC953,CIW upload
+10-Mar-17,Assembly Line Tracker,NUR218,Pool 13 Start
+10-Mar-17,U-BOLT,DKW659,Front U-Bolt
+10-Mar-17,Cab Call Scan,HQD748,B Line
+10-Mar-17,Cab Conveyer,HMJ710,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,HMJ710,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,JYL728,Chassis Start
+10-Mar-17,Assembly Line Tracker,XWK825,Pool 13 Start
+10-Mar-17,Cab call scan,VQD376,A Line
+10-Mar-17,Cab in white conveyer,SYA283,CIW upload
+10-Mar-17,U-BOLT,JPU485,Front U-Bolt
+10-Mar-17,U-BOLT,JPU485,Rear U-Bolt
+10-Mar-17,Paint Inspection,LVP764,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,OTS758,Chassis Start
+10-Mar-17,Cab in white conveyer,PVZ436,CIW upload
+10-Mar-17,Cab Conveyer,MVW427,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,MVW427,Cab Upload
+10-Mar-17,U-BOLT,LEA891,Front U-Bolt
+10-Mar-17,Cab call scan,QJP284,A Line
+10-Mar-17,OMT Offline Tracking,MQH836,Enter Offline
+10-Mar-17,Cab Conveyer,AMZ845,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,AMZ845,Cab Upload
+10-Mar-17,Hood Conveyor,LVP764,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,NUR218,Chassis Start
+10-Mar-17,Paint Inspection,TPJ583,PAINT
+10-Mar-17,Cab in white conveyer,JKZ317,CIW upload
+10-Mar-17,Cab Call Scan,ZHB578,B Line
+10-Mar-17,Paint Inspection,HBM615,PAINT
+10-Mar-17,OMT Offline Tracking,HRY673,Enter Offline
+10-Mar-17,U-BOLT,SIW958,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,OTX594,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,KSP816,Pool 13 Start
+10-Mar-17,Cab Conveyer,VQD376,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,VQD376,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,XWK825,Chassis Start
+10-Mar-17,Cab in white conveyer,VFR160,CIW upload
+10-Mar-17,U-BOLT,OSR174,Front U-Bolt
+10-Mar-17,Paint Inspection,JBQ468,PAINT
+10-Mar-17,Cab Call Scan,FIX581,B Line
+10-Mar-17,U-BOLT,OSR174,Rear U-Bolt
+10-Mar-17,Cab call scan,PGY640,A Line
+10-Mar-17,Cab Conveyer,HQD748,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,HQD748,Cab Upload
+10-Mar-17,OMT Offline Tracking,MRI015,Enter Offline
+10-Mar-17,Paint Inspection,YHB831,PAINT
+10-Mar-17,Cab in white conveyer,ZKY831,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,KSP816,Chassis Start
+10-Mar-17,Hood Conveyor,JBQ468,Hood Upload
+10-Mar-17,Assembly Line Tracker,JBQ468,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,LVP764,Pool 13 Start
+10-Mar-17,STVMS Tracking Top Station,JOM027,Top Station
+10-Mar-17,STVMS Tracking Top Station,AJF195,Top Station
+10-Mar-17,STVMS Tracking Top Station,DZV145,Top Station
+10-Mar-17,STVMS Tracking Top Station,UBZ174,Top Station
+10-Mar-17,STVMS Tracking Top Station,PMG926,Top Station
+10-Mar-17,STVMS Tracking Top Station,GOB710,Top Station
+10-Mar-17,STVMS Tracking Top Station,QDR380,Top Station
+10-Mar-17,U-BOLT,USD901,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,AKC912,Enter Offline
+10-Mar-17,U-BOLT,USD901,Rear U-Bolt
+10-Mar-17,Hood Conveyor,TPJ583,Hood Upload
+10-Mar-17,Assembly Line Tracker,QDR380,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,GOB710,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,PMG926,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,UBZ174,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,DZV145,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,AJF195,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,JOM027,Pool 60 Start
+10-Mar-17,Cab in white conveyer,AYO527,CIW upload
+10-Mar-17,Paint Inspection,QVP853,PAINT
+10-Mar-17,Cab Conveyer,QJP284,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,QJP284,Cab Upload
+10-Mar-17,Cab call scan,UHP854,A Line
+10-Mar-17,OMT Offline Tracking,DTP539,Enter Offline
+10-Mar-17,Hood Conveyor,QVP853,Hood Upload
+10-Mar-17,Cab in white conveyer,KNR831,CIW upload
+10-Mar-17,U-BOLT,CQU695,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,IQS845,Enter Offline
+10-Mar-17,Cab Conveyer,ZHB578,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ZHB578,Cab Upload
+10-Mar-17,Assembly Line Tracker,TPJ583,Pool 13 Start
+10-Mar-17,Hood Conveyor,YHB831,Hood Upload
+10-Mar-17,Paint Inspection,XLW275,PAINT
+10-Mar-17,Cab Call Scan,MGF879,B Line
+10-Mar-17,U-BOLT,WBH162,Rear U-Bolt
+10-Mar-17,U-BOLT,WBH162,Front U-Bolt
+10-Mar-17,Hood Conveyor,KSX968,Hood Upload
+10-Mar-17,Paint Inspection,YAP829,PAINT
+10-Mar-17,U-BOLT,TMZ629,Front U-Bolt
+10-Mar-17,STVMS Tracking Top Station,XFN395,Top Station
+10-Mar-17,OMT Offline Tracking,OSR174,Enter Offline
+10-Mar-17,Cab Conveyer,INW067,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,INW067,Cab Upload
+10-Mar-17,Cab Call Scan,DZV145,B Line
+10-Mar-17,Assembly Line Tracker,QMA357,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,XFN395,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,FMU279,Pool 13 Start
+10-Mar-17,Cab in white conveyer,KUR214,CIW upload
+10-Mar-17,Hood Conveyor,XFN395,Hood Upload
+10-Mar-17,U-BOLT,TMZ629,Rear U-Bolt
+10-Mar-17,STVMS Tracking Top Station,TRL028,Top Station
+10-Mar-17,Cab call scan,AJF195,A Line
+10-Mar-17,STVMS Tracking Chassis Start,TEP325,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,NKE126,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,FMU279,Chassis Start
+10-Mar-17,Assembly Line Tracker,TRL028,Pool 60 Start
+10-Mar-17,U-BOLT,SNI285,Front U-Bolt
+10-Mar-17,Hood Conveyor,TFX540,Hood Upload
+10-Mar-17,OMT Offline Tracking,USD901,Enter Offline
+10-Mar-17,Cab Conveyer,WTB963,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,WTB963,Cab Upload
+10-Mar-17,U-BOLT,SNI285,Rear U-Bolt
+10-Mar-17,Cab in white conveyer,ILA012,CIW upload
+10-Mar-17,Paint Inspection,ZIQ738,PAINT
+10-Mar-17,Hood Conveyor,TRL028,Hood Upload
+10-Mar-17,STVMS Tracking Top Station,TEP325,Top Station
+10-Mar-17,Assembly Line Tracker,TEP325,Pool 60 Start
+10-Mar-17,U-BOLT,PMN417,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,ERC382,Pool 13 Start
+10-Mar-17,Cab Conveyer,NKM173,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,NKM173,Cab Upload
+10-Mar-17,Cab in white conveyer,FQP941,CIW upload
+10-Mar-17,STVMS Tracking Top Station,NKE126,Top Station
+10-Mar-17,Hood Conveyor,TEP325,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,QMA357,Chassis Start
+10-Mar-17,Cab call scan,UBZ174,A Line
+10-Mar-17,STVMS Tracking Chassis Start,ERC382,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,GQV369,Chassis Start
+10-Mar-17,Assembly Line Tracker,NKE126,Pool 60 Start
+10-Mar-17,Cab Call Scan,PMG926,B Line
+10-Mar-17,Cab Conveyer,JOM027,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JOM027,Cab Upload
+10-Mar-17,U-BOLT,ZDI213,Rear U-Bolt
+10-Mar-17,Hood Conveyor,NKE126,Hood Upload
+10-Mar-17,Cab Conveyer,AJF195,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,AJF195,Cab Upload
+10-Mar-17,Cab Call Scan,QDR380,B Line
+10-Mar-17,Paint Inspection,THO850,PAINT
+10-Mar-17,Hood Conveyor,FMU279,Hood Upload
+10-Mar-17,OMT Offline Tracking,CQU695,Enter Offline
+10-Mar-17,Cab in white conveyer,HQI892,CIW upload
+10-Mar-17,STVMS Tracking Top Station,FMU279,Top Station
+10-Mar-17,Assembly Line Tracker,FMU279,Pool 60 Start
+10-Mar-17,U-BOLT,ALE837,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,WBH162,Enter Offline
+10-Mar-17,Hood Conveyor,QMA357,Hood Upload
+10-Mar-17,STVMS Tracking Top Station,QMA357,Top Station
+10-Mar-17,Cab call scan,GOB710,A Line
+10-Mar-17,Paint Inspection,ARS065,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,QZB271,Chassis Start
+10-Mar-17,U-BOLT,ALE837,Rear U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,YGL283,Chassis Start
+10-Mar-17,Assembly Line Tracker,QMA357,Pool 60 Start
+10-Mar-17,Cab in white conveyer,MAU864,CIW upload
+10-Mar-17,U-BOLT,WQB451,Front U-Bolt
+10-Mar-17,Cab Conveyer,DZV145,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DZV145,Cab Upload
+10-Mar-17,Paint Inspection,EZQ530,PAINT
+10-Mar-17,U-BOLT,WQB451,Rear U-Bolt
+10-Mar-17,Paint Inspection,OXE951,PAINT
+10-Mar-17,STVMS Tracking Top Station,ERC382,Top Station
+10-Mar-17,Cab in white conveyer,WBR310,CIW upload
+10-Mar-17,Hood Conveyor,ERC382,Hood Upload
+10-Mar-17,Hood Conveyor,GQV369,Hood Upload
+10-Mar-17,Assembly Line Tracker,YGL283,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,QZB271,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,GQV369,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,ERC382,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,RHX208,Pool 13 Start
+10-Mar-17,Cab Conveyer,UBZ174,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,UBZ174,Cab Upload
+10-Mar-17,Paint Inspection,TZO690,PAINT
+10-Mar-17,U-BOLT,KMA503,Front U-Bolt
+10-Mar-17,Cab in white conveyer,LPU731,CIW upload
+10-Mar-17,Cab call scan,CSW718,A Line
+10-Mar-17,Hood Conveyor,QZB271,Hood Upload
+10-Mar-17,OMT Offline Tracking,DVM139,Enter Offline
+10-Mar-17,STVMS Tracking Top Station,GQV369,Top Station
+10-Mar-17,Assembly Line Tracker,GQV369,Pool 60 Start
+10-Mar-17,Paint Inspection,LED479,PAINT
+10-Mar-17,U-BOLT,KSX968,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,TYA561,Enter Offline
+10-Mar-17,Hood Conveyor,YGL283,Hood Upload
+10-Mar-17,Cab Conveyer,GOB710,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,GOB710,Cab Upload
+10-Mar-17,Cab Call Scan,MHU637,B Line
+10-Mar-17,STVMS Tracking Top Station,QZB271,Top Station
+10-Mar-17,Assembly Line Tracker,WRT608,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,QZB271,Pool 60 Start
+10-Mar-17,Paint Inspection,QBR938,PAINT
+10-Mar-17,Hood Conveyor,RHX208,Hood Upload
+10-Mar-17,Cab in white conveyer,KTN409,CIW upload
+10-Mar-17,OMT Offline Tracking,UBJ603,Enter Offline
+10-Mar-17,OMT Offline Tracking,UBJ603,Sold
+10-Mar-17,U-BOLT,TFX540,Front U-Bolt
+10-Mar-17,STVMS Tracking Top Station,YGL283,Top Station
+10-Mar-17,Assembly Line Tracker,YGL283,Pool 60 Start
+10-Mar-17,Cab in white conveyer,AYD251,CIW upload
+10-Mar-17,Cab Conveyer,PMG926,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,PMG926,Cab Upload
+10-Mar-17,OMT Offline Tracking,GPJ498,Enter Offline
+10-Mar-17,U-BOLT,TFX540,Rear U-Bolt
+10-Mar-17,Paint Inspection,YBJ023,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,RHX208,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,WRT608,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,NUX358,Chassis Start
+10-Mar-17,Cab call scan,USH564,A Line
+10-Mar-17,U-BOLT,XFN395,Front U-Bolt
+10-Mar-17,Hood Conveyor,WRT608,Hood Upload
+10-Mar-17,STVMS Tracking Top Station,RHX208,Top Station
+10-Mar-17,Cab Call Scan,DZO637,B Line
+10-Mar-17,Paint Inspection,UWT728,PAINT
+10-Mar-17,Cab in white conveyer,SFZ186,CIW upload
+10-Mar-17,U-BOLT,XFN395,Rear U-Bolt
+10-Mar-17,Cab Conveyer,QDR380,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,QDR380,Cab Upload
+10-Mar-17,Hood Conveyor,NUX358,Hood Upload
+10-Mar-17,Assembly Line Tracker,RHX208,Pool 60 Start
+10-Mar-17,U-BOLT,TRL028,Front U-Bolt
+10-Mar-17,Paint Inspection,ICB356,PAINT
+10-Mar-17,STVMS Tracking Top Station,WRT608,Top Station
+10-Mar-17,Assembly Line Tracker,WRT608,Pool 60 Start
+10-Mar-17,Cab Conveyer,CSW718,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,CSW718,Cab Upload
+10-Mar-17,OMT Offline Tracking,OTS758,Enter Offline
+10-Mar-17,OMT Offline Tracking,OTS758,Sold
+10-Mar-17,Cab call scan,CJQ075,A Line
+10-Mar-17,Cab in white conveyer,XSZ543,CIW upload
+10-Mar-17,Assembly Line Tracker,GDR742,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,NUX358,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,SPA495,Pool 13 Start
+10-Mar-17,U-BOLT,TEP325,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,JYL728,Enter Offline
+10-Mar-17,STVMS Tracking Top Station,NUX358,Top Station
+10-Mar-17,Hood Conveyor,GDR742,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,GDR742,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,SPA495,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,RAI572,Chassis Start
+10-Mar-17,Assembly Line Tracker,NUX358,Pool 60 Start
+10-Mar-17,Hood Conveyor,SPA495,Hood Upload
+10-Mar-17,U-BOLT,NKE126,Front U-Bolt
+10-Mar-17,U-BOLT,NKE126,Rear U-Bolt
+10-Mar-17,Assembly Line Tracker,RAI572,Pool 13 Start
+10-Mar-17,Cab Conveyer,MHU637,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,MHU637,Cab Upload
+10-Mar-17,Paint Inspection,MPE786,PAINT
+10-Mar-17,Cab Call Scan,RQJ940,B Line
+10-Mar-17,OMT Offline Tracking,XWK825,Enter Offline
+10-Mar-17,Cab Conveyer,USH564,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,USH564,Cab Upload
+10-Mar-17,Cab call scan,YDL247,A Line
+10-Mar-17,Hood Conveyor,RAI572,Hood Upload
+10-Mar-17,Cab in white conveyer,PWR481,CIW upload
+10-Mar-17,U-BOLT,FMU279,Front U-Bolt
+10-Mar-17,STVMS Tracking Top Station,GDR742,Top Station
+10-Mar-17,Paint Inspection,GSF615,PAINT
+10-Mar-17,Hood Conveyor,LTV094,Hood Upload
+10-Mar-17,U-BOLT,FMU279,Rear U-Bolt
+10-Mar-17,Assembly Line Tracker,GDR742,Pool 60 Start
+10-Mar-17,OMT Offline Tracking,OTX594,Enter Offline
+10-Mar-17,OMT Offline Tracking,NUR218,Enter Offline
+10-Mar-17,Cab in white conveyer,XGC043,CIW upload
+10-Mar-17,Cab Conveyer,DZO637,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DZO637,Cab Upload
+10-Mar-17,U-BOLT,QMA357,Front U-Bolt
+10-Mar-17,STVMS Tracking Top Station,SPA495,Top Station
+10-Mar-17,U-BOLT,QMA357,Rear U-Bolt
+10-Mar-17,Hood Conveyor,YAP829,Hood Upload
+10-Mar-17,Paint Inspection,JBC439,PAINT
+10-Mar-17,Assembly Line Tracker,YAP829,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,LTV094,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,SPA495,Pool 60 Start
+10-Mar-17,Cab call scan,GFM783,A Line
+10-Mar-17,Cab in white conveyer,JIN079,CIW upload
+10-Mar-17,Cab Call Scan,JCM567,B Line
+10-Mar-17,Hood Conveyor,ZIQ738,Hood Upload
+10-Mar-17,STVMS Tracking Top Station,RAI572,Top Station
+10-Mar-17,Cab Conveyer,CJQ075,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,CJQ075,Cab Upload
+10-Mar-17,U-BOLT,ERC382,Front U-Bolt
+10-Mar-17,U-BOLT,ERC382,Rear U-Bolt
+10-Mar-17,Cab in white conveyer,HCS198,CIW upload
+10-Mar-17,OMT Offline Tracking,KSP816,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,LTV094,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,YAP829,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,ZIQ738,Chassis Start
+10-Mar-17,Paint Inspection,QPC953,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,THO850,Chassis Start
+10-Mar-17,Cab Conveyer,RQJ940,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,RQJ940,Cab Upload
+10-Mar-17,Assembly Line Tracker,RAI572,Pool 60 Start
+10-Mar-17,OMT Offline Tracking,JBQ468,Enter Offline
+10-Mar-17,Hood Conveyor,THO850,Hood Upload
+10-Mar-17,Cab Call Scan,EUZ386,B Line
+10-Mar-17,U-BOLT,GQV369,Front U-Bolt
+10-Mar-17,Cab call scan,TMZ629,A Line
+10-Mar-17,STVMS Tracking Top Station,LTV094,Top Station
+10-Mar-17,Hood Conveyor,EZQ530,Hood Upload
+10-Mar-17,Cab in white conveyer,TMU402,CIW upload
+10-Mar-17,Cab Conveyer,YDL247,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,YDL247,Cab Upload
+10-Mar-17,Assembly Line Tracker,THO850,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,ZIQ738,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,LTV094,Pool 60 Start
+10-Mar-17,STVMS Tracking Top Station,YAP829,Top Station
+10-Mar-17,U-BOLT,QZB271,Front U-Bolt
+10-Mar-17,Cab Call Scan,PMN417,B Line
+10-Mar-17,U-BOLT,QZB271,Rear U-Bolt
+10-Mar-17,Assembly Line Tracker,YAP829,Pool 60 Start
+10-Mar-17,STVMS Tracking Chassis Start,EZQ530,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,ARS065,Chassis Start
+10-Mar-17,Cab in white conveyer,EBM074,CIW upload
+10-Mar-17,Cab in white conveyer,ORS751,CIW upload
+10-Mar-17,OMT Offline Tracking,NKE126,Enter Offline
+10-Mar-17,OMT Offline Tracking,NKE126,Sold
+10-Mar-17,Hood Conveyor,SEK173,Hood Upload
+10-Mar-17,OMT Offline Tracking,FMU279,Enter Offline
+10-Mar-17,Cab Conveyer,QBR938,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,QBR938,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,LER634,Chassis Start
+10-Mar-17,Cab Conveyer,YBJ023,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,YBJ023,Cab Upload
+10-Mar-17,U-BOLT,FTI824,Front U-Bolt
+10-Mar-17,Paint Inspection,DJZ516,PAINT
+10-Mar-17,Cab in white conveyer,BYF840,CIW upload
+10-Mar-17,Hood Conveyor,TRJ645,Hood Upload
+10-Mar-17,U-BOLT,FTI824,Rear U-Bolt
+10-Mar-17,Cab Call Scan,JBC439,B Line
+10-Mar-17,OMT Offline Tracking,QMA357,Enter Offline
+10-Mar-17,Hood Conveyor,CSV482,Hood Upload
+10-Mar-17,Cab in white conveyer,ZJC386,CIW upload
+10-Mar-17,OMT Offline Tracking,ERC382,Enter Offline
+10-Mar-17,Assembly Line Tracker,LER634,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,MPO083,Pool 13 Start
+10-Mar-17,Cab call scan,MPE786,A Line
+10-Mar-17,U-BOLT,VCM016,Front U-Bolt
+10-Mar-17,Hood Conveyor,NHZ581,Hood Upload
+10-Mar-17,Cab Conveyer,UWT728,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,UWT728,Cab Upload
+10-Mar-17,Assembly Line Tracker,SPI314,Pool 13 Start
+10-Mar-17,Cab in white conveyer,EVZ013,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,SPI314,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,AGU058,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,QZH295,Chassis Start
+10-Mar-17,U-BOLT,VCM016,Rear U-Bolt
+10-Mar-17,Cab Conveyer,DPL397,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DPL397,Cab Upload
+10-Mar-17,U-BOLT,PJL425,Front U-Bolt
+10-Mar-17,Paint Inspection,SPF970,PAINT
+10-Mar-17,Hood Conveyor,YZU059,Hood Upload
+10-Mar-17,Cab Conveyer,ICB356,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ICB356,Cab Upload
+10-Mar-17,Cab in white conveyer,ZJK473,CIW upload
+10-Mar-17,Cab Call Scan,GSF615,B Line
+10-Mar-17,U-BOLT,PJL425,Rear U-Bolt
+10-Mar-17,Hood Conveyor,FZA809,Hood Upload
+10-Mar-17,Assembly Line Tracker,AGU058,Pool 13 Start
+10-Mar-17,OMT Offline Tracking,GQV369,Enter Offline
+10-Mar-17,U-BOLT,CMI143,Front U-Bolt
+10-Mar-17,Paint Inspection,JYZ708,PAINT
+10-Mar-17,Cab in white conveyer,QTI468,CIW upload
+10-Mar-17,Hood Conveyor,APZ612,Hood Upload
+10-Mar-17,OMT Offline Tracking,QZB271,Enter Offline
+10-Mar-17,U-BOLT,IOU412,Front U-Bolt
+10-Mar-17,Cab call scan,OWH831,A Line
+10-Mar-17,STVMS Tracking Chassis Start,SEK173,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,TRJ645,Chassis Start
+10-Mar-17,Cab Call Scan,SYA283,B Line
+10-Mar-17,Hood Conveyor,YWI795,Hood Upload
+10-Mar-17,Cab in white conveyer,MBG962,CIW upload
+10-Mar-17,Assembly Line Tracker,QZH295,Pool 13 Start
+10-Mar-17,Cab Conveyer,MPE786,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,MPE786,Cab Upload
+10-Mar-17,U-BOLT,IOU412,Rear U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,CSV482,Chassis Start
+10-Mar-17,OMT Offline Tracking,RHX208,Enter Offline
+10-Mar-17,OMT Offline Tracking,RHX208,Sold
+10-Mar-17,Cab in white conveyer,DKE275,CIW upload
+10-Mar-17,OMT Offline Tracking,YGL283,Enter Offline
+10-Mar-17,U-BOLT,FHU982,Front U-Bolt
+10-Mar-17,Hood Conveyor,EVB234,Hood Upload
+10-Mar-17,Cab Conveyer,JBC439,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JBC439,Cab Upload
+10-Mar-17,U-BOLT,FHU982,Rear U-Bolt
+10-Mar-17,Cab in white conveyer,WQS294,CIW upload
+10-Mar-17,Cab Call Scan,JKZ317,B Line
+10-Mar-17,STVMS Tracking Chassis Start,NHZ581,Chassis Start
+10-Mar-17,OMT Offline Tracking,NUX358,Enter Offline
+10-Mar-17,U-BOLT,YCR723,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,SEK173,Pool 13 Start
+10-Mar-17,Cab Conveyer,GSF615,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,GSF615,Cab Upload
+10-Mar-17,OMT Offline Tracking,WRT608,Enter Offline
+10-Mar-17,Hood Conveyor,QRM025,Hood Upload
+10-Mar-17,Cab in white conveyer,MUJ483,CIW upload
+10-Mar-17,Paint Inspection,VFX591,PAINT
+10-Mar-17,U-BOLT,YCR723,Rear U-Bolt
+10-Mar-17,Hood Conveyor,YCU023,Hood Upload
+10-Mar-17,U-BOLT,EBL860,Front U-Bolt
+10-Mar-17,Cab call scan,QPC953,A Line
+10-Mar-17,Cab in white conveyer,LES327,CIW upload
+10-Mar-17,Cab Conveyer,OWH831,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,OWH831,Cab Upload
+10-Mar-17,Hood Conveyor,QLV652,Hood Upload
+10-Mar-17,Cab Call Scan,ZKY831,B Line
+10-Mar-17,STVMS Tracking Chassis Start,YZU059,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,FZA809,Chassis Start
+10-Mar-17,U-BOLT,AHN391,Front U-Bolt
+10-Mar-17,Hood Conveyor,ADQ781,Hood Upload
+10-Mar-17,OMT Offline Tracking,BIP389,Enter Offline
+10-Mar-17,OMT Offline Tracking,BIP389,Sold
+10-Mar-17,Cab in white conveyer,RUK258,CIW upload
+10-Mar-17,Cab Conveyer,SYA283,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SYA283,Cab Upload
+10-Mar-17,U-BOLT,AHN391,Rear U-Bolt
+10-Mar-17,Assembly Line Tracker,CSV482,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,TRJ645,Pool 13 Start
+10-Mar-17,U-BOLT,KFN372,Front U-Bolt
+10-Mar-17,Hood Conveyor,EQD264,Hood Upload
+10-Mar-17,Cab call scan,PVZ436,A Line
+10-Mar-17,Paint Inspection,OQS570,PAINT
+10-Mar-17,Cab Call Scan,KNR831,B Line
+10-Mar-17,OMT Offline Tracking,GDR742,Enter Offline
+10-Mar-17,U-BOLT,KFN372,Rear U-Bolt
+10-Mar-17,U-BOLT,DPH631,Front U-Bolt
+10-Mar-17,Hood Conveyor,GJK683,Hood Upload
+10-Mar-17,Assembly Line Tracker,NHZ581,Pool 13 Start
+10-Mar-17,Cab in white conveyer,UZV267,CIW upload
+10-Mar-17,Cab Conveyer,QPC953,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,QPC953,Cab Upload
+10-Mar-17,Paint Inspection,DPA037,PAINT
+10-Mar-17,U-BOLT,DPH631,Rear U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,APZ612,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,YWI795,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,EVB234,Chassis Start
+10-Mar-17,Assembly Line Tracker,YZU059,Pool 13 Start
+10-Mar-17,Cab call scan,VFR160,A Line
+10-Mar-17,U-BOLT,MPO083,Front U-Bolt
+10-Mar-17,Hood Conveyor,HMS840,Hood Upload
+10-Mar-17,Cab Conveyer,PVZ436,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,PVZ436,Cab Upload
+10-Mar-17,Paint Inspection,EPR018,PAINT
+10-Mar-17,Hood Conveyor,RBT219,Hood Upload
+10-Mar-17,Cab in white conveyer,DIN812,CIW upload
+10-Mar-17,OMT Offline Tracking,SPA495,Enter Offline
+10-Mar-17,Assembly Line Tracker,FZA809,Pool 13 Start
+10-Mar-17,OMT Offline Tracking,RAI572,Enter Offline
+10-Mar-17,Cab Call Scan,SYV137,B Line
+10-Mar-17,Cab in white conveyer,LWM061,CIW upload
+10-Mar-17,Cab Conveyer,JKZ317,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JKZ317,Cab Upload
+10-Mar-17,U-BOLT,SPI314,Front U-Bolt
+10-Mar-17,Hood Conveyor,YXF326,Hood Upload
+10-Mar-17,Cab call scan,AYO527,A Line
+10-Mar-17,STVMS Tracking Chassis Start,QRM025,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,YCU023,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,QLV652,Chassis Start
+10-Mar-17,Paint Inspection,GLW381,PAINT
+10-Mar-17,Assembly Line Tracker,APZ612,Pool 13 Start
+10-Mar-17,Cab Conveyer,ZKY831,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ZKY831,Cab Upload
+10-Mar-17,Cab in white conveyer,XWS890,CIW upload
+10-Mar-17,OMT Offline Tracking,LTV094,Enter Offline
+10-Mar-17,U-BOLT,AGU058,Front U-Bolt
+10-Mar-17,Assembly Line Tracker,YWI795,Pool 13 Start
+10-Mar-17,U-BOLT,SPI314,Rear U-Bolt
+10-Mar-17,STVMS Tracking Top Station,AHN391,Top Station
+10-Mar-17,STVMS Tracking Top Station,YCR723,Top Station
+10-Mar-17,STVMS Tracking Top Station,KFN372,Top Station
+10-Mar-17,U-BOLT,AGU058,Rear U-Bolt
+10-Mar-17,STVMS Tracking Top Station,DPH631,Top Station
+10-Mar-17,Hood Conveyor,YKN950,Hood Upload
+10-Mar-17,STVMS Tracking Top Station,MPO083,Top Station
+10-Mar-17,Cab Call Scan,FTI824,B Line
+10-Mar-17,Cab Conveyer,VFR160,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,VFR160,Cab Upload
+10-Mar-17,STVMS Tracking Top Station,LER634,Top Station
+10-Mar-17,STVMS Tracking Top Station,SPI314,Top Station
+10-Mar-17,STVMS Tracking Top Station,AGU058,Top Station
+10-Mar-17,Assembly Line Tracker,AGU058,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,SPI314,Pool 60 Start
+10-Mar-17,STVMS Tracking Top Station,QZH295,Top Station
+10-Mar-17,Assembly Line Tracker,LER634,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,QZH295,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,MPO083,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,DPH631,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,KFN372,Pool 60 Start
+10-Mar-17,STVMS Tracking Top Station,SEK173,Top Station
+10-Mar-17,Assembly Line Tracker,YCR723,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,SEK173,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,AHN391,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,EVB234,Pool 13 Start
+10-Mar-17,STVMS Tracking Top Station,TRJ645,Top Station
+10-Mar-17,STVMS Tracking Top Station,CSV482,Top Station
+10-Mar-17,STVMS Tracking Top Station,NHZ581,Top Station
+10-Mar-17,STVMS Tracking Top Station,YZU059,Top Station
+10-Mar-17,STVMS Tracking Top Station,FZA809,Top Station
+10-Mar-17,STVMS Tracking Top Station,APZ612,Top Station
+10-Mar-17,STVMS Tracking Top Station,YWI795,Top Station
+10-Mar-17,STVMS Tracking Top Station,EVB234,Top Station
+10-Mar-17,STVMS Tracking Top Station,QRM025,Top Station
+10-Mar-17,Cab call scan,ZVI392,A Line
+10-Mar-17,Hood Conveyor,IXT460,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,ADQ781,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,EQD264,Chassis Start
+10-Mar-17,OMT Offline Tracking,ZIQ738,Enter Offline
+10-Mar-17,Assembly Line Tracker,QRM025,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,QRM025,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,EVB234,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,YWI795,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,APZ612,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,FZA809,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,YZU059,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,NHZ581,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,CSV482,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,TRJ645,Pool 60 Start
+10-Mar-17,Cab in white conveyer,HXS072,CIW upload
+10-Mar-17,Cab Conveyer,AYO527,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,AYO527,Cab Upload
+10-Mar-17,OMT Offline Tracking,YAP829,Enter Offline
+10-Mar-17,Hood Conveyor,SPF970,Hood Upload
+10-Mar-17,Hood Conveyor,JYZ708,Hood Upload
+10-Mar-17,U-BOLT,SEK173,Front U-Bolt
+10-Mar-17,Cab Conveyer,KNR831,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,KNR831,Cab Upload
+10-Mar-17,OMT Offline Tracking,THO850,Enter Offline
+10-Mar-17,OMT Offline Tracking,THO850,Sold
+10-Mar-17,Hood Conveyor,KLN307,Hood Upload
+10-Mar-17,Cab Call Scan,PJL425,B Line
+10-Mar-17,STVMS Tracking Chassis Start,GJK683,Chassis Start
+10-Mar-17,Cab call scan,LGO801,A Line
+10-Mar-17,Assembly Line Tracker,CMI143,Pool 13 Start
+10-Mar-17,Assembly Line Tracker,YCU023,Pool 13 Start
+10-Mar-17,U-BOLT,SEK173,Rear U-Bolt
+10-Mar-17,Hood Conveyor,VFX591,Hood Upload
+10-Mar-17,Cab in white conveyer,ZJU865,CIW upload
+10-Mar-17,U-BOLT,TRJ645,Front U-Bolt
+10-Mar-17,Cab Call Scan,ALE837,B Line
+10-Mar-17,Cab Conveyer,DJZ516,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DJZ516,Cab Upload
+10-Mar-17,Paint Inspection,DRY562,PAINT
+10-Mar-17,OMT Offline Tracking,AGU058,Enter Offline
+10-Mar-17,U-BOLT,JIN079,Rear U-Bolt
+10-Mar-17,Cab in white conveyer,DMV430,CIW upload
+10-Mar-17,Paint Inspection,MTV391,PAINT
+10-Mar-17,U-BOLT,JIN079,Front U-Bolt
+10-Mar-17,Hood Conveyor,CNE620,Hood Upload
+10-Mar-17,Cab Conveyer,SPF970,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SPF970,Cab Upload
+10-Mar-17,Cab Call Scan,DPA037,B Line
+10-Mar-17,OMT Offline Tracking,TRJ645,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,XPQ906,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,FWS327,Chassis Start
+10-Mar-17,U-BOLT,HCS198,Front U-Bolt
+10-Mar-17,Cab call scan,EPR018,A Line
+10-Mar-17,OMT Offline Tracking,QZH295,Enter Offline
+10-Mar-17,OMT Offline Tracking,QZH295,Sold
+10-Mar-17,Cab Conveyer,JYZ708,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JYZ708,Cab Upload
+10-Mar-17,Paint Inspection,NTD012,PAINT
+10-Mar-17,Cab in white conveyer,VFA941,CIW upload
+10-Mar-17,U-BOLT,TMU402,Front U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,UXJ427,Chassis Start
+10-Mar-17,Cab Conveyer,KLN307,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,KLN307,Cab Upload
+10-Mar-17,OMT Offline Tracking,NHZ581,Enter Offline
+10-Mar-17,Paint Inspection,IVC016,PAINT
+10-Mar-17,Hood Conveyor,DAJ581,Hood Upload
+10-Mar-17,Cab Conveyer,VFX591,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,VFX591,Cab Upload
+10-Mar-17,Cab in white conveyer,RSB867,CIW upload
+10-Mar-17,Cab call scan,FTI653,A Line
+10-Mar-17,Cab Conveyer,EPR018,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,EPR018,Cab Upload
+10-Mar-17,OMT Offline Tracking,CSV482,Enter Offline
+10-Mar-17,Cab Call Scan,OQS570,B Line
+10-Mar-17,Hood Conveyor,MTV391,Hood Upload
+10-Mar-17,Cab in white conveyer,ZHI138,CIW upload
+10-Mar-17,OMT Offline Tracking,FZA809,Enter Offline
+10-Mar-17,Cab Call Scan,KUR214,B Line
+10-Mar-17,U-BOLT,TBP914,Rear U-Bolt
+10-Mar-17,U-BOLT,EBM074,Front U-Bolt
+10-Mar-17,Hood Conveyor,DUT829,Hood Upload
+10-Mar-17,STVMS Tracking Chassis Start,CNE620,Chassis Start
+10-Mar-17,Cab in white conveyer,KJA254,CIW upload
+10-Mar-17,U-BOLT,TBP914,Front U-Bolt
+10-Mar-17,Hood Conveyor,PVO367,Hood Upload
+10-Mar-17,Cab call scan,ILA012,A Line
+10-Mar-17,Cab Conveyer,DPA037,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,DPA037,Cab Upload
+10-Mar-17,Hood Conveyor,JCV863,Hood Upload
+10-Mar-17,U-BOLT,XJI184,Front U-Bolt
+10-Mar-17,Hood Conveyor,DRY562,Hood Upload
+10-Mar-17,Paint Inspection,ETS067,PAINT
+10-Mar-17,Cab Conveyer,OQS570,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,OQS570,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,DAJ581,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,MTV391,Chassis Start
+10-Mar-17,U-BOLT,BJM584,Front U-Bolt
+10-Mar-17,Cab Call Scan,FQP941,B Line
+10-Mar-17,OMT Offline Tracking,ZPW452,Enter Offline
+10-Mar-17,Hood Conveyor,NTD012,Hood Upload
+10-Mar-17,OMT Offline Tracking,YZU059,Enter Offline
+10-Mar-17,OMT Offline Tracking,YZU059,Sold
+10-Mar-17,Cab in white conveyer,ASE183,CIW upload
+10-Mar-17,Paint Inspection,QTF497,PAINT
+10-Mar-17,Cab Conveyer,FTI653,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,FTI653,Cab Upload
+10-Mar-17,Hood Conveyor,IVC016,Hood Upload
+10-Mar-17,OMT Offline Tracking,APZ612,Enter Offline
+10-Mar-17,OMT Offline Tracking,APZ612,Sold
+10-Mar-17,Cab in white conveyer,EYG192,CIW upload
+10-Mar-17,Hood Conveyor,HBM615,Hood Upload
+10-Mar-17,Paint Inspection,YKL719,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,DUT829,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,BJM584,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,XJI184,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,PVO367,Chassis Start
+10-Mar-17,Hood Conveyor,QTF497,Hood Upload
+10-Mar-17,OMT Offline Tracking,QRM025,Enter Offline
+10-Mar-17,U-BOLT,TEK452,Front U-Bolt
+10-Mar-17,Cab Conveyer,KUR214,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,KUR214,Cab Upload
+10-Mar-17,Cab in white conveyer,RKW079,CIW upload
+10-Mar-17,Paint Inspection,IMS267,PAINT
+10-Mar-17,Cab call scan,MAU864,A Line
+10-Mar-17,STVMS Tracking Chassis Start,JCV863,Chassis Start
+10-Mar-17,Cab Conveyer,ILA012,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,ILA012,Cab Upload
+10-Mar-17,Cab Call Scan,HQI892,B Line
+10-Mar-17,Paint Inspection,AQG261,PAINT
+10-Mar-17,Cab in white conveyer,VAF684,CIW upload
+10-Mar-17,Paint Inspection,KIA624,PAINT
+10-Mar-17,Cab in white conveyer,UVN439,CIW upload
+10-Mar-17,OMT Offline Tracking,YCU023,Enter Offline
+10-Mar-17,OMT Offline Tracking,YWI795,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,DRY562,Chassis Start
+10-Mar-17,Cab Call Scan,WBR310,B Line
+10-Mar-17,Cab Conveyer,FQP941,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,FQP941,Cab Upload
+10-Mar-17,U-BOLT,YBP783,Front U-Bolt
+10-Mar-17,Paint Inspection,YHP863,PAINT
+10-Mar-17,Cab in white conveyer,HGE901,CIW upload
+10-Mar-17,Cab call scan,LPU731,A Line
+10-Mar-17,STVMS Tracking Chassis Start,NTD012,Chassis Start
+10-Mar-17,OMT Offline Tracking,ADQ781,Enter Offline
+10-Mar-17,Hood Conveyor,AQG261,Hood Upload
+10-Mar-17,OMT Offline Tracking,EVB234,Enter Offline
+10-Mar-17,Cab in white conveyer,HGJ907,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,IVC016,Chassis Start
+10-Mar-17,Cab call scan,SFZ186,A Line
+10-Mar-17,Hood Conveyor,YKL719,Hood Upload
+10-Mar-17,Hood Conveyor,IMS267,Hood Upload
+10-Mar-17,Cab Conveyer,HQI892,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,HQI892,Cab Upload
+10-Mar-17,Cab in white conveyer,XVY745,CIW upload
+10-Mar-17,Cab Call Scan,XSZ543,B Line
+10-Mar-17,STVMS Tracking Chassis Start,HBM615,Chassis Start
+10-Mar-17,Hood Conveyor,KIA624,Hood Upload
+10-Mar-17,Cab Conveyer,MAU864,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,MAU864,Cab Upload
+10-Mar-17,Cab in white conveyer,GZO248,CIW upload
+10-Mar-17,Paint Inspection,SEU602,PAINT
+10-Mar-17,U-BOLT,GZC132,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,QLV652,Enter Offline
+10-Mar-17,STVMS Tracking Chassis Start,QTF497,Chassis Start
+10-Mar-17,Paint Inspection,EZV240,PAINT
+10-Mar-17,Cab Conveyer,LPU731,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,LPU731,Cab Upload
+10-Mar-17,U-BOLT,XPQ906,Front U-Bolt
+10-Mar-17,Cab call scan,PWR481,A Line
+10-Mar-17,Cab Call Scan,XGC043,B Line
+10-Mar-17,OMT Offline Tracking,GJK683,Enter Offline
+10-Mar-17,Hood Conveyor,YHP863,Hood Upload
+10-Mar-17,Cab Conveyer,WBR310,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,WBR310,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,AQG261,Chassis Start
+10-Mar-17,Paint Inspection,MGR987,PAINT
+10-Mar-17,Hood Conveyor,SEU602,Hood Upload
+10-Mar-17,U-BOLT,FWS327,Front U-Bolt
+10-Mar-17,Cab in white conveyer,WRD572,CIW upload
+10-Mar-17,Paint Inspection,HTV792,PAINT
+10-Mar-17,OMT Offline Tracking,YXF326,Enter Offline
+10-Mar-17,OMT Offline Tracking,YXF326,Sold
+10-Mar-17,Hood Conveyor,EZV240,Hood Upload
+10-Mar-17,Cab Conveyer,SFZ186,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,SFZ186,Cab Upload
+10-Mar-17,STVMS Tracking Chassis Start,YKL719,Chassis Start
+10-Mar-17,Cab call scan,JIN079,A Line
+10-Mar-17,U-BOLT,UXJ427,Front U-Bolt
+10-Mar-17,OMT Offline Tracking,EQD264,Enter Offline
+10-Mar-17,Cab in white conveyer,AYI236,CIW upload
+10-Mar-17,Paint Inspection,FPI264,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,IMS267,Chassis Start
+10-Mar-17,Cab Call Scan,HCS198,B Line
+10-Mar-17,Cab Conveyer,PWR481,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,PWR481,Cab Upload
+10-Mar-17,Cab in white conveyer,XGY538,CIW upload
+10-Mar-17,Paint Inspection,HXT823,PAINT
+10-Mar-17,Cab Call Scan,TBP914,B Line
+10-Mar-17,Cab Conveyer,XSZ543,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,XSZ543,Cab Upload
+10-Mar-17,Cab call scan,EBM074,A Line
+10-Mar-17,Cab in white conveyer,CUO034,CIW upload
+10-Mar-17,OMT Offline Tracking,IXT460,Enter Offline
+10-Mar-17,Cab Conveyer,XGC043,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,XGC043,Cab Upload
+10-Mar-17,Paint Inspection,CFO213,PAINT
+10-Mar-17,Hood Conveyor,MGR987,Hood Upload
+10-Mar-17,U-BOLT,DAJ581,Front U-Bolt
+10-Mar-17,STVMS Tracking Chassis Start,KIA624,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,YHP863,Chassis Start
+10-Mar-17,Cab in white conveyer,KZX314,CIW upload
+10-Mar-17,STVMS Tracking Top Station,GTO457,Top Station
+10-Mar-17,Hood Conveyor,HTV792,Hood Upload
+10-Mar-17,Paint Inspection,TXR569,PAINT
+10-Mar-17,OMT Offline Tracking,RBT219,Enter Offline
+10-Mar-17,OMT Offline Tracking,DJZ516,Enter Offline
+10-Mar-17,OMT Offline Tracking,HMS840,Enter Offline
+10-Mar-17,Cab Conveyer,JIN079,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,JIN079,Cab Upload
+10-Mar-17,STVMS Tracking Top Station,YBP783,Top Station
+10-Mar-17,STVMS Tracking Top Station,WBR310,Top Station
+10-Mar-17,STVMS Tracking Top Station,LPU731,Top Station
+10-Mar-17,Assembly Line Tracker,WBR310,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,LPU731,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,YBP783,Pool 60 Start
+10-Mar-17,STVMS Tracking Top Station,SFZ186,Top Station
+10-Mar-17,Assembly Line Tracker,GTO457,Pool 60 Start
+10-Mar-17,STVMS Tracking Top Station,XSZ543,Top Station
+10-Mar-17,STVMS Tracking Top Station,PWR481,Top Station
+10-Mar-17,STVMS Tracking Top Station,XGC043,Top Station
+10-Mar-17,Cab call scan,LOF143,A Line
+10-Mar-17,Cab in white conveyer,TBD951,CIW upload
+10-Mar-17,STVMS Tracking Top Station,JIN079,Top Station
+10-Mar-17,STVMS Tracking Top Station,HCS198,Top Station
+10-Mar-17,STVMS Tracking Top Station,TMU402,Top Station
+10-Mar-17,STVMS Tracking Top Station,EBM074,Top Station
+10-Mar-17,STVMS Tracking Top Station,TBP914,Top Station
+10-Mar-17,STVMS Tracking Top Station,YRW680,Top Station
+10-Mar-17,STVMS Tracking Top Station,TEK452,Top Station
+10-Mar-17,STVMS Tracking Top Station,ATG468,Top Station
+10-Mar-17,Hood Conveyor,HXT823,Hood Upload
+10-Mar-17,Assembly Line Tracker,ATG468,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,TEK452,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,YRW680,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,TBP914,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,EBM074,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,TMU402,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,HCS198,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,JIN079,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,XGC043,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,PWR481,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,XSZ543,Pool 60 Start
+10-Mar-17,Assembly Line Tracker,SFZ186,Pool 60 Start
+10-Mar-17,Paint Inspection,XET976,PAINT
+10-Mar-17,Cab Conveyer,HCS198,Cab Upload 2
+10-Mar-17,Cab Conveyor / Monorail,HCS198,Cab Upload
+10-Mar-17,OMT Offline Tracking,YKN950,Enter Offline
+10-Mar-17,U-BOLT,DUT829,Front U-Bolt
+10-Mar-17,Cab in white conveyer,DAM851,CIW upload
+10-Mar-17,STVMS Tracking Chassis Start,SEU602,Chassis Start
+10-Mar-17,STVMS Tracking Chassis Start,EZV240,Chassis Start
+10-Mar-17,Paint Inspection,BYF840,PAINT
+10-Mar-17,STVMS Tracking Chassis Start,WBS653,Chassis Start

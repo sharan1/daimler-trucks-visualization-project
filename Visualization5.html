@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<style>
+    .axis text {
+        font: 10px sans-serif;
+    }
+    
+    .axis line,
+    .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    
+    #stacked-bar-chart-1 {
+        margin-left: 100px;
+    }
+</style>
+
+<body>
+    <center>
+        <h1>Paint based issues</h1>
+        <h5>Number of paint issues on a particular date which are requires repaint or not.</h5>
+    </center>
+    <div id="stacked-bar-chart-1">
+    </div>
+    <div class="line">
+        <center>
+            <a href="Visualization4.html"><span class="fa fa-arrow-left fa-5x"></span></a>
+            <a href="ThankYou.html"><span class="fa fa-arrow-right fa-5x"></span></a>
+        </center>
+    </div>
+    <script src="//d3js.org/d3.v3.min.js"></script>
+    <script src='https://cdn.jsdelivr.net/lodash/4.17.2/lodash.min.js'></script>
+    <script>
+        var causes = ["REPAINT_REQ_INDC"];
+        var plots = ["yes", "no"];
+        var parseDate = d3.time.format("%d-%b-%y").parse;
+
+        var margin = {
+                top: 20,
+                right: 50,
+                bottom: 30,
+                left: 20
+            },
+            width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        var x = d3.scale.ordinal()
+            .rangeRoundBands([0, width]);
+
+        var y = d3.scale.linear()
+            .rangeRound([height, 0]);
+        var z = d3.scale.category10().range(["#00ff00", "#ff0000"]);
+
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom")
+            .tickFormat(function(d) {
+                var d1 = new Date(d);
+                return d3.time.format("%d-%m-%Y")(d1)
+            });
+
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .innerTickSize([1])
+            .orient("left");
+
+        var section = document.getElementById("stacked-bar-chart-1");
+        var svg = d3.select(section).append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+        function getCount(data, str) {
+            var count = 0;
+            data.forEach(function(element) {
+                if (element.REPAINT_REQ_INDC == str)
+                    count += 1;
+            });
+            return count;
+        }
+
+        d3.csv("data/paint.csv", type, function(error, data) {
+            //console.log(data);
+            if (error) throw error;
+            var dataGroup = d3.nest()
+                .key(function(d) {
+                    return d.TS_LOAD;
+                })
+                .rollup(function(v) {
+                    return {
+                        no: getCount(v, 'N'),
+                        yes: getCount(v, 'Y')
+                    }
+                })
+                .entries(data);
+
+            //            console.log(JSON.stringify(dataGroup));
+
+            var layers = d3.layout.stack()(plots.map(function(c) {
+                return dataGroup.map(function(d) {
+                    if (c == "no") {
+                        return {
+                            x: d.key,
+                            y: d.values.no,
+                        };
+                    } else {
+                        return {
+                            x: d.key,
+                            y: d.values.yes,
+                        };
+                    }
+                });
+            }));
+            //console.log(layers);
+            x.domain(layers[0].map(function(d) {
+                return d.x;
+            }));
+            y.domain([0, d3.max(layers[layers.length - 1], function(d) {
+                return d.y0 + d.y;
+            })]).nice();
+            var layer = svg.selectAll(".layer")
+                .data(layers)
+                .enter().append("g")
+                .attr("class", "layer")
+                .style("fill", function(d, i) {
+                    return z(i);
+                });
+
+            layer.selectAll("rect")
+                .data(function(d) {
+                    return d;
+                })
+                .enter().append("rect")
+                .attr("x", function(d) {
+                    return x(d.x) + 60;
+                })
+                .attr("y", function(d) {
+                    return y(d.y + d.y0);
+                })
+                .attr("height", function(d) {
+                    return y(d.y0) - y(d.y + d.y0);
+                })
+                .attr("width", 60);
+
+            svg.append("g")
+                .attr("class", "axis axis--y")
+                .attr("max-width", "100%")
+                .call(yAxis);
+
+            svg.append("text")
+                .attr("transform", "translate(" + margin.left + "," + (height / 4) + ") rotate(-90)") // text is drawn off the screen top left, move down and out and rotate
+                .attr("font-weight", "bold")
+                .text("No. of Paint Issues");
+
+            svg.append("g")
+                .attr("class", "axis axis--x")
+                .attr("transform", "translate(0," + height + ")")
+
+            .call(xAxis);
+
+            svg.append("text")
+                .attr("transform", "translate(" + width + "," + (height + margin.bottom) + ")")
+                .attr("font-weight", "bold")
+                .text("Date");
+        });
+
+        function type(d) {
+            d.TS_LOAD = parseDate(d.TS_LOAD.substring(0, 10));
+            return d;
+        }
+    </script>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<style>
+    .axis text {
+        font: 10px sans-serif;
+    }
+    
+    .axis line,
+    .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    
+    #stacked-bar-chart-2 {
+        margin-left: 100px;
+    }
+</style>
+
+<body>
+    <center>
+        <h1>Location based vehicle operations</h1>
+        <h5>Which operation has more number of vehicles being operated on a particular day.</h5>
+    </center>
+
+    <div id="stacked-bar-chart-2"></div>
+
+    <div class="line">
+        <center>
+            <a href="Visualization3.html"><span class="fa fa-arrow-left fa-5x"></span></a>
+            <a href="Visualization5.html"><span class="fa fa-arrow-right fa-5x"></span></a>
+        </center>
+    </div>
+    <script src="js/d3.v3.min.js"></script>
+    <script>
+        var causes = ["SYS_DESC"];
+        var plots = ["paint_inspection", "stvms_tracking_top_station", "assembly_line_tracker", "cab_call_scan", "cab_conveyer", "omt_offline_tracking", "u_bolt", "hood_conveyor", "stvms_tracking_chassis_start", "cab_conveyor_monorail", "cab_white_conveyer"];
+        var parseDate = d3.time.format("%d-%b-%y").parse;
+
+        var margin = {
+                top: 30,
+                right: 60,
+                bottom: 40,
+                left: 30
+            },
+            width = 860 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        var x = d3.scale.ordinal()
+            .rangeRoundBands([0, width]);
+
+        var y = d3.scale.linear()
+            .rangeRound([height, 0]);
+        var z = d3.scale.category10().range(["#ADD8E6", "#800080", "#A52A2A", "#FFA500", "#C0C0C0", "#808080", "#808000", "#FFFF00", "#FF00FF", "#00FF00", "#FF0000"]);
+
+        var xAxis = d3.svg.axis()
+            .scale(x)
+            .orient("bottom")
+            .tickFormat(function(d) {
+                var d1 = new Date(d);
+                return d3.time.format("%d-%m-%Y")(d1)
+            });
+
+        var yAxis = d3.svg.axis()
+            .scale(y)
+            .innerTickSize([1])
+            .orient("left");
+
+        var section = document.getElementById("stacked-bar-chart-2");
+        var svg = d3.select(section).append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+        function getCount(data, str) {
+            var count = 0;
+            data.forEach(function(element) {
+                if (element.SYS_DESC == str)
+                    count += 1;
+            });
+            return count;
+        }
+
+        d3.csv("data/location.csv", type, function(error, data) {
+
+            console.log(data);
+            if (error) throw error;
+            var dataGroup = d3.nest()
+                .key(function(d) {
+                    return d.TS_LOAD;
+                })
+                .rollup(function(v) {
+                    return {
+                        paint_inspection: getCount(v, "Paint Inspection"),
+                        stvms_tracking_top_station: getCount(v, "STVMS Tracking Top Station"),
+                        assembly_line_tracker: getCount(v, "Assembly Line Tracker"),
+                        cab_call_scan: getCount(v, "Cab call scan"),
+                        cab_conveyer: getCount(v, "Cab Conveyer"),
+                        omt_offline_tracking: getCount(v, "OMT Offline Tracking"),
+                        u_bolt: getCount(v, "U-BOLT"),
+                        hood_conveyor: getCount(v, "Hood Conveyor"),
+                        stvms_tracking_chassis_start: getCount(v, "STVMS Tracking Chassis Start"),
+                        cab_conveyor_monorail: getCount(v, "Cab Conveyor / Monorail"),
+                        cab_white_conveyer: getCount(v, "Cab in white conveyer"),
+
+                    }
+                })
+                .entries(data);
+            console.log(dataGroup);
+            //            console.log(JSON.stringify(dataGroup));
+            var layers = d3.layout.stack()(plots.map(function(c) {
+                return dataGroup.map(function(d) {
+                    switch (c) {
+                        case "paint_inspection":
+                            return {
+                                x: d.key,
+                                y: d.values.paint_inspection,
+                            };
+                            break;
+                        case "stvms_tracking_top_station":
+                            return {
+                                x: d.key,
+                                y: d.values.stvms_tracking_top_station,
+                            };
+                            break;
+                        case "assembly_line_tracker":
+                            return {
+                                x: d.key,
+                                y: d.values.assembly_line_tracker,
+                            };
+                            break;
+                        case "cab_call_scan":
+                            return {
+                                x: d.key,
+                                y: d.values.cab_call_scan,
+                            };
+                            break;
+                        case "cab_conveyer":
+                            return {
+                                x: d.key,
+                                y: d.values.cab_conveyer,
+                            };
+                            break;
+                        case "omt_offline_tracking":
+                            return {
+                                x: d.key,
+                                y: d.values.omt_offline_tracking,
+                            };
+                            break;
+                        case "u_bolt":
+                            return {
+                                x: d.key,
+                                y: d.values.u_bolt,
+                            };
+                            break;
+                        case "hood_conveyor":
+                            return {
+                                x: d.key,
+                                y: d.values.hood_conveyor,
+                            };
+                            break;
+                        case "stvms_tracking_chassis_start":
+                            return {
+                                x: d.key,
+                                y: d.values.stvms_tracking_chassis_start,
+                            };
+                            break;
+                        case "cab_conveyor_monorail":
+                            return {
+                                x: d.key,
+                                y: d.values.cab_conveyor_monorail,
+                            };
+                            break;
+                        case "cab_white_conveyer":
+                            return {
+                                x: d.key,
+                                y: d.values.cab_white_conveyer,
+                            };
+                            break;
+
+                    }
+                });
+            }));
+            //console.log(layers);
+            x.domain(layers[0].map(function(d) {
+                return d.x;
+            }));
+            y.domain([0, d3.max(layers[layers.length - 1], function(d) {
+                return d.y0 + d.y;
+            })]).nice();
+            var layer = svg.selectAll(".layer")
+                .data(layers)
+                .enter().append("g")
+                .attr("class", "layer")
+                .style("fill", function(d, i) {
+                    return z(i);
+                });
+
+            layer.selectAll("rect")
+                .data(function(d) {
+                    return d;
+                })
+                .enter().append("rect")
+                .attr("x", function(d) {
+                    return x(d.x) + 25;
+                })
+                .attr("y", function(d) {
+                    return y(d.y + d.y0);
+                })
+                .attr("height", function(d) {
+                    return y(d.y0) - y(d.y + d.y0);
+                })
+                .attr("width", 100);
+
+            svg.append("g")
+                .attr("class", "axis axis--y")
+                .attr("max-width", "100%")
+                .call(yAxis);
+
+            svg.append("text")
+                .attr("transform", "translate(" + margin.left + "," + (height / 4) + ") rotate(-90)") // text is drawn off the screen top left, move down and out and rotate
+                .attr("font-weight", "bold")
+                .text("No. of Issues");
+
+            svg.append("g")
+                .attr("class", "axis axis--x")
+                .attr("transform", "translate(0," + height + ")")
+
+            .call(xAxis);
+
+            svg.append("text")
+                .attr("transform", "translate(" + (width - margin.right) + "," + (height + margin.bottom) + ")")
+                .attr("font-weight", "bold")
+                .text("Date/Time");
+        });
+
+        function type(d) {
+            d.TS_LOAD = parseDate(d.TS_LOAD.substring(0, 10));
+            return d;
+        }
+    </script>
